@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: BAsic info about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a frnech engineer witha  Ph.D in computer science.
+I'm interested in lot of fields of computer science, mostly about computer vision, computer graphics, machine learning and database/big data.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My Ph.D was about inverse procedural street modelling, and was divided in roughly three parts : one part to generate/edit a street model in database (streetgen, using postgres/postgis), one part to deal with massive point cloud in database (point cloud server), and one otpimisation part to fit a street model to observations extracted from mobile mapping street images/point cloud.
 
-What else do you need?
+I like [to travel](http://www.laruevibre.org/) and gourmet food/drinks.
+I also like manual craft, such as leather craft and [wood working](http://remi-c.github.io/ultra_molkky/).
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
