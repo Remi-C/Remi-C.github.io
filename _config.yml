@@ -24,7 +24,7 @@ description: A simple website with information about me
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-#  Resources:
+  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://github.com/Remi-C"
