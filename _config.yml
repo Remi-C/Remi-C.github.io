@@ -24,6 +24,13 @@ description: A simple website with information about me
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  CV/Resume: 
+   - CV: "CV"
+   - Skills: "skills"
+  Research:
+   - research in a nutshell: "research_short"
+   - publications: "publi"
+   - research interest: "research_interest"
   Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
