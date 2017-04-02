@@ -4,6 +4,14 @@ title: Research publications
 subtitle: Description of main publications
 use-site-title: true
 --- 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
 <div class="posts-list">
   {% for post in paginator.posts %}

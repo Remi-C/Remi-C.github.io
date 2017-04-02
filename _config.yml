@@ -29,7 +29,7 @@ navbar-links:
    - Skills: "skills"
   Research:
    - research in a nutshell: "research_short"
-   - publications: "publi_temp"
+   - publications: "publi"
    - research interest: "research_interest"
   Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
