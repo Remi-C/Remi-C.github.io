@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ultimately functionnal cutting board
-subtitle: A redisign classic cutting board for ultimate functionnality and durability
+title: Ultra Molkky
+subtitle: A redisign of the classic molkky game for more challenge and more style
 tags: [woodworking, project]
 bigimg: /img/woodworking/molkky_banner.png
 ---
