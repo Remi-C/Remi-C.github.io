@@ -21,4 +21,7 @@ bigimg: /img/historical_geocoding_abstract.png
 ![Leather working (embossing)](/img/woodworking/leather.jpg)
  
 ![Turning spinning top in onion form](/img/woodworking/sting_fish.jpg)
+
+![Leather working (embossing)](/img/woodworking/sac_combo.jpg)
+
  
