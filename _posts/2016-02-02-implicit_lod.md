@@ -52,8 +52,14 @@ occupancy of the cells across the levels.
 We compare this descriptor with the state of the art dimensionality descriptor and
 show its interest. We further test the descriptor for classification wihtin the Point Cloud
 Server (Cura, 2016), and demonstrate efficiency and correct results.
+
+
 ## Download link
-The most recent version of the article is composed by the Chap. 2 of the thesis
-[Chap2 of the thesis](https://github.com/Remi-C/inverse_procedural_street_modelling)
-[Pdf of article](/_collection/Cura_2016_Pointcloud_server_journal.pdf)
-[article on researchgate](https://www.researchgate.net/publication/305363715_A_scalable_and_multi-purpose_point_cloud_server_PCS_for_easier_and_faster_point_cloud_data_management_and_processing?ev=srch_pub)
+The most recent version of the articles are in fact the Apppendix A and B of the thesis.
+[Appendix A and B of the thesis](https://github.com/Remi-C/inverse_procedural_street_modelling)
+
+
+[article not split on arxiv](https://arxiv.org/abs/1602.06920)
+
+
+[article not split on researchgate](https://www.researchgate.net/publication/296702210_Implicit_LOD_for_Processing_Visualisation_and_Classification_in_Point_Cloud_Servers)
