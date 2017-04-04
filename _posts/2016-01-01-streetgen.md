@@ -2,7 +2,7 @@
 layout: post
 title: StreetGen
 subtitle: an in-base tool for street modelling
-bigimg: /img/logo_streetgen_HQ.png
+bigimg: /img/re/logo_streetgen_HQ.png
 tags: [research, publications]
 category: research
 ---
@@ -12,7 +12,9 @@ Everything (base data, method, resulting street model) is contained within a dat
 
 ## Abstract
 
-![StreetGen Graphical abstract](/img/re/streetgen_graphical_abstract.png){:class="img-responsive"}
+** Procedural modelling of streets**
+
+![StreetGen Graphical abstract](/img/re/streetgen_graphical_abstract.png)
 
 Streets are large, diverse, and used for several (and possibly conflicting) transport
 modalities as well as social and cultural activities. Proper planning is essential and requires
