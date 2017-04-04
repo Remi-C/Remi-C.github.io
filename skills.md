@@ -13,7 +13,7 @@ I'm used to working in projects from large (several companies, my PhD) to small 
 
 
 ## Graphical design
-I'm a strong supported of graphical communication.
+I'm a strong supporter of graphical communication.
 I find illustrations extremely usefull to communicate ideas (no artistic pretention!).
 As such, my thesis manuscript and other projects are full of illustrations.
 I like vector software (Illustrator, inkscape), pixel based software (photoshop,paint.net), and video (Premiere), although it takes such a long time to get a decent result.
