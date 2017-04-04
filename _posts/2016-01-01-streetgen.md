@@ -9,7 +9,9 @@ category: research
 
 StreetGen is the method that was developped during the PhD to generate a street model including the road, the traffic information, and the street objects.
 Everything (base data, method, resulting street model) is contained within a database, which make it scale nicely and allow concurrent interactive editing.
+
 ## Abstract
+
 ![StreetGen Graphical abstract](/im/re/streetgen_graphical_abstract.png)
 
 Streets are large, diverse, and used for several (and possibly conflicting) transport
@@ -33,3 +35,4 @@ simulation.
 ## Download link
 [The thesis manuscript, chap.3 ](https://github.com/Remi-C/inverse_procedural_street_modelling)
 [the conference paper (very short)](/_collection/Cura_2015_StreetGen.pdf) 
+[Link to researchgate](https://www.researchgate.net/publication/283184997_STREETGEN_IN-BASE_PROCEDURAL-BASED_ROAD_GENERATION)
