@@ -23,7 +23,6 @@ description: A simple website with information about me
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   CV/Resume: 
    - CV: "CV"
    - Skills: "skills"
