@@ -4,12 +4,17 @@ title: Rémi Cura simple website
 subtitle: Some info about me
 ---
 
-I'm a french engineer with a  Ph.D in computer science.
-I'm interested in lot of fields of computer science, mostly about computer vision, computer graphics, machine learning and database/big data.
+I'm a french engineer (Science and Technology of Telecommunication) with a Ph.D in computer science applied to Geographical Information.
+I'm interested in [lots of fields](./research_interest) of computer science, mostly about computer vision, computer graphics, machine learning and database/big data, and remote sensing.
 
-My [Ph.D](https://github.com/Remi-C/inverse_procedural_street_modelling) was about inverse procedural street modelling, and was divided in roughly three parts : one part to generate/edit a street model in database ([streetgen](http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3-W5/409/2015/isprsannals-II-3-W5-409-2015.pdf) ([videos](https://www.youtube.com/channel/UCn4KJ6gBgPuVQV3suF4QbjQ)), using postgres/postgis), one part to deal with massive point cloud in database ([point cloud server](http://www.sciencedirect.com/science/article/pii/S092427161630123X), [implicit Level Of Detail](http://arxiv.org/abs/1602.06920)), and one optimisation part to fit a street model to observations extracted from mobile mapping street images/point cloud.
 
-I like [to travel](http://www.laruevibre.org/) and gourmet food/drinks.
-I also like manual craft, such as leather craft and wood working.
+My [research work](./publi) involve a PhD and [a postdoc]({{ site.baseurl }}{% post_url 2017-01-01-historical_geocoding %}) so far.
+My [Ph.D]({{ site.baseurl }}{% post_url 2016-09-12-Inverse_procedural_street_modelling %}) was about inverse procedural street modelling, and was divided in roughly three parts : 
+ * one part to generate/edit a street model in database ([streetgen]({{ site.baseurl }}{% post_url 2016-01-01-streetgen %}) ([videos](https://www.youtube.com/channel/UCn4KJ6gBgPuVQV3suF4QbjQ)), using postgres/postgis)    
+ *  one part to deal with massive point cloud in database ([Point Cloud Server]({{ site.baseurl }}{% post_url 2016-02-01-point_cloud_server.md %}), [Implicit LOD]({{ site.baseurl }}{% post_url 2016-02-02-implicit_lod %})
+ * and one optimisation part to fit a street model to observations extracted from mobile mapping street images/point cloud (chap. 5 in thesis).
+
+I like [to travel](http://www.laruevibre.org/?lang=en) and gourmet food/drinks.
+I also like manual craft, such as [leather craft and wood working](./woodworking_projects).
 
 
