@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Woodworking projects
-subtitle: Some of my major woodworking projects
+subtitle: Some of my woodworking projects
 ---
 
-put here list of post concerning woodworking
 
 
 <div class="posts-list">
