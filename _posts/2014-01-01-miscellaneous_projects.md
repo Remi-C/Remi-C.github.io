@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Miscelanious Projects
+title: Miscellaneous Projects
 subtitle: Many small projects involving handicraft
 tags: [woodworking, misc]
 category: woodworking
