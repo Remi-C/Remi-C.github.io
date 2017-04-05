@@ -27,9 +27,9 @@ navbar-links:
    - CV: "CV"
    - Skills: "skills"
   Research:
-   - research in a nutshell: "research_short"
-   - publications: "publi"
    - research interest: "research_interest"
+   - publications: "publi"
+
   Woodworking:
    - Design philosophy: "design_philosophy"
    - Wood working projects: "woodworking_projects"
