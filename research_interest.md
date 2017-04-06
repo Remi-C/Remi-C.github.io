@@ -36,7 +36,7 @@ At one end the way points are modelled in the Point Cloud Server for instance is
 ## Remote sensing
 I worked 3 years in the french mapping agency using mobile mapping data. 
 I really like remote sensing, as this research field mixes massive amount of data and a no-bullshit approach.
-Wathever the proposed method, it must really work, not only to write a paper about it.
+Wathever the proposed method, it must really work, not just enough to write a paper about it.
 
 Furthermore, remote sensing research tend to be really close to the hardware used (Lidar, camera, GPS, etc.),
 which make the field deeply rooted in engeenering and physics.
@@ -54,12 +54,51 @@ Database presents lots of challenge, of course regarding architecture (cf modell
 but also regarding perfomance, indexing, etc.
 
 ## Big data / scaling
-Distributed 
-parallelised
-acceleration structure
-## Digital Humanities
-## Image processing
-## Robotics
-## Procedural furniture / guided design
-## Smart vehicle 
+I faced very soon big data issue regarding point cloud management.
+Simple, trivial tasks (reading, writing, storing, processing, visualising) become extremely hard when the ammount of data is massive.
+Besides an interesting sobering effect about precariousness of computer science, this leads to serious challenges.
+I tried both scaling approaches (parallelising and distributing).
+At the heart of scaling is the indexing system, and that is another interesting topic,
+as indexing is in spirit very similar to compressing, which is dimension reduction (aka clustering).
 
+## Digital Humanities
+My thesis superviser works often in the Digital Humanities, and I had the chance to work as a postdoc in the field.
+I really like this research domain, because of the end goal, which is to have better understanding of historical processes,
+and because of the data, which is a neightmare for computers, because it is so fuzzy!
+Everything is fuzzy, the text may have been mispelled, misread, (etc.). 
+The temporal aspect is highly fuzzy because we can't be sure of the precise time associated to documents/facts the documents are describing. 
+The spatial aspect is also fuzzy, because historical maps may have mistake, wsrong georeferencing, etc.
+
+## Image processing
+I chose image processing (and computer graphics + UX) in engeenering school.
+This research domain is at the same time funny (sometimes is feels like trying to make a recipe for cooking) and deeply rooted in mathematics and human perception.
+The variety of data of image type is also interesting, especially since the 3D+Z data became so available (kinect).
+
+## Robotics
+Robotics and mobile mapping research fields have a lot in common.
+Both pay attention to hardware, are directed toward robust and working solution, and are interested in understanding the surroundings, which I likes.
+Robotics is also abount making decision, triggering actions, and more recently Artificial inteligence, although I'm less familiar with these.
+Recently the community has been developping an interesting tool (ROS) that I'd like to work with.
+
+## Digital fabrication
+I have a strong interest in digital fabrication. 
+The tools (3D printer, laser cutter, CNC) are not new,what is new is their availability and low price.
+These tools seems to have great potential, especially when they'll start to use compter vision/graphics methods to work more robustly, more precisely, and in non-controlled environments.
+I'm also interested in those from a design point of view.
+
+In my opinion, the digital fabrication represents an opportunity not for direct product manufacturing, 
+but to create templates and helpers to facilitate manufacturing.
+
+## Procedural furniture / guided design
+I read several appers about guided design and procedural furniture modelling.
+I found these extremely interesting, as a way to simplify access to design, and increase the quality of designed objects.
+For instance having a design software that checks in real time that the objects is mechanically sound, or that it can be assembled/disassembled.
+From a research perspective, these are extremely challenging, mixing real time simulation and optimisation and visualisation, 
+and high level modelling!
+
+## Smart vehicle 
+I spent most of my PhD time to reconstruct streets and roads with a precision of 10cm.
+Besides the road, I also  used reconstruction methods for markings, street furnitures (traffic light, traffic signs, etc.).
+The connexion with autonomous vehicle is obvious.
+Indeed, autonomous vehciles main problems are understanding the surroundings, and taking decisions about it.
+Both these problemes are greatlly simplified with a precise and up to date street model !
