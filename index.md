@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rémi Cura simple website
-subtitle: Some info about me
+subtitle: About my research and woodworkin projects.
 ---
 
 I'm a french engineer (Science and Technology of Telecommunication) with a Ph.D in computer science applied to Geographical Information.
