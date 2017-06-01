@@ -3,7 +3,7 @@ layout: page
 title: Woodworking projects
 subtitle: Some of my woodworking projects
 ---
-
+![estampille rc](/img/logo/logo_rc_export.svg)
 
 
 <div class="posts-list">

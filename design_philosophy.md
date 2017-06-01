@@ -2,6 +2,7 @@
 layout: page
 title: My woodworking design philosophy
 ---
+![estampille rc](/img/logo/logo_rc_export.svg)
 
 Of course I'm not a designer, however after several woodworking projects,
 I started to think to the common points in my approaches.

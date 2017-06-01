@@ -3,8 +3,8 @@ layout: page
 title: Design projects
 subtitle: Some of my design projects
 ---
+![estampille rc](/img/logo/logo_rc_export.svg)
 
-Here is a list of my design projects.
 
 <div class="posts-list">
   {% for post in site.posts %}
