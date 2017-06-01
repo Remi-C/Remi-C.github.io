@@ -6,6 +6,9 @@ tags: [woodworking, design, project]
 category: design
 bigimg: /img/woodworking/mur_incline/010_mur_pour_helene.jpeg
 ---
+Here is the partial result of the project, built by my friend Hélène.
+![image](/img/woodworking/mur_incline/200_resultat_mur_pour_helene.jpg)
+
 
 This project is an exercice in design according to the methodology of Karine Mazeau (Design Mobilier).
 
