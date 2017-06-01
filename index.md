@@ -31,4 +31,4 @@ In general, I like manual activities, especially manual craft, such as [leather 
 
 More generally I'm very interested in building things, both manually and digitally (graphism, 3D printing, CNC, etc.) (see my [skills](./skills) and my [resume](./CV) )
 
-My [![logo](./img/logo/logo_rc.png)](./img/logo/logo_rc.svg) is insipired by traditionnal french cabinet builder estampille (stamp).
+My logo [![logo](./img/logo/logo_rc.png)](./img/logo/logo_rc.svg) is insipired by traditionnal french cabinet builder estampille (stamp).
