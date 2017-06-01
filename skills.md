@@ -10,6 +10,7 @@ and I find it more effective to be conducted in person/on the phone,
 although all of my open source involvement was by email.
 
 I'm used to working in projects from large (several companies, my PhD) to small team (most of my research projects), to one person project (most of my woodworking projects).
+I'm also used to be a freelancer (consulting and training), and as such adapting fast to my client business context.
 
 
 ## Graphical design
@@ -35,6 +36,8 @@ My recent PostDoc also had a significant web-based part.
 I shared my PhD time between 2 academic laboratories and a company, which is already much, as such I could'nt teach during these years.
 I enjoy giving talks/lectures, especially when I can rely on well illustrated slides.
 I was oral examiner in mathematics for two years.
+More recently I started a side activity of consulting and training (as a freelance).
+I've really enjoyed training, as beside the obvious, you goal is also to understand quickly your "student" working context and knowledge.
 
 ## Technical skills
 I have well rounded skills for computer, with good understanding of hardware, using several langages (C, C++, Python, R, SQL), working with distant server and virtual boxes, using both windows and Linux.
