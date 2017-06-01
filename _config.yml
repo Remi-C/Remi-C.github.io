@@ -29,6 +29,7 @@ navbar-links:
   Research:
    - research interest: "research_interest"
    - publications: "publi"
+   - Consulting and Training: "consulting_and_training"
 
   Woodworking:
    - Design philosophy: "design_philosophy"
