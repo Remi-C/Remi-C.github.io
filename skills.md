@@ -4,7 +4,7 @@ title: skills
 subtitle: A short skills description
 ---
 See my [CV/Resume](../CV) for more details about my experiences and education,
-beside my [consulting and training](../consulting_and_training) activities.
+beside my [research interests](../research_interest), [publications](../publi), and [consulting and training](../consulting_and_training) activities.
 I also train unformaly in [Design](../design_philosophy) 
 and [Woodworking](../woodworking_projects).
 

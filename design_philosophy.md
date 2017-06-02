@@ -7,6 +7,8 @@ title: My woodworking design philosophy
 Of course I'm not a designer, however after several woodworking projects,
 I started to think to the common points in my approaches.
 
+This shows in my [design projects](../design_projects) and [woodworking projects](../woodworking_projects).
+
 # Durabilism (Durabilisme)#
 I think of my approach as **Durabilism**, that is the design of an object that will be used for a long time.
 This stems from the idea that objects represent an accumulation of work and knowledge that goes back to the beginning of Mankind.
