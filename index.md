@@ -3,7 +3,7 @@ layout: page
 title: Rémi Cura simple website
 subtitle: About my research and woodworking projects.
 ---
-![estampille rc](/img/logo/logo_rc_export.svg)
+
 
 I'm a french engineer (Science and Technology of Telecommunication) with a Ph.D in computer science applied to Geographical Information.
 I'm interested in [lots of fields](./research_interest) of computer science, mostly about computer vision, computer graphics, machine learning and database/big data, remote sensing and digital humanities.
@@ -17,9 +17,10 @@ My [Ph.D]({{ site.baseurl }}{% post_url 2016-09-12-Inverse_procedural_street_mod
  -  one part to deal with massive point cloud in database [Point Cloud Server]({{ site.baseurl }}{% post_url 2016-02-01-point_cloud_server %}) and [Implicit LOD]({{ site.baseurl }}{% post_url 2016-02-02-implicit_lod %}) .
  - and one optimisation part to fit a street model to observations extracted from mobile mapping street images/point cloud (chap. 5 in thesis).
  
- I started freelance [consulting and training](./consulting_and_training) on subjects related to my PhD.
+I started freelance [consulting and training](./consulting_and_training) on subjects related to my PhD.
  
- 
+![estampille rc](/img/logo/logo_rc_export.svg)
+
 I like [to travel](http://www.laruevibre.org/?lang=en) and gourmet food/drinks.
 
 I have a strong interest in [design](./design_philosophy), and I'm trying to improve my abilities to conduct [design projects](design_projects).
