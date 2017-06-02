@@ -40,7 +40,7 @@ My recent PostDoc also had a significant web-based part.
 I shared my PhD time between 2 academic laboratories and a company, which is already much, as such I could'nt teach during these years.
 I enjoy giving talks/lectures, especially when I can rely on well illustrated slides.
 I was oral examiner in mathematics for two years.
-More recently I started a side activity of consulting and training (as a freelance).
+More recently I started a side activity of [consulting and training](../consulting_and_training) (as a freelance).
 I've really enjoyed training, as beside the obvious, you goal is also to understand quickly your "student" working context and knowledge.
 
 ## Technical skills
@@ -49,7 +49,9 @@ I used ot write scripts (bash), but nowadays I tend to favor python.
 Git is used for all my projects, latex for all the articles.
 
 ## Handicraft skills
-I have some experience in designing (especially the problem solving) and 3D modelling.
-Regarding woodworking I have experience with all the major tools of a woodshop (band saw, table saw, tbale router, planner, etc.).
+I have some experience in [designing](../design_philosophy) (with several [design projects](../design_projects)) and 3D modelling.
+Regarding [woodworking](../woodworking_projects) I have experience with all the major tools of a woodshop (band saw, table saw, table router, planner, etc.).
 I especially like hand tools such as chisel and hand planes. 
 I'm used to restore old tools using a variety of sharpening stones (both synthetic and natural).
+I also follow numerical tools (3D printer, CNC), as I think they have great potential to help the manufacturing process (not printing wood, but printing template that will be used to work on wood).
+I see these as meta-tools.
