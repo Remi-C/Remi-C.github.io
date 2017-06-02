@@ -4,6 +4,8 @@ title: skills
 subtitle: A short skills description
 ---
 See my [CV/Resume](./CV) for more details about my experiences and education.
+I also like [Design](./design_philosophy) 
+and [Woodworking](./woodworking_projects)
 
 ## Organising
 In general I like well organised work (following Agile philosophy for instance),
