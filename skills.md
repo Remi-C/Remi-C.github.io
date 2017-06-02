@@ -3,6 +3,7 @@ layout: page
 title: skills
 subtitle: A short skills description
 ---
+See my [CV/Resume](./CV) for more details about my experiences and education.
 
 ## Organising
 In general I like well organised work (following Agile philosophy for instance),
