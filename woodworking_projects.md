@@ -5,9 +5,9 @@ subtitle: Some of my woodworking projects
 ---
 ![estampille rc](/img/logo/logo_rc_export.svg)
 
-My woodworking projects are linked to my <a href="{{ site.baseurl }}/design_philosophy/"> design philosophy </a> (and my other <a href="{{ site.baseurl }}/design_projects/"> design projects </a>)
+My woodworking projects are linked to my [design philosophy](../design_philosophy) and my other [design projects](../design_projects.
 
-I try to blend several of my <a href="{{ site.baseurl }}/skills/"> skills </a> when working on a project,
+I try to blend several of my [skills](../skills) when working on a project,
 as it is often interesting to mix approaches.
 
 <div class="posts-list">
