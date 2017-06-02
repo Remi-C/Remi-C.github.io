@@ -6,7 +6,7 @@ subtitle: Some of my design projects
 ![estampille rc](/img/logo/logo_rc_export.svg)
 
 
-My design projects are linked to my [design philosophy](../design_philosophy) and my other [woodworking projects](../woodworking_projects.
+My design projects are linked to my [design philosophy](../design_philosophy) and my other [woodworking projects](../woodworking_projects).
 
 I try to blend several of my [skills](../skills) when working on a project,
 as it is often interesting to mix approaches.
