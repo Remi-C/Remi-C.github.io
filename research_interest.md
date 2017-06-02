@@ -5,7 +5,7 @@ subtitle: A short description of my research interests
 ---
 
 I'm quite curious and have wide spanning intellectual interests. As such it is no surprise that 
-I touched lots of [research subjects](../publi) during my education, [my hobbies](../design_philosophy) and during my working life (such as [consulting and training](../consulting_and_training), see my [CV/Resume](CV) and [skills](../skills) for more details).
+I touched lots of [research subjects](../publi) during my education, [my hobbies](../design_philosophy) and during my working life (such as [consulting and training](../consulting_and_training), see my [CV/Resume](../CV) and [skills](../skills) for more details).
 
 I'd say that the common points are that I like *tangible/graphical* subjects,
 and that I put great importancy on *data*.
@@ -98,7 +98,7 @@ and high level modelling!
 Of course this is connected to my interest for [design](../design_philosophy), [design projects](../design_projects) and [woodworking](../woodworking_projects).
 
 ## Smart vehicle 
-I spent most of my [PhD]({{ site.baseurl }}{% post_url 2016-09-12-Inverse_procedural_street_modelling %})] time to reconstruct streets and roads with a precision of 10cm.
+I spent most of my [PhD]({{ site.baseurl }}{% post_url 2016-09-12-Inverse_procedural_street_modelling %}) time to reconstruct streets and roads with a precision of 10cm.
 Besides the road, I also  used reconstruction methods for markings, street furnitures (traffic light, traffic signs, etc.).
 The connexion with autonomous vehicle is obvious.
 Indeed, autonomous vehciles main problems are understanding the surroundings, and taking decisions about it.
