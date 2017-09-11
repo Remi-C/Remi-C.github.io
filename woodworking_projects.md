@@ -34,9 +34,8 @@ put here list of post concerning woodworking
 		  </div>
 		  {% endif %}
 		  <div class="post-entry">
-			{{ post.excerpt }}
+				{{ post.excerpt }} 
 			  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-			{% endif %}
 		  </div>
 		</div>
 
