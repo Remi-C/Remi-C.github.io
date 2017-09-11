@@ -3,6 +3,7 @@ layout: post
 title: Ultimately functionnal cutting board
 subtitle: A redisign classic cutting board for ultimate functionnality and durability
 tags: [woodworking, project]
+category: woodworking
 bigimg: /img/woodworking/cutting_board_banner.png
 ---
 A project to improve the cutting board so it becomes utlimately functionnal and durable.

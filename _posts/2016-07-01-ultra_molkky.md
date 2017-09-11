@@ -3,6 +3,7 @@ layout: post
 title: Ultra Molkky
 subtitle: A redisign of the classic molkky game for more challenge and more style
 tags: [woodworking, project]
+category: woodworking
 bigimg: /img/woodworking/molkky_banner.png
 ---
 A project to re-design the molkky game so ti becomes harder and more stylish.

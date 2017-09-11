@@ -3,6 +3,7 @@ layout: post
 title: Miscelanious Projects
 subtitle: Many small projects involving handicraft
 tags: [woodworking, misc]
+category: woodworking
 bigimg: /img/woodworking/hand_plane.jpg
 ---
  

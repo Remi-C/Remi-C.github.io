@@ -3,6 +3,7 @@ layout: post
 title: A modern captain bed
 subtitle: A redisign of nautical captain bed toward modernity and functionnality
 tags: [woodworking, project]
+category: woodworking
 bigimg: /img/woodworking/bed_banner.png
 ---
 A project ot re-design the classical nautical captain bed to adapt it to modern appartment and requierements.
