@@ -1,32 +1,27 @@
 ﻿---
 layout: page
 title: Anniversaire suprise d Antoine N
-subtitle: info pratique pour le we en gite et l organisation
 ---
-
-
+# Anniversaire suprise d Antoine N#
 ![whaaat](/img/birthday/whaaat.jpg)
 
 
 # Quoi #
-
 On fête l'anniversaire surprise d'Antoine =)
 
-# Quand #
 
+# Quand #
 Du Vendredi 27 (18h) au Dimanche 29 Octobre 2017
 
-# Où #
 
+# Où #
 ![gite](/img/birthday/gite.jpg)
 Gite du [Colombier](http://www.lecolombier77.com/index.php), 30 couchages,
 Lieu dit Certigny, 17 Rue de l'Amandière, 77840 Coulombs-en-Valois
 (20 min après Meaux, direction W)
 
 
-
 # Ce que vous devez faire #
-
 todo : 
  - confirmer à Marie vos jours de présence et à combien (marie_attard@hotmail.fr)
  - apporter un duvet
@@ -36,7 +31,6 @@ todo :
 
  
 # Planning #
-
 Repas : 
  - Vendredi soir : soirée _*fondue*_
  - Samedi midi-ish : cochon de lait à la broche
@@ -45,29 +39,29 @@ Repas :
 
 
 # Pour aider #
-
 pour tout : 
  - Marie : marie_attard@hotmail.fr  |  06 08 05 06 59
-
- 
 Repas et boissons, troll
  - Rémi : remi.cura@gmail.com  |  06 63 00 89 15
 
- 
- # Cadeau #
+
+# Cadeau #
 Une idée de cadeau ?
 
-# Orga #
-## Boissons ##
 
+# Orga #
+
+
+## Boissons ##
 tireuse à bière:
  - version tcheque sans gaz?
  - devis [chop'in](http://www.chop-in.beer) en cours. 
- 
- 
-## repas ##
-### Fondue ###
 
+
+## repas ##
+
+
+### Fondue ###
 ![fondue](/img/birthday/fondue.jpg)
 recap
  - Besoin des appareils des invités.
@@ -75,11 +69,15 @@ recap
  - Charcuterie groupé avec commande saucisson
  - précuisson des patates par Marie et Rémi
 
- 
+
 ### cochon ###
 ![cochon](/img/birthday/mechoui.jpg)
+
+
+
 Prévu par le propriétaire. Prix pas encore connu. Accompagné de patates + salade.
 Il fera précuire.
+
 
 ### Quiches/... ###
 Attention un seul four et 2 plaques :
@@ -87,9 +85,8 @@ Attention un seul four et 2 plaques :
  - Pas de BBQ.
  
  Demander aux gens d'apporter/cuisiner sur place.
- 
- 
- 
+
+
 ## couchage ##
  - Max gite = 30 personnes --> Besoins de tentes? --> il risque de faire froid.
  - repartition des chambres?
