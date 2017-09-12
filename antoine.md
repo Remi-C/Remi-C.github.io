@@ -20,6 +20,10 @@ Gite du [Colombier](http://www.lecolombier77.com/index.php), 30 couchages,
 Lieu dit Certigny, 17 Rue de l'Amandière, 77840 Coulombs-en-Valois
 (20 min après Meaux, direction W)
 
+# Qui #
+Vendredi : 18
+Samedi : 27
+Dimanche : 27
 
 # Ce que vous devez faire #
 todo : 
