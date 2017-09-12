@@ -24,10 +24,16 @@ Lieu dit Certigny, 17 Rue de l'Amandière, 77840 Coulombs-en-Valois
 # Ce que vous devez faire #
 todo : 
  - confirmer à Marie vos jours de présence et à combien (marie_attard@hotmail.fr)
- - apporter un duvet
- - une tarte/quiche/salade/ce que vous voulez pour Samedi soir
- - du hard si vous voulez
- - apporter du matos à fondue si vous avez
+
+à apporter (confirmer par mail à remi.cura@mail.com )
+
+ - []apporter un duvet
+ - []une tarte/quiche/salade/ce que vous voulez pour Samedi soir
+ - []du hard si vous voulez
+ - []apporter du matos à fondue si vous avez
+ - []prises et multiprises
+ - []tentes/ matelas
+ - []chauffage d appoint pour le chapiteau
 
  
 # Planning #
