@@ -12,7 +12,7 @@ Everything (base data, method, resulting street model) is contained within a dat
 
 ## Abstract
 
-![StreetGen Graphical abstract](/im/re/streetgen_graphical_abstract.png)
+![StreetGen Graphical abstract](/img/re/streetgen_graphical_abstract.png){:class="img-responsive"}
 
 Streets are large, diverse, and used for several (and possibly conflicting) transport
 modalities as well as social and cultural activities. Proper planning is essential and requires
