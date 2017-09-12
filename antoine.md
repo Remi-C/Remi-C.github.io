@@ -47,6 +47,8 @@ Repas :
 # Pour aider #
 pour tout : 
  - Marie : marie_attard@hotmail.fr  |  06 08 05 06 59
+
+
 Repas et boissons, troll
  - Rémi : remi.cura@gmail.com  |  06 63 00 89 15
 
