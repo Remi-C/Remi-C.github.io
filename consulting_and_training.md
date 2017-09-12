@@ -16,4 +16,6 @@ The main open source software used are CloudCompare, Meshlab, the PCL, and PDAL.
 
 
 The detailed programm of the training is [here in french](http://www.oslandia.com/pages/formation-pointcloud.html) )
-![StreetGen Graphical abstract](/img/misc/training_point_coud_engie.jpg)
+![training engie](/img/misc/training_point_coud_engie.jpg)
+
+![training INRAP](/img/misc/training_point_coud_inrap.jpg)
