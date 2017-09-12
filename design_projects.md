@@ -24,18 +24,6 @@ Here is a list of my design projects.
 		  Posted on {{ post.date | date: "%B %-d, %Y" }}
 		</p>
 
-		<div class="post-entry-container">
-		  {% if post.image %}
-		  <div class="post-image">
-			<a href="{{ post.url | prepend: site.baseurl }}">
-			  <img src="{{ post.image }}">
-			</a>
-		  </div>
-		  {% endif %}
-		  <div class="post-entry">
-			{{ post.excerpt }} 
-		  </div>
-		</div>
 
 		{% if post.tags.size > 0 %}
 		<div class="blog-tags">
