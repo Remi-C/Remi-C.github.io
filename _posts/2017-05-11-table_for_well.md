@@ -2,8 +2,8 @@
 layout: post
 title: A table for a well (French)
 subtitle: How to use a well in a garden as an outdoor dining table
-tags: [woodworking, project]
-category: woodworking
+tags: [woodworking, design, project]
+category: design
 bigimg: /img/woodworking/table_de_puits/00_couverture_LQ.jpeg
 ---
 
