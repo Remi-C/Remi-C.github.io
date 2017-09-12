@@ -43,6 +43,9 @@ Repas :
  - Samedi soir : quiches/pizzas/cakes/salades/etc.
  - Dimanche midi : restes
 
+Animations / troll :
+ - musique : apporter playlist
+ - ... 
 
 # Pour aider #
 pour tout : 
