@@ -4,7 +4,7 @@ title: Passing french cabinetmaker exam (CAP)
 subtitle: Now a certified cabinetmaker
 tags: [woodworking, project, design]
 category: woodworking
-bigimg: /img/woodworking/overall_banner.png
+bigimg: /img/woodworking/overall_banner.jpg
 ---
 ![CAP diploma](/img/woodworking/Cura_remi_CAP_Ebeniste_2017_a.jpg)
 
