@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A table for a well (French)
-subtitle: How to use a well in a garden as an outdoor dining table
+title: A reclined drawing wall for hand lettering (French)
+subtitle: Building a custom writing board tailored for easier hand lettering
 tags: [woodworking, design, project]
 category: design
 bigimg: /img/woodworking/mur_incline/010_mur_pour_helene.jpeg
