@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Ultra Molkky
-subtitle: A redisign of the classic molkky game for more challenge and more style
-tags: [woodworking, project]
+title: Passing french cabinetmaker exam (CAP)
+subtitle: Now a certified cabinetmaker
+tags: [woodworking, project, design]
 category: woodworking
-bigimg: /img/woodworking/molkky_banner.png
+bigimg: /img/woodworking/overall_banner.jpg
 ---
 ![CAP diploma](/img/woodworking/Cura_remi_CAP_Ebeniste_2017_a.jpg)
 
 I sucessfully passed my CAP (certificate of professional competence) for woodworking (ebeniste).
-The CAP is a basic french diploma that enables to work in a shop or company, and basically be autonomous in designing/building a furniture that has veneer. 
+The CAP is a basic french diploma that enables to work in own shop or at a company, and basically be autonomous in designing/building a furniture that may have veneer.
 I passed the option "ebeniste", which is quite hard to translate, maybe cabinetmaker, maybe fine woodworker, it has to do with veneer management, precision, and proficiency with hand tools.
 
 
@@ -41,8 +41,9 @@ Overall, preparing for this exam and passing it was quite challenging.
 Beside the obvious challenge due to time constraint (I did not spend a full year on it!),
 it was also quite hard to obtain reliable information on stuff like furniture styles (no reference book!),
 technical drawing, etc.
+Surpinsingly, the reference book for cabinetmaking (French style) is from 1960!
 
-I also had to learn how to draw to present design ideas and concept for a furniture.
+I also had to learn how to draw to present design ideas and concepts for a furniture.
 I found this part very useful in many matters beside woodworking.
 
 
@@ -50,4 +51,4 @@ Last I spend a large amount of time finding and preparing tools for the exam.
 Hand planes, chisel, drawing knife, measuring tools, etc.
 Most of the things bought in flea market or the french craiglist, then refurbished.
 
-It was a very intersting experiment, because it pushed me to explore and formalize a lot of things I had been doing intuitively but wihtout too much thinking.
+It was a very interesting experiment, because it pushed me to explore and formalize a lot of things I had been doing intuitively but without too much thinking.
