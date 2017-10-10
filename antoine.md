@@ -23,9 +23,9 @@ Lieu dit Certigny, 17 Rue de l'Amandière, 77840 Coulombs-en-Valois
 accessible en transilien, 1h de gare de l est , gare lizy ou crouy sur ourcq
 
 # Qui #
-Vendredi : 18
-Samedi : 27
-Dimanche : 27
+Vendredi : 30
+Samedi : 35
+Dimanche : 35
 
 # Ce que vous devez faire #
 todo : 
@@ -38,7 +38,6 @@ todo :
 - [ ] du hard si vous voulez
 - [ ] apporter du matos à fondue si vous avez
 - [ ] prises et multiprises
-- [ ] tentes/ matelas
 - [ ] chauffage d appoint pour le chapiteau
 
  
@@ -71,8 +70,15 @@ Une idée de cadeau ?
 
 ## Boissons ##
 tireuse à bière:
- - version tcheque sans gaz?
- - devis [chop'in](http://www.chop-in.beer) en cours. 
+ - achat chez [chop'in](http://www.chop-in.beer), récupération des 3x30L Vendredi 13 par Marie.
+
+Cubi de bon vin:
+ - demander a [Fillot](http://www.vins-fillot.com/fillot/Accueil.html)
+  - Ils suggèrent entre 30 et 40 L
+ - en gros en rouge c'est dans les 40€ pour 10L. Ex: Anjou, cote du rhone, Julienas
+ - en blanc c'est dans les 35€ pour 5L. Ex : bon Macon.
+ - Dans tous les cas c'est du vin de qualité
+ - ça peut être pas mal d'y aller pour gouter.
 
 
 ## repas ##
@@ -82,24 +88,28 @@ tireuse à bière:
 ![fondue](/img/birthday/fondue.jpg)
 recap
  - Besoin des appareils des invités.
- - Achat fromage en masse par Rémi ?(on sera combien Vendredi?)
+ - Achat fromage en masse par Rémi
  - Charcuterie groupé avec commande saucisson
- - précuisson des patates par Marie et Rémi
+ - précuisson des patates par Marie et Rémi : plan galère
 
 
 ### cochon ###
 ![cochon](/img/birthday/mechoui.jpg)
 
+pas fait par le propriétaire
+ - Commande à l'[AS du Poulet](www.asdupoulet-75.fr) 72h avant, en y ajoutant 
+ - qq poulets / autres grillades / 
+ - accompagnement
 
+### Dessert ###
 
-Prévu par le propriétaire. Prix pas encore connu. Accompagné de patates + salade.
-Il fera précuire.
-
+On va commander en boulangerie
+ - genre 6 gateaux
+ - boulangerie de Marie
 
 ### Quiches/... ###
 Attention un seul four et 2 plaques :
  - pas de cuisine serieuse. 
- - Pas de BBQ.
  
  Demander aux gens d'apporter/cuisiner sur place.
 
