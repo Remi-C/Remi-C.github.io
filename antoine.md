@@ -27,6 +27,7 @@ accessible en transilien, 1h de gare de l est , gare lizy ou crouy sur ourcq
  - boisson : 20€/personnes
  - nourriture : 40€ (raclette/fondue 20€, grillade 15€, divers 5€) 
 
+RIB de Marie : ![rib de marie](http://perso.numericable.fr/remi.cura/rib_marie.png)
  
 # Qui #
  - Vendredi : _*22*_
@@ -39,7 +40,9 @@ accessible en transilien, 1h de gare de l est , gare lizy ou crouy sur ourcq
   - Robin,Charlène,Arnaud,Chloé et Nico,Gaël
 
 # cadeau #
- Vous pouvez participer [au pot commun](https://www.lepotcommun.fr/pot/n1y6dldm)
+Seulement pour le *cadeau* 
+
+Vous pouvez participer [au pot commun](https://www.lepotcommun.fr/pot/n1y6dldm)
 
 # Ce que vous devez faire #   
 à apporter 
@@ -67,11 +70,6 @@ pour tout :
 
 Repas et boissons, troll
  - Rémi : remi.cura@gmail.com  |  06 63 00 89 15
-
-
-# Cadeau #
-Une idée de cadeau ?
-
 
 # Orga #
 
