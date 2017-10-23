@@ -104,6 +104,13 @@ recap
   - trouver jambon blanc
  - précuisson des patates par Marie et Rémi : plan galère
  
+Reste à acheter
+ - mont d or
+ - cruditées
+ - oeufs de caille
+ - champignon
+ - chorizo
+ - jambon blanc
 
 
 ### cochon ###
