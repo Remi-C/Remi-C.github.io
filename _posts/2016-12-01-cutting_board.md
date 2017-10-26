@@ -6,6 +6,7 @@ tags: [woodworking, project]
 category: woodworking
 bigimg: /img/woodworking/cutting_board_banner.png
 ---
+![ultimately functionnal cutting board](/img/woodworking/cutting_board_banner.png)
 A project to improve the cutting board so it becomes utlimately functionnal and durable.
 
 Click on image to go to the Ultimately functioonnal cutting board website.
