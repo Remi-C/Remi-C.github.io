@@ -4,9 +4,9 @@ title: Making living plywood?
 subtitle: Could wicker ability to fuse (anastomosis) be used to make glueless 3D plywood?
 tags: [design, project]
 category: design
-bigimg: /img/woodworking/living_plywood/osier.jpeg
+bigimg: /img/woodworking/living_plywood/osier.jpg
 ---
-![wicker image](/img/woodworking/living_plywood/osier.jpeg)
+![wicker image](/img/woodworking/living_plywood/osier.jpg)
 This project is an open idea about using the natural ability of some wood species to fuse together (anastomosis).
 
 ![wicker image](/img/woodworking/living_plywood/anastomose.jpeg)
@@ -22,5 +22,5 @@ This project sucess would solve a millenia old problem in  woodworking : having 
 In wookworking half the wood is often lost simply in the making process (shaping and so).
 Besides, plywood is full of glue and is hard to use for complex 3D forms.
 
-![wicker image](/img/woodworking/living_plywood/living_plywood_1a.jpeg)
-![wicker image](/img/woodworking/living_plywood/living_plywood_1b.jpeg) 
+![wicker image](/img/woodworking/living_plywood/living_plywood_1a.jpg)
+![wicker image](/img/woodworking/living_plywood/living_plywood_1b.jpg) 
