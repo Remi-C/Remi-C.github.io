@@ -6,7 +6,7 @@ tags: [design, woodworking, project]
 category: design
 bigimg: /img/woodworking/gyrocave/gyro_cave_concept_commented.png
 ---
-
+![the gyro cave concept](/img/woodworking/gyrocave/gyro_cave_concept_commented.png)
 I worked on this design when I tried to think of a wedding present for a couple in my very close friends.
 
 I knew both enjoyed wine, yet lived in city appartment, usually a bad place to keep wine bottles 
