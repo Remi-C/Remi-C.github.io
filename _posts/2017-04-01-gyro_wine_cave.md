@@ -25,7 +25,7 @@ that is life, fruit, warmness and nice flavour.
 
 So that's were come the re-design.
 
-![the gyro cave concept](/img/woodworking/gyrocave/gyro_cave_concept_commented.png)
+![the gyro cave concept](/img/woodworking/gyrocave/gyro_cave_concept.jpg)
 
 I started from the very form of a barrel, because it is at the very basis of wine fabrication,
 and because it is a wooden object that has a natural warm feeling. 
