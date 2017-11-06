@@ -9,7 +9,7 @@ bigimg: /img/woodworking/living_plywood/osier.jpg
 ![wicker image](/img/woodworking/living_plywood/osier.jpg)
 This project is an open idea about using the natural ability of some wood species to fuse together (anastomosis).
 
-![wicker image](/img/woodworking/living_plywood/anastomose.jpeg)
+![wicker image](/img/woodworking/living_plywood/anastomose.JPG)
 
 Beside, wicker have the ability to grow very fast and very often from not much.
 
