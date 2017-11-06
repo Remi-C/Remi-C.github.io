@@ -13,10 +13,14 @@ Because the project is so small, it was the occasion to emphasize working on a t
 This species has great potential, being naturally very durable, super rigid and strong, and very fast growing.
 
 This project was also another occasion to use hand tools, including lots of hand planning for shaping, old school scrappers, rapses,etc.
-
+The finish was also interesting, as we used epoxy to cure the old plywood. 
+Sea water action is impressively destructive for wood.
 
 
 ![rudder in the making](/img/woodworking/rudder/barre_detourage.jpg)
+![rudder in the making](/img/woodworking/rudder/safran_seche.jpg)
+![rudder in the making](/img/woodworking/rudder/safran_close_up.jpg)
+
 
 ![rudder in the making](/img/woodworking/rudder/safran_brifan_1.jpg)
 ![rudder in the making](/img/woodworking/rudder/safran_brifan_2.jpg)
