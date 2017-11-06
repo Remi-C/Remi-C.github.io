@@ -69,16 +69,30 @@ Everything is fuzzy, the text may have been mispelled, misread, (etc.).
 The temporal aspect is highly fuzzy because we can't be sure of the precise time associated to documents/facts the documents are describing. 
 The spatial aspect is also fuzzy, because historical maps may have mistake, wrong georeferencing, etc.
 
-## Image processing
+## Image processing and machine learning
 I chose image processing (and computer graphics + UX) in engeenering school.
 This research domain is at the same time funny (sometimes is feels like trying to make a recipe for cooking) and deeply rooted in mathematics and human perception.
 The variety of data of image type is also interesting, especially since the 3D+Z data became so available (kinect).
+I worked on machine learning for a working paper (massive point cloud classification).
+Machine learning is currently extremely trending (not always for the good reasons).
+There is something very satisfaying in finding the appropriate way to model the problem,
+then use machine learning to solve it. 
+Of course machine learning is a lot about before and after actual machine learning (preprocessing, modelling, dataset, then post processing, tuning, interpreting results, etc)! 
 
 ## Robotics
 Robotics and mobile mapping research fields have a lot in common.
 Both pay attention to hardware, are directed toward robust and working solution, and are interested in understanding the surroundings, which I likes.
 Robotics is also abount making decision, triggering actions, and more recently Artificial inteligence, although I'm less familiar with these.
 Recently the community has been developping an interesting tool (ROS) that I'd like to work with.
+
+
+## Smart vehicle 
+I spent most of my [PhD]({{ site.baseurl }}{% post_url 2016-09-12-Inverse_procedural_street_modelling %}) time to reconstruct streets and roads with a precision of 10cm.
+Besides the road, I also  used reconstruction methods for markings, street furnitures (traffic light, traffic signs, etc.).
+The connexion with autonomous vehicle is obvious.
+Indeed, autonomous vehciles main problems are understanding the surroundings, and taking decisions about it.
+Both these problemes are greatly simplified with a precise and up to date street model !
+
 
 ## Digital fabrication
 I have a strong interest in digital fabrication. 
@@ -96,10 +110,3 @@ For instance having a design software that checks in real time that the objects 
 From a research perspective, these are extremely challenging, mixing real time simulation and optimisation and visualisation, 
 and high level modelling!
 Of course this is connected to my interest for [design](../design_philosophy), [design projects](../design_projects) and [woodworking](../woodworking_projects).
-
-## Smart vehicle 
-I spent most of my [PhD]({{ site.baseurl }}{% post_url 2016-09-12-Inverse_procedural_street_modelling %}) time to reconstruct streets and roads with a precision of 10cm.
-Besides the road, I also  used reconstruction methods for markings, street furnitures (traffic light, traffic signs, etc.).
-The connexion with autonomous vehicle is obvious.
-Indeed, autonomous vehciles main problems are understanding the surroundings, and taking decisions about it.
-Both these problemes are greatlly simplified with a precise and up to date street model !
