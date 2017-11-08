@@ -36,5 +36,5 @@ simulation.
 
 ## Download link
 [The thesis manuscript, chap.3 ](https://github.com/Remi-C/inverse_procedural_street_modelling)
-[the conference paper (very short)](/_collection/Cura_2015_StreetGen.pdf) 
+[the conference paper (very short)](/img/re/Cura_2015_StreetGen.pdf) 
 [Link to researchgate](https://www.researchgate.net/publication/283184997_STREETGEN_IN-BASE_PROCEDURAL-BASED_ROAD_GENERATION)

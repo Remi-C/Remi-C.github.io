@@ -42,5 +42,5 @@ along with classical processing, such as object detection.
 ## Download link
 The most recent version of the article is composed by the Chap. 2 of the thesis
 [Chap2 of the thesis](https://github.com/Remi-C/inverse_procedural_street_modelling)
-[Pdf of article](/_collection/Cura_2016_Pointcloud_server_journal.pdf)
+[Pdf of article](/img/re/Cura_2016_Pointcloud_server_journal.pdf)
 [article on researchgate](https://www.researchgate.net/publication/305363715_A_scalable_and_multi-purpose_point_cloud_server_PCS_for_easier_and_faster_point_cloud_data_management_and_processing?ev=srch_pub)
