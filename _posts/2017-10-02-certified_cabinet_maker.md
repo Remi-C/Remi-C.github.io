@@ -52,3 +52,7 @@ Hand planes, chisel, drawing knife, measuring tools, etc.
 Most of the things bought in flea market or the french craiglist, then refurbished.
 
 It was a very interesting experiment, because it pushed me to explore and formalize a lot of things I had been doing intuitively but without too much thinking.
+
+
+
+I spent a large amount of time gathering information about the programms and preparing tools.
