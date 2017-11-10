@@ -68,7 +68,32 @@ Scrappers are true MVP of any toolbox. Inexpensive, flexible, and producing a wo
 Last few wood chisels are always useful. 
 ![marking equipment](/img/woodworking/tools/marking/wood_marking_3_content.jpg)
 
+### Wood chisels ###
+I use chisel a lot.
+This is simply due to the fact that using hand tools is faster than using machine when doing small series.
+Besides, very sharp chisels produce a nice finish, even on hard wood.
 
+My main chisel set is in a leather pouch that can be rolled. I painstakingly found each chisel in Japan, expanding much energy to find backcountry stores and producers. 
+Japanese chisels are extremely hard, which require good sharpening, and some care when digging mortises.
+![chisels](/img/woodworking/tools/all_chisels/japanese_chisels.jpg)
+
+
+The main storage for chisels is a quite large roughed case.
+I built 3 wood containers for this case so the different type of chisels are separated.
+100% of the chisels are from flea market or hand made.
+Usually I look for chisel in the early to mid 20th century. I also have some from end of 19th century. I carefully selected chisels based on the quality of steel (swedish, sheffield, and of course mainly french). Steel from this era tends to be super fine grained (super nice finish), but quite soft. Sharpening with very hard stone should be avoided.
+That's a lot of time spend in refurbishing, but what a finish ! 
+
+![chisels](/img/woodworking/tools/all_chisels/wood_chisel_1_case.jpg)
+![chisels](/img/woodworking/tools/all_chisels/wood_chisel_2_case.jpg)
+
+The top level is for gouges and other speciality chisel, such as turning chisel (I made them from old files made of super hard steel).
+For the moment I can't sharpen gouges up to my usual standard, I lack rounded stones. 
+![chisels](/img/woodworking/tools/all_chisels/wood_chisel_3_gouges.jpg)
+
+The main level is dedicated to usual chisels 
+![chisels](/img/woodworking/tools/all_chisels/wood_chisel_4_straight.jpg)
+![chisels](/img/woodworking/tools/all_chisels/wood_chisel_5_big.jpg)
 
 ## Design equipment ##
 The notable exception is my design equipment, which is all new, essentially because of my beginner status.
