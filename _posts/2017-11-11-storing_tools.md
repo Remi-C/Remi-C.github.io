@@ -74,27 +74,34 @@ This is simply due to the fact that using hand tools is faster than using machin
 Besides, very sharp chisels produce a nice finish, even on hard wood.
 
 My main chisel set is in a leather pouch that can be rolled. I painstakingly found each chisel in Japan, expanding much energy to find backcountry stores and producers. 
-Japanese chisels are extremely hard, which require good sharpening, and some care when digging mortises.
+Japanese chisels are extremely hard, which require good sharpening, and some care when digging mortises. I chose a rather step bevel angle.
 ![chisels](/img/woodworking/tools/all_chisels/japanese_chisels.jpg)
 
 
 The main storage for chisels is a quite large roughed case.
 I built 3 wood containers for this case so the different type of chisels are separated.
 100% of the chisels are from flea market or hand made.
-Usually I look for chisel in the early to mid 20th century. I also have some from end of 19th century. I carefully selected chisels based on the quality of steel (swedish, sheffield, and of course mainly french). Steel from this era tends to be super fine grained (super nice finish), but quite soft. Sharpening with very hard stone should be avoided.
+Usually I look for chisel in the early to mid 20th century, and some from end of 19th century.
+I carefully selected chisels based on the quality of steel (swedish, sheffield, and of course mainly french such as Peugeot double lyon, Goldenberg double eye, etc. ).
+Steel from this era tends to be super fine grained (incredible finish), but quite soft, which forces to sharpen often.
+Sharpening with very hard stone should be avoided.
 That's a lot of time spend in refurbishing, but what a finish ! 
 
 ![chisels](/img/woodworking/tools/all_chisels/wood_chisel_1_case.jpg)
 ![chisels](/img/woodworking/tools/all_chisels/wood_chisel_2_case.jpg)
 
 The top level is for gouges and other speciality chisel, such as turning chisel (I made them from old files made of super hard steel).
-For the moment I can't sharpen gouges up to my usual standard, I lack rounded stones. 
+For the moment I can't sharpen gouges up to my usual standard due to lack of rounded stones. 
+This level is protected by an extra layer of foam that comes on top.
 ![chisels](/img/woodworking/tools/all_chisels/wood_chisel_3_gouges.jpg)
 
-The main level is dedicated to usual chisels 
+The main level is dedicated to usual chisels from 35 mm to 5 mm.
 ![chisels](/img/woodworking/tools/all_chisels/wood_chisel_4_straight.jpg)
+
+The bottom layer is for very large chisel (>30cm), and super sturdy chisel used to dig mortises, with some extra space for the future. 
 ![chisels](/img/woodworking/tools/all_chisels/wood_chisel_5_big.jpg)
 
+### ###
 ## Design equipment ##
 The notable exception is my design equipment, which is all new, essentially because of my beginner status.
 
