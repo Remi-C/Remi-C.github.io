@@ -41,7 +41,7 @@ Thanksfully, a french company build carbide burnisher, the carbide quickly pushi
 ![marking equipment](/img/woodworking/tools/marking/wood_marking_2_hidden.jpg)
 
 So the first role of the tools in this case is marking and measuring.
-
+![marking equipment](/img/woodworking/tools/marking/wood_marking_3_content.jpg)
 #### measuring ####
 I use steel rules with engraved digits with various size and flexibility, and a measuring tap.
 Same with the squares. The japanese square is extremely handy with its 45° angle, same as saddle squares (both straight and for dovetail), and false square (which is not super handy, as it can't be locked in a position).
@@ -66,7 +66,9 @@ Paraffin wax is also useful as a protection and to improve sliding of tools.
 Scrappers are true MVP of any toolbox. Inexpensive, flexible, and producing a world class finish in my opinion. Hard to sharpen, so their edges is protected in leather pouches.
 
 Last few wood chisels are always useful. 
-![marking equipment](/img/woodworking/tools/marking/wood_marking_3_content.jpg)
+
+
+
 
 ### Wood chisels ###
 I use chisel a lot.
@@ -88,7 +90,7 @@ Sharpening with very hard stone should be avoided.
 That's a lot of time spend in refurbishing, but what a finish ! 
 
 ![chisels](/img/woodworking/tools/all_chisels/wood_chisel_1_case.jpg)
-![chisels](/img/woodworking/tools/all_chisels/wood_chisel_2_case.jpg)
+[comment]: # (![chisels](/img/woodworking/tools/all_chisels/wood_chisel_2_case.jpg))
 
 The top level is for gouges and other speciality chisel, such as turning chisel (I made them from old files made of super hard steel).
 For the moment I can't sharpen gouges up to my usual standard due to lack of rounded stones. 
@@ -101,7 +103,45 @@ The main level is dedicated to usual chisels from 35 mm to 5 mm.
 The bottom layer is for very large chisel (>30cm), and super sturdy chisel used to dig mortises, with some extra space for the future. 
 ![chisels](/img/woodworking/tools/all_chisels/wood_chisel_5_big.jpg)
 
-### ###
+### Hand planes###
+
+Hand planes are the kind of tools that are really specialized,
+but really hard to bypass when you don't have one.
+All of my planes except one come from flea market,
+with special care on truing/refurbishing/sharpening everything. 
+I also had a projet where I converted french blade from late 19th century to be used with 
+metal stanley plane from mid 20th century.
+
+One of my workshop don't have a power planner, so I'm used to plane by hand a lot.
+When removing a lot of wood, this is a true workout.
+
+I found a rigid suitcase in a flea market, super heavy, but super sturdy.
+It was latter adapted to store handplanes on two levels.
+The top level is for light planes, the bottom is for heavy planes.
+![hand planes](/img/woodworking/tools/handplane/handplane_storage_1_suitcase.jpg)
+![hand planes](/img/woodworking/tools/handplane/handplane_storage_2_overal.jpg)
+![hand planes](/img/woodworking/tools/handplane/handplane_storage_5_only_planes.jpg)
+
+The top layer accomodates 3 low angles planes (stanley 60 (nice but hard to set), modern folded steel(can't be set at will), and a plane from diktum (very nice)),
+plus a very small bullnose plane (stanley 75, not good blade quality in my opinion)
+![hand planes](/img/woodworking/tools/handplane/handplane_storage_3_top.jpg)
+
+The bottom layer has a stanley n°6 (nice, heavy), two n°4 (one stanley, one rare french Peugeot with adjustable mouth width) which have a very handy size, two n° 3.5 (stanley Handyman and a modern version of it with two screws to adjust blade), and a stanley n°3 sweetheart (can remove a suprising amount of wood, I use it a lot to shape curved stuff)
+![hand planes](/img/woodworking/tools/handplane/handplane_storage_4.jpg)
+
+Overall I can cover a lot of use case, still lacking a proper low angle plane (n°62), and a n°5 with a serrated blade.
+Sadly these models are very hard to find in France flea market.
+
+### Hand saw###
+Hand saw are necessary for join work and cuts that need to be made on the spot.
+I use 3 japanese saws that I found in Japan.
+Additonnaly, Peugeot made some hand saw in the 20th century.
+I found one that I refurbished and re-sharpened in the japanese style, so it can cut in both direction, and is much much faster.
+This kind of sharpening is super long ( 2 bevels per teeth), but super effective. 
+
+![hand saw](/img/woodworking/tools/saw/saw_0.jpg)
+![hand saw](/img/woodworking/tools/saw/saw_1.jpg)
+
 ## Design equipment ##
 The notable exception is my design equipment, which is all new, essentially because of my beginner status.
 
