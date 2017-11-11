@@ -146,6 +146,14 @@ The saw are stored in a custom box with grooves tailored to each saw.
 Saws are well protected, but after some time the box is bulky.
 ![hand saw](/img/woodworking/tools/saw/saw_1.jpg)
 
+## router ##
+
+## rasps ##
+
+## veneer equipment ##
+
+## Miscelanious ##
+
 ## Sharpening equipment##
 Sharpening is useful in many ways, one is that mastering sharpening allows to use tools for a long time.
 Most of the tools and straight razor that I sharpen are 60 to 120 years old,
