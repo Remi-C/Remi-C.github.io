@@ -169,7 +169,7 @@ To this end I use diamond stones (DMT).
 Although expensive (especially the shipping cost to France), they cut very very fast, and stay flat.
 The very coarse /coarse stone is a jack of all trades, but a very very rough would be useful in many cases.
 The new DMT stone with ceramic bases are also quite convincing in my opinion.
-![diamond stones](/img/woodworking/tools/saw/stones/diamond_stone.jpg)
+![diamond stones](/img/woodworking/tools/stones/diamond_stone.jpg)
 
 ### Natural stones###
 My favorite stones are natural.
@@ -184,7 +184,7 @@ I'd like a bigger one, but they are rare and expensive.
 
 
 I built a tailored sturdy wooden box to protect and hold the natural stones.
-![diamond stones](/img/woodworking/tools/saw/stones/natural_stone.jpg)
+![diamond stones](/img/woodworking/tools/stones/natural_stone.jpg)
 
 ### Synthetic stones###
 I also build a storage box for the synthetic stones. This storage box is veneered as an exercise, and because I had scraps of veneer.
@@ -194,7 +194,7 @@ The most important pieces are the two marble stones that I trued and that are us
 Having a flat reference is priceless for truing planes for instance. Besides it allows to use abrasive papers to true natural stones. 
 
 Among the many stones, the Shapton 2k is epsecially impressive. Hard, wears slowly, yet cut fasts for a water stone.
-![diamond stones](/img/woodworking/tools/saw/stones/synthetic_stone.jpg)
+![diamond stones](/img/woodworking/tools/stones/synthetic_stone.jpg)
 
 ## Design equipment ##
 
