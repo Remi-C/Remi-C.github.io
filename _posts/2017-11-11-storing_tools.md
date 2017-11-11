@@ -4,9 +4,9 @@ title: Storing hand tools so they are safe and handy to use
 subtitle: building storing devices 
 tags: [woodworking, project, design]
 category: woodworking
-bigimg: /img/woodworking/overall_banner.jpg
+bigimg: /img/woodworking/tools/all_chisels/wood_chisel_4_straight.jpg
 ---
-
+![chisels](/img/woodworking/tools/all_chisels/wood_chisel_4_straight.jpg)
 I spent a lot of preparing tools for my cabinet maker exam.
 
 Indeed, most of my tools where found in flea markets, then refurbished and sharpened. 
