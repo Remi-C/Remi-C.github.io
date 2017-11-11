@@ -138,14 +138,61 @@ I use 3 japanese saws that I found in Japan.
 Additonnaly, Peugeot made some hand saw in the 20th century.
 I found one that I refurbished and re-sharpened in the japanese style, so it can cut in both direction, and is much much faster.
 This kind of sharpening is super long ( 2 bevels per teeth), but super effective. 
+I also use a veneer saw that I sharpened similarly.
 
 ![hand saw](/img/woodworking/tools/saw/saw_0.jpg)
+
+The saw are stored in a custom box with grooves tailored to each saw. 
+Saws are well protected, but after some time the box is bulky.
 ![hand saw](/img/woodworking/tools/saw/saw_1.jpg)
 
-## Design equipment ##
-The notable exception is my design equipment, which is all new, essentially because of my beginner status.
+## Sharpening equipment##
+Sharpening is useful in many ways, one is that mastering sharpening allows to use tools for a long time.
+Most of the tools and straight razor that I sharpen are 60 to 120 years old,
+a nice way to keep these object alive, and avoid filling landfill with obsolete-by-design modern objects.
 
-I found a case in the flea market, it was a case used to store professionnal kitchen knifes, thus it is sturdy (and ugly enough)
+Sharpening is a very complete experience that is close to meditation (as you focus on your touch sense, similarly to how you may focus on breathing in some meditation methods).
+
+There is always something to be learnt, yet I'm confident I reached a very good mastery of hand sharpening due to extensive experiences with straight razors, knifes, saw, wood chisels, plane blade, scissor, scrappers, as well as specialized leather tools.
+
+### Diamond stones###
+I sharpen by hand, which is slow when a large amount of steel has to be removed. 
+To this end I use diamond stones (DMT).
+Although expensive (especially the shipping cost to France), they cut very very fast, and stay flat.
+The very coarse /coarse stone is a jack of all trades, but a very very rough would be useful in many cases.
+The new DMT stone with ceramic bases are also quite convincing in my opinion.
+![diamond stones](/img/woodworking/tools/saw/stones/diamond_stone.jpg)
+
+### Natural stones###
+My favorite stones are natural.
+
+Most I found in Japan with sheer luck, having encoutered the last owner of an active quarry in Kyoto.
+I rarely use the 1.5k grit one (Binsui) because it is slow. 
+Yet I'm super found of the 5k one (Aotoishi). The two 8k are very different, one being extremely hard, the other softer (Oouchi and Oozuki). I also have two finishing stones from Japan and China.
+
+Last I also found a Belgium coticule in a flea market. 
+This stone is something else as it cuts fast for a waterstone. 
+I'd like a bigger one, but they are rare and expensive. 
+
+
+I built a tailored sturdy wooden box to protect and hold the natural stones.
+![diamond stones](/img/woodworking/tools/saw/stones/natural_stone.jpg)
+
+### Synthetic stones###
+I also build a storage box for the synthetic stones. This storage box is veneered as an exercise, and because I had scraps of veneer.
+The inside is lined with cork, a perfect fit for wet-stones !
+
+The most important pieces are the two marble stones that I trued and that are used as flat references. 
+Having a flat reference is priceless for truing planes for instance. Besides it allows to use abrasive papers to true natural stones. 
+
+Among the many stones, the Shapton 2k is epsecially impressive. Hard, wears slowly, yet cut fasts for a water stone.
+![diamond stones](/img/woodworking/tools/saw/stones/synthetic_stone.jpg)
+
+## Design equipment ##
+
+My design equipment is all new, essentially because of my beginner status and lack of draxing talent.
+
+I found a case in the flea market, it was used to store professionnal kitchen knifes (solingen), thus it is sturdy (and ugly ).
 ![design equipment](/img/woodworking/tools/design/design_hardware_1_storage.jpg)
 
 [comment]: # (![design equipment](/img/woodworking/tools/design/design_hardware_2_storage.jpg))
