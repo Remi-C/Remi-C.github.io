@@ -4,9 +4,9 @@ title: Point Cloud Server
 subtitle: a server to manage massive point clouds
 tags: [research, publications]
 category: research
-bigimg: /img/PCS.jpg
+bigimg: /img/re/thesis_graphical_abstract_line.jpg
 ---
-![abstract Point cloud server](/img/PCS.jpg)
+![abstract Point cloud server](/img/re/thesis_graphical_abstract_line.jpg)
 The Point CLoud Server was developped to manage the billions and billions of Lidar point clouds that were produced daily by IGN mobile mapping system.
 RAther than deal with files, which limit sharing, gestion of metadata and concurrent editing,
 we chose to use a database server to store groups of points (patch).

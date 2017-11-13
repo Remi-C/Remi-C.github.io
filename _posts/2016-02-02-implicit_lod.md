@@ -8,11 +8,11 @@ bigimg: /img/lod_banner.png
 ---
 ![LOD abstract](/img/lod_banner.png)
 When we created the Point Cloud Server to manage billions of points, several method processing methods were used on points.
-
-
 It was rapidely clear that for almost any methods, and for visualization in perticular, a way to reduce the number of points was needed.
 Our solution was the Implicit Level of Detail method, where points are ordered by decreasing importancy in each group of points (patch). Then reducing the number of point was a matter of taking only the n first points per patch.
 The method was refined, and led to the creation of a robust dimensionnality descriptor, along with its uses for classification and pre-processing.
+
+
 Initially regrouped in one article, this two topics (LOD and dimensionnality descriptor) were too complex to be handled together, which led to a split into two articles which are much easier to read.
 
 
