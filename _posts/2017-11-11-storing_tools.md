@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Storing hand tools so they are safe and handy to use
 subtitle: building storing devices 
@@ -15,18 +15,18 @@ Indeed, most of my tools where found in flea markets, then refurbished and sharp
 
 
 ## Woodworking tools ##
-As a general principle, I tend to loose stuf, so I took that into account when deciding what tools to take and how to store it.
+As a general principle, I tend to loose stuff, so I took that into account when deciding what tools to take and how to store it.
 
-I don't have toolboxes where tools are free to move (dulling their sharpening), and where it's easy to loose something. 
+I don't have toolboxes where tools are free to move (dulling their sharpening), and where it's easy to lose something. 
 Instead, each tool has its place and is protected (usually foam).
 
-Because I used several workshop, my tools are split into thematic storage so they can be transportable and I can adapt what toolbox to take.
+Because I used several workshops, my tools are split into thematic storage so they can be transportable and I can adapt what toolbox to take.
 
 ### Marking equipment / essential ###
 
 The first cabinet maker tools beside the workbench are the marking / drawing tools in my opinion.
-Therefore I came with the idea to use a rugged case full of foam.
-The foam is cut in layers so each tool has a very specific place ,
+Therefore, I came with the idea to use a rugged case full of foam.
+The foam is cut in layers so each tool has a very specific place,
 and I can see immediately if I forgot something.
 
 The tools are selected by how often I use them and their genericity.
@@ -34,18 +34,18 @@ The tools are selected by how often I use them and their genericity.
 ![marking equipment](/img/woodworking/tools/marking/wood_marking_1_storage.jpg)
 
 The foam sits on top of a wood plank. When removing it, I access flat stuff that I don't use too often. 
-Abrasive papers from 100 to 2000 and a leather strop with raw leather and green coumpound for sharpening. 
+Abrasive papers from 100 to 2000 and a leather strop with raw leather and green compound for sharpening. 
 Scrappers are amazing in my opinion. Both low tech and extremely efficient.
-Saddly they are very difficult to sharpen properly with a traditionnal steel burnisher.
-Thanksfully, a french company build carbide burnisher, the carbide quickly pushing the steel from the scrapper.
+Sadly they are very difficult to sharpen properly with a traditional steel burnisher.
+Thankfully, a French company build carbide burnisher, the carbide quickly pushing the steel from the scrapper.
 ![marking equipment](/img/woodworking/tools/marking/wood_marking_2_hidden.jpg)
 
 So the first role of the tools in this case is marking and measuring.
 ![marking equipment](/img/woodworking/tools/marking/wood_marking_3_content.jpg)
 #### measuring ####
-I use steel rules with engraved digits with various size and flexibility, and a measuring tap.
-Same with the squares. The japanese square is extremely handy with its 45° angle, same as saddle squares (both straight and for dovetail), and false square (which is not super handy, as it can't be locked in a position).
-Last a compass (with blocking and precise adjustement), and a precise caliper. 
+I use steel rules with engraved digits with various size and flexibility, and a measuring tape.
+Same with the squares. The Japanese square is extremely handy with its 45° angle, same as saddle squares (both straight and for dovetail), and false square (which is not super handy, as it can't be locked in a position).
+Last a compass (with blocking and precise adjustment), and a precise caliper. 
 
 In my opinion measuring tools should be made of metal, not plastic or wood. 
 I trued myself the rules and squares. Indeed, even decent rulers have machining marks.
@@ -54,16 +54,16 @@ I trued myself the rules and squares. Indeed, even decent rulers have machining 
 
 Color chalks are useful to mark parts and to avoid mistakes by outlining stuff. 
 
-To mark lines, pencils are very common but not precise enough. Drawing knifes sharpened to have only one bevel ( in fact the folding knife has 2 blades, each having the bevel one a different side) are necessary to reach the 0.1 mm accuracy range. 
+To mark lines, pencils are very common but not precise enough. Drawing knifes sharpened to have only one bevel (in fact the folding knife has 2 blades, each having the bevel one a different side) are necessary to reach the 0.1 mm accuracy range. 
 Alternatively, a pen with a carbide tip is strong enough to mark even hardened steel. 
-The marking gauge is essential ,both in measure and markings. It has to be sharpened once in a while. This model has a tendancy to roll and untrue itself. 
+The marking gauge is essential, both in measure and markings. It has to be sharpened once in a while. This model has a tendency to roll and untrue itself. 
 
 #### Real handy tools ####
-Camelia oil has been used on japanase tools for a long time, I reallt like it after sharpening/contact with water.
-For instance when using my 'emergency' 1k diamond stone.
+Camelia oil has been used on Japanese tools for a long time, I really like it after sharpening/contact with water.
+For instance, when using my 'emergency' 1k diamond stone.
 
 Paraffin wax is also useful as a protection and to improve sliding of tools.  
-Scrappers are true MVP of any toolbox. Inexpensive, flexible, and producing a world class finish in my opinion. Hard to sharpen, so their edges is protected in leather pouches.
+Scrappers are true MVP of any toolbox. Inexpensive, flexible, and producing a world class finish in my opinion. Hard to sharpen, so their edges are protected in leather pouches.
 
 Last few wood chisels are always useful. 
 
@@ -81,18 +81,18 @@ Japanese chisels are extremely hard, which require good sharpening, and some car
 
 
 The main storage for chisels is a quite large roughed case.
-I built 3 wood containers for this case so the different type of chisels are separated.
+I built 3 wood containers for this case so the different types of chisels are separated.
 100% of the chisels are from flea market or hand made.
-Usually I look for chisel in the early to mid 20th century, and some from end of 19th century.
-I carefully selected chisels based on the quality of steel (swedish, sheffield, and of course mainly french such as Peugeot double lyon, Goldenberg double eye, etc. ).
+Usually I look for chisel in the early to mid-20th century, and some from end of 19th century.
+I carefully selected chisels based on the quality of steel (Swedish, Sheffield, and of course mainly French such as Peugeot double lion, Goldenberg double eye, etc. ).
 Steel from this era tends to be super fine grained (incredible finish), but quite soft, which forces to sharpen often.
 Sharpening with very hard stone should be avoided.
-That's a lot of time spend in refurbishing, but what a finish ! 
+That's a lot of time spend in refurbishing, but what a finish! 
 
 ![chisels](/img/woodworking/tools/all_chisels/wood_chisel_1_case.jpg)
 [comment]: # (![chisels](/img/woodworking/tools/all_chisels/wood_chisel_2_case.jpg))
 
-The top level is for gouges and other speciality chisel, such as turning chisel (I made them from old files made of super hard steel).
+The top level is for gouges and other specialty chisel, such as turning chisel (I made them from old files made of super hard steel).
 For the moment I can't sharpen gouges up to my usual standard due to lack of rounded stones. 
 This level is protected by an extra layer of foam that comes on top.
 ![chisels](/img/woodworking/tools/all_chisels/wood_chisel_3_gouges.jpg)
@@ -109,40 +109,40 @@ Hand planes are the kind of tools that are really specialized,
 but really hard to bypass when you don't have one.
 All of my planes except one come from flea market,
 with special care on truing/refurbishing/sharpening everything. 
-I also had a projet where I converted french blade from late 19th century to be used with 
-metal stanley plane from mid 20th century.
+I also had a project where I converted French blade from late 19th century to be used with 
+metal Stanley plane from mid 20th century.
 
 One of my workshop don't have a power planner, so I'm used to plane by hand a lot.
 When removing a lot of wood, this is a true workout.
 
 I found a rigid suitcase in a flea market, super heavy, but super sturdy.
-It was latter adapted to store handplanes on two levels.
+It was latter adapted to store hand planes on two levels.
 The top level is for light planes, the bottom is for heavy planes.
 ![hand planes](/img/woodworking/tools/handplane/handplane_storage_1_suitcase.jpg)
 ![hand planes](/img/woodworking/tools/handplane/handplane_storage_2_overal.jpg)
 ![hand planes](/img/woodworking/tools/handplane/handplane_storage_5_only_planes.jpg)
 
-The top layer accomodates 3 low angles planes (stanley 60 (nice but hard to set), modern folded steel(can't be set at will), and a plane from diktum (very nice)),
-plus a very small bullnose plane (stanley 75, not good blade quality in my opinion)
+The top layer accommodates 3 low angles planes (Stanley 60 (nice but hard to set), modern folded steel(can't be set at will), and a plane from diktum (very nice)),
+plus a very small bullnose plane (Stanley 75, not good blade quality in my opinion)
 ![hand planes](/img/woodworking/tools/handplane/handplane_storage_3_top.jpg)
 
-The bottom layer has a stanley n°6 (nice, heavy), two n°4 (one stanley, one rare french Peugeot with adjustable mouth width) which have a very handy size, two n° 3.5 (stanley Handyman and a modern version of it with two screws to adjust blade), and a stanley n°3 sweetheart (can remove a suprising amount of wood, I use it a lot to shape curved stuff)
+The bottom layer has a Stanley n°6 (nice, heavy), two n°4 (one Stanley, one rare French Peugeot with adjustable mouth width) which have a very handy size, two n° 3.5 (Stanley Handyman and a modern version of it with two screws to adjust blade), and a Stanley n°3 sweetheart (can remove a surprising amount of wood, I use it a lot to shape curved stuff)
 ![hand planes](/img/woodworking/tools/handplane/handplane_storage_4.jpg)
 
-Overall I can cover a lot of use case, still lacking a proper low angle plane (n°62), and a n°5 with a serrated blade.
-Sadly these models are very hard to find in France flea market.
+Overall, I can cover a lot of use case, still lacking a proper low angle plane (n°62), and a n°5 with a serrated blade.
+Sadly, these models are very hard to find in France flea market.
 
 ### Hand saw###
 Hand saw are necessary for join work and cuts that need to be made on the spot.
-I use 3 japanese saws that I found in Japan.
-Additonnaly, Peugeot made some hand saw in the 20th century.
-I found one that I refurbished and re-sharpened in the japanese style, so it can cut in both direction, and is much much faster.
-This kind of sharpening is super long ( 2 bevels per teeth), but super effective. 
+I use 3 Japanese saws that I found in Japan.
+Additionally, Peugeot made some hand saw in the 20th century.
+I found one that I refurbished and re-sharpened in the Japanese style, so it can cut in both direction, and is much much faster.
+This kind of sharpening is super long (2 bevels per teeth), but super effective. 
 I also use a veneer saw that I sharpened similarly.
 
 ![hand saw](/img/woodworking/tools/saw/saw_0.jpg)
 
-The saw are stored in a custom box with grooves tailored to each saw. 
+The saws are stored in a custom box with grooves tailored to each saw. 
 Saws are well protected, but after some time the box is bulky.
 ![hand saw](/img/woodworking/tools/saw/saw_1.jpg)
 
@@ -152,7 +152,7 @@ Saws are well protected, but after some time the box is bulky.
 
 ## veneer equipment ##
 
-## Miscelanious ##
+## Miscellaneous ##
 
 ## Sharpening equipment##
 Sharpening is useful in many ways, one is that mastering sharpening allows to use tools for a long time.
@@ -174,12 +174,12 @@ The new DMT stone with ceramic bases are also quite convincing in my opinion.
 ### Natural stones###
 My favorite stones are natural.
 
-Most I found in Japan with sheer luck, having encoutered the last owner of an active quarry in Kyoto.
+Most I found in Japan with sheer luck, having encountered the last owner of an active quarry in Kyoto.
 I rarely use the 1.5k grit one (Binsui) because it is slow. 
 Yet I'm super found of the 5k one (Aotoishi). The two 8k are very different, one being extremely hard, the other softer (Oouchi and Oozuki). I also have two finishing stones from Japan and China.
 
-Last I also found a Belgium coticule in a flea market. 
-This stone is something else as it cuts fast for a waterstone. 
+Last, I also found a Belgium coticule in a flea market. 
+This stone is something else as it cuts fast for a Waterstone. 
 I'd like a bigger one, but they are rare and expensive. 
 
 
@@ -188,19 +188,19 @@ I built a tailored sturdy wooden box to protect and hold the natural stones.
 
 ### Synthetic stones###
 I also build a storage box for the synthetic stones. This storage box is veneered as an exercise, and because I had scraps of veneer.
-The inside is lined with cork, a perfect fit for wet-stones !
+The inside is lined with cork, a perfect fit for wet-stones!
 
 The most important pieces are the two marble stones that I trued and that are used as flat references. 
 Having a flat reference is priceless for truing planes for instance. Besides it allows to use abrasive papers to true natural stones. 
 
-Among the many stones, the Shapton 2k is epsecially impressive. Hard, wears slowly, yet cut fasts for a water stone.
+Among the many stones, the Shapton 2k is especially impressive. Hard, wears slowly, yet cut fasts for a water stone.
 ![diamond stones](/img/woodworking/tools/stones/synthetic_stone.jpg)
 
 ## Design equipment ##
 
-My design equipment is all new, essentially because of my beginner status and lack of draxing talent.
+My design equipment is all new, essentially because of my beginner status and lack of drawing talent.
 
-I found a case in the flea market, it was used to store professionnal kitchen knifes (solingen), thus it is sturdy (and ugly ).
+I found a case in the flea market, it was used to store professional kitchen knives (Solingen), thus it is sturdy (and ugly ).
 ![design equipment](/img/woodworking/tools/design/design_hardware_1_storage.jpg)
 
 [comment]: # (![design equipment](/img/woodworking/tools/design/design_hardware_2_storage.jpg))
@@ -211,7 +211,7 @@ I commonly use 0.8 (title), 0.5 (subtitle, important stuff), 0.3 (base) and 0.1 
 
 For the creative part of the design, alcohol-based pens are very useful, especially the scale of grey ones.
 I latter added some with brown tone shading specifically for wood representation,
-and the primary color one for general schematics. Only problem is that the ink will go thorugh most of papers types.
+and the primary color one for general schematics. Only problem is that the ink will go through most of papers types.
 ![design equipment](/img/woodworking/tools/design/design_hardware_4_alcohol_marker.jpg)
 
 Per the exam rules, a calculator is required, as well as a set of rules and squares. 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Design projects
 subtitle: Some of my design projects

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Miscellaneous Projects
 subtitle: Many small projects involving handicraft
@@ -14,7 +14,7 @@ Some wooden letters from scrap wood.
 Restoring straight razor from flea market.
 ![Restoring straight razor](/img/woodworking/straight_razor.JPG)
  
-A CHristmas tree from scrap wood
+A Christmas tree from scrap wood
 ![Christmas tree with scrap wood](/img/woodworking/christmas_tree.jpg)
  
 A frame for picture from scrap wood, using a table router.
@@ -26,7 +26,7 @@ Wood turning spinning tops, trying to imitate onions. Wood are teak, boxwood, Gr
 Embossing wet leather with paring knife and metal bits. 
 ![Leather working (embossing)](/img/woodworking/leather.jpg)
 
-Sculpting sting fish leather for monogramms, super tough skin!
+Sculpting sting fish leather for monograms, super tough skin!
 ![Sculpting sting fish leather](/img/woodworking/sting_fish.jpg)
 
 A leather purse with shape inspired by art déco and embossing from modern art.

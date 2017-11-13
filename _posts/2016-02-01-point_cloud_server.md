@@ -7,8 +7,8 @@ category: research
 bigimg: /img/re/thesis_graphical_abstract_line.jpg
 ---
 ![abstract Point cloud server](/img/re/thesis_graphical_abstract_line.jpg)
-The Point CLoud Server was developped to manage the billions and billions of Lidar point clouds that were produced daily by IGN mobile mapping system.
-RAther than deal with files, which limit sharing, gestion of metadata and concurrent editing,
+The Point CLoud Server was developed to manage the billions and billions of Lidar point clouds that were produced daily by IGN mobile mapping system.
+Rather than deal with files, which limit sharing, management of metadata and concurrent editing,
 we chose to use a database server to store groups of points (patch).
 The system was successfully used for the PhD work and other projects, and is still being actively researched.
 
@@ -23,7 +23,7 @@ In addition to the traditional Geographic Information System (GIS) data such as 
 (rasters) and vectors, point cloud data has become more available. It is appreciated for its
 precision and true three-Dimensional (3D) nature. However, managing point clouds can
 be difficult due to scaling problems and specificities of this data type. Several methods
-exist but are usually fairly specialised and solve only one aspect of the management
+exist but are usually fairly specialized and solve only one aspect of the management
 problem. In this work, we propose a complete and efficient point cloud management
 system based on a database server that works on groups of points rather than individual
 points. This system is specifically designed to solve all the needs of point cloud users:
@@ -32,8 +32,8 @@ and integrated processing. Moreover, the system fully integrates metadata (like 
 position) and can conjointly use point clouds with other geospatial data, such as images,
 vectors, topology and other point clouds. The system also offers in-base processing
 for easy prototyping, parallel processing and scales well. Lastly, the system is built
-on open source technologies and generic and common hardware; therefore it can be
-easily extended and customised. We test the system will several billion points from
+on open source technologies and generic and common hardware; therefore, it can be
+easily extended and customized. We test the system will several billion points from
 point clouds from Lidar (aerial and terrestrial) and stereo-vision. We demonstrate >400
 million pts=h loading speed, transparent-for-user and greater than 2 to 4:1 compression
 ratio, filtering in the approximately 50 ms range, and output of about a million pts=s,

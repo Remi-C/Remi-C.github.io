@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The gyro wine cave or gyrocave
-subtitle: A project for a beautiful and more practical appartment wine cooler
+subtitle: A project for a beautiful and more practical apartment wine cooler
 tags: [design, woodworking, project]
 category: design
 bigimg: /img/woodworking/gyrocave/gyro_cave_concept_commented.png
@@ -9,18 +9,18 @@ bigimg: /img/woodworking/gyrocave/gyro_cave_concept_commented.png
 ![the gyro cave concept](/img/woodworking/gyrocave/gyro_cave_concept_commented.png)
 I worked on this design when I tried to think of a wedding present for a couple in my very close friends.
 
-I knew both enjoyed wine, yet lived in city appartment, usually a bad place to keep wine bottles 
+I knew both enjoyed wine, yet lived in city apartment, usually a bad place to keep wine bottles 
 (to warm, to much vibration).
-Beside, the more traditional cubic wine cooler furniture was out of question:
-quit ugly, and not practical at all.
+Besides, the more traditional cubic wine cooler furniture was out of question:
+quite ugly, and not practical at all.
 ![Traditionnal appartment wine cooler](/img/woodworking/gyrocave/wine_cooler_example.jpg).
 
-First, finding a perticular bottle is tiresome, has you have to pull and replace every single bottle 
-to read its label, which is exceptionnaly anoying.
+First, finding a particular bottle is tiresome, as you have to pull and replace every single bottle 
+to read its label, which is exceptionally annoying.
 
 
 Furthermore, the fridge look is ugly, and I find the object conceptually very cold and out of touch with what wine is about,
-that is life, fruit, warmness and nice flavour.
+that is life, fruit, warmness and nice flavor.
 
 
 So that's were come the re-design.
@@ -36,13 +36,13 @@ and that the wine is not disturbed by the wheel rotation.
 
 In fact, there are two wheels, one for red wine (12 bottles), and one for white wine (6 bottles).
 
-Starting from this ideas, there are many desing possibilities opening up, 
+Starting from these ideas, there are many design possibilities opening up, 
 i tried to lay some in my schematics.
 
 
-Devil is in the details, especially considering the refrigeration part (pelletier effect with feedback loop).
+Devil is in the details, especially considering the refrigeration part (Pelletier effect with feedback loop).
 As another reference to wine world, I thought of cork lining for the inside walls, 
-as cork is a perfect material in this case : it dampens vibration, it isolates from outside temperature,
+as cork is a perfect material in this case: it dampens vibration, it isolates from outside temperature,
 and regulates moisture level!
 
 Overall it is a nice design experiment, along a good woodworking challenge,

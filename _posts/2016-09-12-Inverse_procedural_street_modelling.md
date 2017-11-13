@@ -7,8 +7,8 @@ category: research
 bigimg: /img/re/general_graphical_abstract_for_defense.jpg
 ---
 ![phd abstract](/img/re/general_graphical_abstract_for_defense.jpg)
-My PhD was about Inverse procedural street modelling, that is generate a street model (Chap3. road network, geometry, traffic informaton, stret objects), then fit this stret model to real life (chap5.). Real life here is expressed by massive point clouds (Chap2, Appendix A and B).
-Of course the fitting is automatic, but nevertheless it is essential to allow the users to perform manual edit of the street model, in a in-base shared and concurrent way (chap 4).
+My PhD was about Inverse procedural street modelling, that is generate a street model (Chap3. road network, geometry, traffic information, street objects), then fit this street model to real life (chap5.). Real life here is expressed by massive point clouds (Chap2, Appendix A and B).
+Of course, the fitting is automatic, but nevertheless it is essential to allow the users to perform manual edit of the street model, in a in-base shared and concurrent way (chap 4).
 
 More generally, the PhD is about reconstruction inverse procedural modelling, which led to a very large state of the art about procedural modelling, inverse problems and urban reconstruction in general (chap 1)
 
@@ -32,13 +32,13 @@ observations. In our framework, a "best guess" road model is first generated fro
 little information (road axis network and associated attributes), that is available in most
 national databases. This road model is then fitted to observations by combining inbase
 interactive user edits (using common GIS software as graphical interface) with
-semi-automated optimisation. The optimisation approach adapts the road model so
+semi-automated optimization. The optimization approach adapts the road model so
 it fits observations of urban features extracted from diverse sensing data. Both street
 generation (StreetGen) and interactions happen in a database server, as well as the
 management of large amount of street Lidar data (sensing data) as the observations
 using a Point Cloud Server.
 We test our methods on the entire city of Paris, whose streets are generated in a few
-minutes, can be edited interactively (<0.3 sto regenerate the street model) by several
+minutes, can be edited interactively (<0.3 s) to regenerate the street model) by several
 concurrent users. Automatic fitting (few min) shows promising results (average distance
 to ground truth reduced from 2.0m to 0.5m).
 In the future, this method could be mixed with others dedicated to the reconstruction

@@ -7,7 +7,7 @@ category: design
 bigimg: /img/woodworking/table_de_puits/00_couverture_LQ.jpeg
 ---
 ![image](/img/woodworking/table_de_puits/well_extract.jpeg)
-This project is an exercice in design according to the methodology of Karine Mazeau (Design Mobilier).
+This project is an exercise in design according to the methodology of Karine Mazeau (Design Mobilier).
 
 
 ![image](/img/woodworking/table_de_puits/00_couverture_LQ.jpeg)

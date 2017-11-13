@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Woodworking projects
 subtitle: Some of my woodworking projects
