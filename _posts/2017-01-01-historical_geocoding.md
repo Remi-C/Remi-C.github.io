@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Historical collaborative geocoding
 subtitle: What is historical geocoding, and how to help historians perform it

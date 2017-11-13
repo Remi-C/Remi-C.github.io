@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Inverse Procedural Street Modelling
 subtitle: My PhD thesis about reconstructing street for large cities using procedural methods and point clouds.

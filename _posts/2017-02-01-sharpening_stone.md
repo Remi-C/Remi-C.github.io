@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: A naturally artificial French sharpening stone
 subtitle: How to fabricate a fine sharpening stone using natural French material

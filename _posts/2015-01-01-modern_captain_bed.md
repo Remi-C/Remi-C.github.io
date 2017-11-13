@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: A modern captain bed
 subtitle: A redesign of nautical captain bed toward modernity and functionality

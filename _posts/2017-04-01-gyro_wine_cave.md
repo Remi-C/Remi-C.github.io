@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: The gyro wine cave or gyrocave
 subtitle: A project for a beautiful and more practical apartment wine cooler

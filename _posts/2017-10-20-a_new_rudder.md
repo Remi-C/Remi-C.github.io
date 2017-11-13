@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: making a new rudder for a small boat
 subtitle: a small project, mostly with hand tools

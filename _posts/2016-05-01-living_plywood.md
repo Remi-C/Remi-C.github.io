@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Making living plywood?
 subtitle: Could wicker ability to fuse (anastomosis) be used to make glueless 3D plywood?

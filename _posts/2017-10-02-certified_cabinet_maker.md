@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Passing French cabinetmaker exam (CAP)
 subtitle: Now a certified cabinetmaker

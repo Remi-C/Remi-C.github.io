@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: A table for a well (French)
 subtitle: How to use a well in a garden as an outdoor dining table
