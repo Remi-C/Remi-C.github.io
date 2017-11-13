@@ -6,7 +6,7 @@ tags: [research, publications]
 category: research
 bigimg: /img/historical_geocoding_abstract.png
 ---
-
+![geocoding abstract](/img/historical_geocoding_abstract.png)
 My recent Postdoctoral position was in the GeoHistorical Data team, for the project Belle Epoque.
 The goal is to perform geocoding of historical addresses (aka given an input address and date, find the position on the map).
 The projetc heavily relies on extracting information from historical map, and use of database tricks (inheritance, indexes) to robustly and quickly find the geohistorical object that matches the input address and date.
