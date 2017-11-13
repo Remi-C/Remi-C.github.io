@@ -2,11 +2,11 @@
 layout: post
 title: StreetGen
 subtitle: an in-base tool for street modelling
-bigimg: /img/re/logo_streetgen_HQ.png
 tags: [research, publications]
 category: research
+bigimg: /img/re/logo_streetgen_HQ.png
 ---
-
+![StreetGen Graphical abstract](/img/re/streetgen_graphical_abstract.png)
 StreetGen is the method that was developped during the PhD to generate a street model including the road, the traffic information, and the street objects.
 Everything (base data, method, resulting street model) is contained within a database, which make it scale nicely and allow concurrent interactive editing.
 
@@ -14,7 +14,7 @@ Everything (base data, method, resulting street model) is contained within a dat
 
 ** Procedural modelling of streets**
 
-![StreetGen Graphical abstract](/img/re/streetgen_graphical_abstract.png)
+
 
 Streets are large, diverse, and used for several (and possibly conflicting) transport
 modalities as well as social and cultural activities. Proper planning is essential and requires

@@ -6,7 +6,7 @@ tags: [research, publications]
 category: research
 bigimg: /img/re/general_graphical_abstract_for_defense.jpg
 ---
-
+![phd abstract](/img/re/general_graphical_abstract_for_defense.jpg)
 My PhD was about Inverse procedural street modelling, that is generate a street model (Chap3. road network, geometry, traffic informaton, stret objects), then fit this stret model to real life (chap5.). Real life here is expressed by massive point clouds (Chap2, Appendix A and B).
 Of course the fitting is automatic, but nevertheless it is essential to allow the users to perform manual edit of the street model, in a in-base shared and concurrent way (chap 4).
 
