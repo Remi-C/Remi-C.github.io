@@ -6,11 +6,14 @@ tags: [woodworking, misc]
 category: woodworking
 bigimg: /img/woodworking/hand_plane.jpg
 ---
- 
 Some wooden letters from scrap wood.
+It was a part of a multi-family project.
 ![Wooden letters](/img/woodworking/joyeux_noel.jpg)
- 
- 
+
+
+
+
+
 Restoring straight razor from flea market.
 ![Restoring straight razor](/img/woodworking/straight_razor.JPG)
  
