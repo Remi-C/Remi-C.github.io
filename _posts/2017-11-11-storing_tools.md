@@ -148,12 +148,44 @@ Saws are well protected, but after some time the box is bulky.
 ![hand saw](/img/woodworking/tools/saw/saw_1.jpg)
 
 ## router ##
+![router](/img/woodworking/tools/router/metabo_signal.jpg)
 
-## rasps ##
+A router is a versatile tool.
+The model I chose is the Metabo signal, I realy like its depth gauge, simply incredibly practical!
+
+I use it mainly for some joints (mortise and tenon, rabbet), and to plane end grain wood (cutting board).
+I use router bits from the Italian company CMT. The most important thing is to keep these bits clean and sharp in my opinion.
+
+
+## rasps and files ##
+Rasps and files seems to be overlooked in modern woodshop.
+They can be use din a lots of situations in my opinion.
+
+Raps are super quick to remove wood, even when the fiber direction would be hard to deal with a plan.
+I especially like hand stitched raps (found in the flea market) and japanese raps that is made of saw blades.
+
+Files are also necessary to maintain and sharpen tools. Some files can also be usefull for finishes on super hard wood.
+I tried carbide files but was not convinced, so for the moment I use steel file (with various sections for sharpening, triangle or diamond shapped), and also diamond covered files.
+
+Diamond is necessary to sharpen hardened steel.
+
+With the files are two metal brushes. Cleaned files remove wood much faster and much cleaner.
 
 ## veneer equipment ##
 
+The specificity of the french fine woodworking certificate is to deal with veneer.
+I use a straight piece of medium as a rule. I glued abbrasive paper on the bottome so it does not slide when cutting.
+To cut I use a traditionnal pull/push veneer saw, specially sharpened for a better cut (inspiration from japanese saw).
+The most important part of working with veneer is a special tape that is humidified and keep pieces of veneer joined. 
+
+I use a serrated plane blade to scrap the wood surface so gluing is stronger.
+
+The traditional glue is a little bit hard to prepare but has so many advantages it is worth it anyway.
+It is durable, suple, tolerate well thick joins, and can be un-glued by warming.
+I use an animal glue made from cows: a mix of extract of bone and nerves of beef (hard to translate this one in english!)
+
 ## Miscellaneous ##
+Wooden hammer
 
 ## Sharpening equipment##
 Sharpening is useful in many ways, one is that mastering sharpening allows to use tools for a long time.
