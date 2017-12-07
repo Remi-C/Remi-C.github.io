@@ -12,7 +12,8 @@ I spent a lot of preparing tools for my cabinet maker exam.
 Indeed, most of my tools where found in flea markets, then refurbished and sharpened. 
 
 
-
+![storing tools](/img/woodworking/tools/tools_storage_1a.jpg)
+![storing tools](/img/woodworking/tools/tools_storage_1b.jpg)
 
 ## Woodworking tools ##
 As a general principle, I tend to loose stuff, so I took that into account when deciding what tools to take and how to store it.
