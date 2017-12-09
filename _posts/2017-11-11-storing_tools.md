@@ -185,7 +185,10 @@ It is durable, supple, tolerate well thick joins, and can be un-glued by warming
 I use an animal glue made from cows: a mix of extract of bone and nerves of beef (hard to translate this one in English!)
 
 ## Miscellaneous ##
+![misc](/img/woodworking/tools/misc/misc_tools.jpg)
 Wooden hammer, safety equipment (headphone, safety glasses, gloves), varnish, various glues …
+In practice I separate between tools I always need with me and tools that I can leave in the woodshops.
+
 
 ## Sharpening equipment##
 Sharpening is useful in many ways, one is that mastering sharpening allows to use tools for a long time.
