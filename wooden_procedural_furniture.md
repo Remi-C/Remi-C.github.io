@@ -1,0 +1,181 @@
+﻿---
+layout: page
+title: Wooden (Computational / procedural / parametric / grammar-based) furniture
+subtitle: Ideas for durable wooden furniture tailored for everybody
+---
+
+# Introduction #
+
+People from Italy to Egypt to Japan seem to have used furniture through the millenias.
+This need of furniture is not going to disapear soon, with 700 Million people visiting an IKEA store last year.
+
+Ressources are finite, and with many billion houses, furnitures need to be durable.
+
+Wood is a good candidate for durable furniture building, as it is self-renewable. 
+Yet appropriate material is not enough for durability, 
+appropriate design is also paramount (functionnality as well as structure and joinery).
+Thankfully, proven examples of furniture one hundred years or older exist.
+
+In fact, highly durable furniture have been hand made for centuries. 
+Although being very durable, they are not adapted for mass producing. 
+
+# Main idea #
+*Maybe computer aided design and new digital fabrication tools ( laser cuter, 3D printers, etc. ) could bring 
+  durable, tailored, demountable solid wood furniture to the mass?*
+
+The digital world could help by greatly reducing the furniture fabrication time, thus making it available for the masse.
+The first direction would be to use procedural modelling ,mechanical simulation and assembly graph to help design, validate and customise furniture.
+The second direction would be to use digital fabrication tools (CNC router, laser, waterjet, 3D printer) to help accelerate fabrication.
+The key idea is this case is that digital machines would not actually fabricate the wooden furniture, but rather would fabricate templates and patterns that would enormously help fabricate the furniture with usual woodworking tools.
+
+# Procedural furniture modelling #
+The first direction is to use procedural modelling to ease design of durable wooden furnitures.
+Design time is very important for high quality furniture.
+A french cabinet maker common saying is that design, fabrication and finishing touches amount each to 1/3 of time.
+Reducing design time is then essential.
+
+## Procedural modelling for design ##
+Time is spent for initial design, and then for each customised version of the design. 
+
+In both cases, one solution is procedural/parametric/grammar-based modelling.
+For instance the number of shelf for a library can be procedurally dependent of the height, so that changing the library height automatically add or remove shelves in the design.
+The dependencies can be more complex, and can impact several parts (in the previous example, shelf fixating system would also need to be updated).
+
+This type of capabilities has been well researched (mainly not for furniture, but for virtual building for instance) and is in fact already hinted at (at least the basics) in most modelling software (image: in solidworks).
+
+![solidworks internet found model : https://grabcad.com/library/shelf-for-different-things-1 ](/img/re/furnitures/shelf_slid_works_combined.jpg)
+
+Many major open questions remain, such as the most appropriate type of modelling (procedural vs grammar), the efficiency of interfaces to create the model, etc. 
+Procedural modelling is also a solution to help model joins, which is a tedious an necessary task ( woodworking is joining pieces of wood, with joins!).
+
+![dovetail with sketchup https://www.popularwoodworking.com/woodworking-blogs/editors-blog/dovetails-sketchup-easier-think ](/img/re/furnitures/dovetail_sketchup.jpg)
+
+## Mechanical analysis and guided design##
+Another important aspect for durability is the mechanical quality of the furniture.
+
+Mechanical simulations are now very common.
+Yet simulating solid wood furniture is quite difficult.
+First simulating solid wood is still a challenge:
+ - properties can vary a lot even for the same wood species
+ - because wood is so anysotropic (behaviour strongly depends on the fibers directions)
+ - because wood properties strongly depends on humidity content (dimensions may vary by up to 15%!)
+ 
+Second simulating furniture requires to simulate joins, which is hard for traditionnal joinery (has not been done comprehensively to the best of my knowledge)
+ - it depends on the glue
+ - it depends on the fitting of the join
+ 
+Mechanical analysis could help dimensionate parts to optimize durability, cost, etc.
+ 
+Besides static analysis (furniture pass/does not pass), mechanical analysis can be integrated in interactive framework,
+such as in the work of Umetani,  Igarashi and Mitra (2012) : "Guided Exploration of Physically Valid Shapes for Furniture Design"
+![Guided Exploration of Physically Valid Shapes for Furniture Design](/img/re/furnitures/mitra_guided_design.jpg)
+
+The interactive capability is especially important for fluid design workflow and quick idea-to-model.
+Overall, it seems that a combining and refining work is needed to obtain efficient guided design. 
+
+## Dissassembly and joinery##
+Durable furniture need to be designed to be assembled / dissassembled. 
+This brings several advantages :
+ - transportation is much easier, increasing re-use.
+ - furniture can more easily be a part of a modular system.
+ - broken parts can be easily isolated and rebuild.
+ - separate parts means easier fabrication (errors are less costly, handling is easier, workload can be split easier)
+
+This topic has been researched, especially to circumvent digital fabrication tools limitations (limited printing size in 3D printer for instance).
+
+For instance Fu et al. (2015 Computational interlocking furniture assembly) use a graph based approach to design joins so a model is interlocked.
+![Computational interlocking furniture assembly](/img/re/furnitures/Computational interlocking furniture assembly.png)
+
+From the printing community, Luo et al. (2012, Chopper: Partitioning Models into 3D-Printable Parts) split a model into printable parts, then add basic joins
+![Computational interlocking furniture assembly](/img/re/furnitures/chopper.jpg)
+
+Joins are really essential for durability. A fact that is easy to remember every time we use a creaking chair for instance.
+
+# Producing templates for usual woodworking tool with digital fabrication machines #
+
+
+
+# Illustrating example # 
+
+# Priorities and research proposal #
+
+First with procedural furniture modelling, which would enable to customise a furniture based on a procedural model.
+Procedural modelling is also a way to assist in joinery design.
+Second with the mechanical simulation which would help validate design before prototyping, and would assist wood species selection and join dimensionning.
+Third with including the way to assemble/dissassemble the furniture in the design, 
+
+
+The first thing is that usual digital fabrication tools (waterjet, laser cuter, 
+Digital fabrication: not actually fabricate anything: fabricate templates to accelerate actual solid wood fabrication.
+ from my own experience.
+ 
+
+Still need a woodworker, but:
+ - way easyer/faster/cheaper
+	* design : use parametric design to adapt to needs, rather than start from scratch each time
+	* structure : software help designer cut furniture into parts, simulate design mechanical soundness, help design joins for resistancy and dissassembly 
+	* fabricating : less tedious work required thanks to parametric templates and digital fabrication.
+	* assembling: dissasemble design : also means working on manageable sized parts / parts that are not too complex. (consequence of failure is not rebuild everything).
+	* finishing : still place for creativity / can be customised / can be DIY + can use digital fabrication (example: laser for veneer)
+
+What is needed for that? What exists already? (state of the art)?
+
+ - Design : need a parametric way to represent furniture : already many possibilities ( purely procedural / grammar-based / scripts / hierarchical / module based ), inlcuding in common software (3D, solidworks, ...)
+ - structure: 
+  * need to split furniture into parts : many papers about this in digital fabrication for 3D printing
+  * need to simulate mechanical resistancy/soundness : lots of tools to do so (altough no work on traditionnal joinery, + wood is tough to simulate)
+  * need to help design joins : papers focusing on resistancy or on dissassembly.
+ - fabricating : generating physical templates by digital fabrication is easy when the procedural modell is available
+ - assembling: manual can also be generated automatically (already some work on that)
+ - finishing: the creative potential of veneer is enormous : tools for texturing from computer graphics community could help creativity. Easy to use laser to cut veneer.  
+  
+  
+  
+
+
+  
+Furniture have been along for a long time.
+Mankind revolves a lot about tools (e.g. clothes). These needs to be stored, enhanced, protected, by furniture.
+
+From a broad perspective, furniture has seen several revolutions. 
+ - Revolutions in material used with the wide spreading of metal and plastic. 
+ - Revolutions in scale, with mass-producing
+ - Revolution in purpose, for at least in France, the number of common furniture in a house went in one millennia from simple chest to hundreds of drawer, desk, sofa, etc. 
+
+Like in many other fields, it seems that digital tools (computer aided design, digital fabrication) is also impacting furniture.
+
+This leads to seriously exciting research.
+Indeed, one of the issue with digital world is that it only lives inside computers.
+Digital design/fabrication is a great way to materialize all these abstract stuff (software, physic, and math).
+
+Guided design may be useful in several ways, 
+Mainly to improve functionality of objects :
+ - Tailored object
+ - More robust objects (mechanical analysis)
+ - Better assembled objects (joints / partitioning)
+ - More complex objects 
+ - Optimized object (for strength, weight, etc.)
+ 
+and to help/improve the aesthetic aspect
+ - help transfer style
+ - help add details (pattern)
+ - play with shadow/reflection/physics
+ 
+ 
+## Some papers ##
+
+Here are some papers I liked:
+ - State of the Art in Methods and Representations for Fabrication-Aware Design:
+  * https://www.cs.princeton.edu/~funk/star17.pdf
+  * A state of the art! So useful
+
+ - Computational Interlocking Furniture Assembly:  
+  * ![locking mechanism](/img/re/furnitures/Fu et al. - 2015 - Computational interlocking furniture assembly.png)
+  * Very interesting, at last no more screws.
+ 
+ - Elasticity modulus of cabinet furniture joints: 
+  * This one is interesting but lack the analysis of traditional joinery
+  
+ - Interactive Design and Stability Analysis of Decorative Joinery for Furniture
+  * ![joinery](/img/re/furnitures/Interactive Design and Stability Analysis of Decorative Joinery for Furniture.png)
+  * Work on joinery with a very computer graphics approach, nice results.
