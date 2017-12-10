@@ -13,7 +13,6 @@ It was a part of a multi-family project.
 
 
 
-
 Restoring straight razor from flea market.
 ![Restoring straight razor](/img/woodworking/straight_razor.JPG)
  
