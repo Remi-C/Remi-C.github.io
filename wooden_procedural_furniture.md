@@ -26,7 +26,7 @@ Although being very durable, they are not adapted for mass producing.
 The digital world could help by greatly reducing the furniture fabrication time, thus making it available for the masse.
 The first direction would be to use procedural modelling ,mechanical simulation and assembly graph to help design, validate and customise furniture.
 The second direction would be to use digital fabrication tools (CNC router, laser, waterjet, 3D printer) to help accelerate fabrication.
-The key idea is this case is that digital machines would not actually fabricate the wooden furniture, but rather would fabricate templates and patterns that would enormously help fabricate the furniture with usual woodworking tools.
+The key idea is this case is that digital machines would not actually fabricate the wooden furniture, but rather would fabricate templates and machining fixtures that would enormously help fabricate the furniture with usual woodworking tools.
 
 # Procedural furniture modelling #
 The first direction is to use procedural modelling to ease design of durable wooden furnitures.
@@ -91,9 +91,15 @@ From the printing community, Luo et al. (2012, Chopper: Partitioning Models into
 
 Joins are really essential for durability. A fact that is easy to remember every time we use a creaking chair for instance.
 
+
 # Producing templates for usual woodworking tool with digital fabrication machines #
+Woodworking tools are extremely powerful and adapted to their usages.
+Trying to replace entirely these tools with digital fabrication machines (CNC router, 3D printer, laser cutter) is inefficient (a CNC router will never cut as fast as a table saw due to physic).
+Instead, we can use digital fabrication machines to augment classic woodworking tools by creating ad-hoc templates and machining fixtures.
 
+![machining fixture for table router from https://www.blb-bois.com/sites/default/files/images/terme-dico-du-bois/image-multiple/2014-04/calibreur-chantournement-gabarit.jpg](/img/re/furnitures/machining_fixture_le_bouvet.jpg)
 
+This may seem anecdotical, but in fact most of the fabricating part is spend setting tools and fabricating machining fixtures, especially when dealing with non flat geometry.
 
 # Illustrating example # 
 
