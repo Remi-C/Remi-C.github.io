@@ -23,6 +23,8 @@ Although being very durable, they are not adapted for mass producing.
 *Maybe computer aided design and new digital fabrication tools ( laser cuter, 3D printers, etc. ) could bring 
   durable, tailored, demountable solid wood furniture to the mass?*
 
+![Overall wooden furniture lifecycle](/img/re/furnitures/overal_wooden_furniture.jpg)
+  
 The digital world could help by greatly reducing the furniture fabrication time, thus making it available for the masse.
 The first direction would be to use procedural modelling ,mechanical simulation and assembly graph to help design, validate and customise furniture.
 The second direction would be to use digital fabrication tools (CNC router, laser, waterjet, 3D printer) to help accelerate fabrication.
@@ -63,6 +65,7 @@ First simulating solid wood is still a challenge:
 Second simulating furniture requires to simulate joins, which is hard for traditionnal joinery (has not been done comprehensively to the best of my knowledge)
  - it depends on the glue
  - it depends on the fitting of the join
+ - it requires to quantify rigidity, a bad problem
  
 Mechanical analysis could help dimensionate parts to optimize durability, cost, etc.
  
@@ -90,16 +93,30 @@ From the printing community, Luo et al. (2012, Chopper: Partitioning Models into
 ![Computational interlocking furniture assembly](/img/re/furnitures/chopper.jpg)
 
 Joins are really essential for durability. A fact that is easy to remember every time we use a creaking chair for instance.
+A very benefical side effect of having the joins designed proceduraly is to generate at the same time the manufacturing process and parameters. 
 
-
-# Producing templates for usual woodworking tool with digital fabrication machines #
+# Improving fabrication #
+## Producing templates and machining fixtures for usual woodworking tool with digital fabrication machines ##
 Woodworking tools are extremely powerful and adapted to their usages.
-Trying to replace entirely these tools with digital fabrication machines (CNC router, 3D printer, laser cutter) is inefficient (a CNC router will never cut as fast as a table saw due to physic).
+Trying to replace entirely these tools with digital fabrication machines (CNC router, 3D printer, laser cutter) is inefficient (a CNC router will never cut as fast as a table saw due to cutting physic).
 Instead, we can use digital fabrication machines to augment classic woodworking tools by creating ad-hoc templates and machining fixtures.
 
 ![machining fixture for table router from https://www.blb-bois.com/sites/default/files/images/terme-dico-du-bois/image-multiple/2014-04/calibreur-chantournement-gabarit.jpg](/img/re/furnitures/machining_fixture_le_bouvet.jpg)
 
-This may seem anecdotical, but in fact most of the fabricating part is spend setting tools and fabricating machining fixtures, especially when dealing with non flat geometry.
+This may seem anecdotical, but in fact most of the fabricating part is spend setting tools and fabricating jigs/machining fixtures, especially when dealing with non flat geometries.
+This is especially true if taking into account the lengthy marking step when aiming for the 0.1 mm accuracy. 
+Markings can also be accelerated with precision 2D printing and template laser cutting.
+
+#Improving documentation #
+In architecture, Building Information Model is now an important part of the architect work.
+The current state of the available documentation with quality furniture is appaling.
+Even the leader in masse furniture (IKEA) as a notoriously dreaded documentation.
+This is mainly because producing documentation is lengthy, costly, and require computer skills.
+
+Yet documentation is essential for maintenance, a staple of durability.
+
+Creating a FIM : Furniture Information Model? 
+In the spirit of open source, documentation can include all template/plans/model to fabricate the furniture.
 
 # Illustrating example # 
 
