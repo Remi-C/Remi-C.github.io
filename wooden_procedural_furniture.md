@@ -26,10 +26,10 @@ Although being very durable, they are not adapted for mass producing.
 ![Overall wooden furniture lifecycle](/img/re/furnitures/overal_wooden_furniture.jpg)
   
 The digital world could help by greatly reducing the furniture fabrication time, thus making it available for the masse.
-The first direction would be to use procedural modelling, mechanical simulation and assembly graph to help design, validate and customize furniture.
-The second direction would be to use digital fabrication tools (CNC router, laser, waterjet, 3D printer) to help accelerate fabrication.
-The key idea is this case is that digital machines would not actually fabricate the wooden furniture, but rather would fabricate templates and machining fixtures that would enormously help fabricate the furniture with usual woodworking tools.
-The third direction would be to improve the documentation of the furniture so it is more easily sold, used, maintained, repaired and recycled.
+ - The first direction would be to use procedural modelling, mechanical simulation and assembly graph to help design, validate and customize furniture.
+ - The second direction would be to use digital fabrication tools (CNC router, laser, waterjet, 3D printer) to help accelerate fabrication.
+    The key idea is this case is that digital machines would not actually fabricate the wooden furniture, but rather would fabricate templates and machining fixtures that would enormously help fabricate the furniture with usual woodworking tools.
+ - The third direction would be to improve the documentation of the furniture so it is more easily sold, used, maintained, repaired and recycled.
 
 # Procedural furniture modelling #
 The first direction is to use procedural modelling to ease design of durable wooden furniture.
