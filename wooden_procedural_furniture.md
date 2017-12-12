@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: Wooden (Computational / procedural / parametric / grammar-based) furniture
+title: Wooden procedural furniture (Computational / parametric / grammar-based)
 subtitle: Ideas for durable wooden furniture tailored for everybody
 ---
 
@@ -28,19 +28,21 @@ Although being very durable, they are not adapted for mass producing.
 The digital world could help by greatly reducing the furniture fabrication time, thus making it available for the masse.
  - The first direction would be to use procedural modelling, mechanical simulation and assembly graph to help design, validate and customize furniture.
  - The second direction would be to use digital fabrication tools (CNC router, laser, waterjet, 3D printer) to help accelerate fabrication.
-    The key idea is this case is that digital machines would not actually fabricate the wooden furniture, but rather would fabricate templates and machining fixtures that would enormously help fabricate the furniture with usual woodworking tools.
+    The key idea is this case is that digital machines would _*not*_ actually fabricate the wooden furniture, but rather would fabricate templates and machining fixtures that would enormously help fabricate the furniture with usual woodworking tools.
  - The third direction would be to improve the documentation of the furniture so it is more easily sold, used, maintained, repaired and recycled.
 
 # Procedural furniture modelling #
 The first direction is to use procedural modelling to ease design of durable wooden furniture.
-Design time is very important for high quality furniture.
+Design time is very high for high quality furniture.
 A French cabinet maker common saying is that design, fabrication and finishing touches amount each to 1/3 of time.
+
 Reducing design time is then essential.
 
 ## Procedural modelling for design ##
-Time is spent for initial design, and then for each customized version of the design. 
+Design time is spent for initial design, and then for each customized version of the design. 
 
 In both cases, one solution is procedural/parametric/grammar-based modelling.
+
 For instance the number of shelf for a library can be procedurally dependent of the height, so that changing the library height automatically add or remove shelves in the design.
 The dependencies can be more complex, and can impact several parts (in the previous example, shelf fixating system would also need to be updated).
 
@@ -60,12 +62,13 @@ Mechanical simulations are now very common.
 Yet simulating solid wood furniture is quite difficult.
 First simulating solid wood is still a challenge:
  - Properties can vary a lot even for the same wood species
- - Because wood is so anisotropic (behavior strongly depends on the fibers directions)
- - Because wood properties strongly depends on humidity content (dimensions may vary by up to 15 %!)
+ - Wood is vey anisotropic (behavior strongly depends on the fibers directions)
+ - Wood properties strongly depends on humidity content (dimensions may vary by up to 15 %!)
  
-Second simulating furniture requires to simulate joins, which is hard for traditional joinery (has not been done comprehensively to the best of my knowledge)
- - It depends on the glue
- - It depends on the fitting of the join
+Second simulating furniture requires to simulate joins,
+which is hard for traditional joinery (has not been done comprehensively to the best of my knowledge).
+ - It depends on the glue, wood species and the fiber direction
+ - It depends on the fitting of the join, hard to quantify for hand-made joins
  - It requires to quantify rigidity, a bad problem
  
 Mechanical analysis could help dimension parts to optimize durability, cost, etc.
@@ -75,19 +78,21 @@ such as in the work of Umetani et al.  (2012) : "Guided Exploration of Physicall
 ![Guided Exploration of Physically Valid Shapes for Furniture Design](/img/re/furnitures/mitra_guided_design.jpg)
 
 The interactive capability is especially important for fluid design workflow and quick idea-to-model.
-Overall, it seems that a combining and refining work is needed to obtain efficient guided design. 
+Overall, it seems that combining and refining existing work is needed to obtain efficient guided design. 
 
 ## Disassembly and joinery ##
 Durable furniture need to be designed to be assembled / disassembled. 
 This brings several advantages:
  - Transportation is much easier, increasing re-use.
- - Furniture can more easily be a part of a modular system.
  - Broken parts can be easily isolated and rebuild.
+ - Furniture can more easily be a part of a modular system.
  - Separate parts means easier fabrication (errors are less costly, handling is easier, workload can be split easier)
+
 
 This topic has been researched, especially to circumvent digital fabrication tools limitations (limited printing size in 3D printer for instance).
 
 For instance Fu et al. (2015 Computational interlocking furniture assembly) use a graph based approach to design joins so a model is interlocked.
+This work is very interesting (with limitations as usual) and also use graphs to solve the interlocking problem.
 ![Computational interlocking furniture assembly](/img/re/furnitures/Computational interlocking furniture assembly.png)
 
 From the printing community, Luo et al. (2012, Chopper: Partitioning Models into 3D-Printable Parts) split a model into printable parts, then add basic joins
@@ -99,37 +104,39 @@ A very beneficial side effect of having the joins designed procedurally is to ge
 # improving fabrication #
 ## Producing documents for fabrication ##
 Fabrication relies on a large amount of documents.
-This may seem wasteful, but the price of error is high in woodworking.
+This may seem wasteful, but the price of error is major in woodworking (both in time and materials).
 
-For starter the nomenclature and the fabrication sequences which is essential for parallelizing fabrication.
+For starter the nomenclature and the fabrication sequences could be generated automatically, this is essential for parallelizing fabrication.
 More technical documents are also needed, such as plans, cut list, etc.
 
 All this document are direct by-products of a procedural model, and fairly easy to produce (for a concrete example, a simple sketchup plugin creates cut-list from a 3D model).
 
 ## Producing templates and machining fixtures for usual woodworking tool with digital fabrication machines ##
-Woodworking tools are extremely powerful and adapted to their usages.
-Trying to replace entirely these tools with digital fabrication machines (CNC router, 3D printer and laser cutter) is inefficient (a CNC router will never cut as fast as a table saw due to cutting physic).
+Woodworking tools are extremely powerful (several kW each usualy) and adapted to their usages.
+Trying to replace entirely these tools with digital fabrication machines (CNC router, 3D printer and laser cutter) is inefficient (a CNC router will never cut as fast as a table saw due to cutting physic for instance).
 Instead, we can use digital fabrication machines to augment classic woodworking tools by creating ad-hoc templates and machining fixtures.
 
 ![machining fixture for table router from https://www.blb-bois.com/sites/default/files/images/terme-dico-du-bois/image-multiple/2014-04/calibreur-chantournement-gabarit.jpg](/img/re/furnitures/machining_fixture_le_bouvet.jpg)
 
 This may seem anecdotal, but in fact most of the fabricating part is spend setting tools and fabricating jigs/machining fixtures, especially when dealing with non-flat geometries.
 This is especially true if taking into account the lengthy marking step when aiming for the 0.1 mm accuracy. 
-Markings can also be accelerated with precision 2D printing (gluing the paper on the wood) and template laser cutting (on 4 mm medium for instance).
+Markings can also be accelerated with precision 2D printing (gluing the paper on the wood) and template laser cutting (on 4 mm medium for instance, which is then used to report the marks).
 
 
 # improving documentation #
 The third direction of improvement would be to improve the documentation.
+Documentation is essential for maintenance, repair and recycling, a staple of durability.
 
-In architecture, Building Information Model is now an important part of the architect work.
-The current state of the available documentation with quality furniture is appalling.
+Yet the current state of the available documentation with quality furniture is appalling.
 Even the leader in masse furniture (IKEA) as a notoriously dreaded documentation.
 This is mainly because producing documentation is lengthy, costly, and require computer skills.
 
-Yet documentation is essential for maintenance, a staple of durability.
+In architecture, Building Information Model (BIM) is now an important part of the architect work.
+BIMs contain a lot of information, not always useful for furniture, but maybe we could focus on the core and create FIM: Furniture Information Model? 
+In the spirit of open source, documentation can include all template/plans/model to fabricate the furniture, as well as mechanical characteristics and material provenance and recycling options.
 
-Creating a FIM: Furniture Information Model? 
-In the spirit of open source, documentation can include all template/plans/model to fabricate the furniture.
+
+
 
 # illustrating example # 
 
