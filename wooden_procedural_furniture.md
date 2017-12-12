@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: Wooden procedural furniture
-subtitle: Ideas for durable wooden furniture tailored for everybody, using procedural methods (also called Computational / parametric / grammar-based depending on the research community)
+subtitle: Ideas for durable wooden furniture tailored for everybody, using procedural methods (also called Computational - parametric - grammar-based depending on the research community)
 ---# Purpose of this article #
 This article intends to show how classic woodworking could be helped by procedural modelling, guided design, mechanical simulation and digital fabrication, the goal being to masse produce durable solid wood furniture.
 Although grounded in research, this article is not an extensive state of the art.
@@ -9,7 +9,53 @@ We first start from an actual furniture building experience and outline where th
 Then we generalise a bit this experience and show actual research that deals about the various parts of solid wood furniture fabrication.
 Last a more practical research road map is envisionned.
 
-# An example of durable, solid wood furniture design and fabrication #
+# An example of durable, solid wood furniture design and fabrication : the modern captain bed#
+[Website of the project with open sourced plan, presentation and pictures](/modern_captain_bed/).
+
+In 2015 I decided to change my bed. I needed something very rigid (back health), practical for storage (Paris' appartments tend to be small), demountable, and of course durable (Following durabilism, [a profound conviction of mine](/design_philosophy/)).
+
+I first looked for a suitable product in few specialized company, then asked few woodworkers, without success.
+Finaly, I designed and build it myself, learning [fine wood working in the process}(/2017-10-02-certified_cabinet_maker/)
+
+A conceptual 3D model, simplified (no joinery, no handles, simplified textures, etc.)
+
+**click on 3D model to change view**
+<div class="sketchfab-embed-wrapper"><iframe width="800" height="600" src="https://sketchfab.com/models/c7bc11224e4042eab323be94998c2b65/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/c7bc11224e4042eab323be94998c2b65?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Modern Captain Bed</a>
+    by <a href="https://sketchfab.com/RCura?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">RCura</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
+## Design idea and requirement ##
+I decided to get inspiration from historical captain bed, as I estimated that marine environnement constraints (sturdy, demountable, storage, durable) are similar to mine.
+![historical captain bed](/img/re/furnitures/captain_bed/historical_nautical_captain_bed.jpg)
+
+The main design requirements are:
+ - a nice wooden bed inspired by nautical captain bed
+ - a maximised amount of storage (about 2 m3!)
+ - through drawers
+ - solid wood, traditionnal joinery for strength and durability
+ - fully dismountable into small pieces (one person carry)
+ - Can be build with reasonnably common tools
+ 
+
+## Structure ##
+So the first step was to choose a structure.
+This step was essentially intellectual.
+
+A bed is a kind of furniture that is under a lot of stress, as it is used 1/3 of the time.
+Bed also has to be rigid, or one person turning in the bed may disturb the other person.
+Because the drawers have to go though and be accessible from either side (in case one side the bed is against a wall),
+the structure possibility are quite limited.
+**Help from a guided-design software would have been much welcome**.
+
+## Dimensionning ##
+
+## Joinery ##
+
 
 # Procedural modelling, mechanical simulation and digital fabrication for easier solid wood furniture fabrication ### Introduction ##
 
