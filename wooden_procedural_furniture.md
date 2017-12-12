@@ -3,10 +3,10 @@ layout: page
 title: Wooden procedural furniture
 subtitle: Ideas for durable wooden furniture tailored for everybody, using procedural methods (also called Computational - parametric - grammar-based depending on the research community)
 ---# Purpose of this article #
-This article intends to show how classic woodworking could be helped by procedural modelling, guided design, mechanical simulation and digital fabrication, the goal being to masse produce durable solid wood furniture.
+This article intends to show how classic woodworking could be helped by procedural modelling, guided design, mechanical simulation and digital fabrication, the goal being to mass produce durable solid wood furniture.
 Although grounded in research, this article is not an extensive state of the art.
 We first start from an actual furniture building experience and outline where the digital world could have simplified/accelerated the fabrication.
-Then we generalise a bit this experience and show actual research that deals about the various parts of solid wood furniture fabrication.
+Then we generalize this experience and show actual research that deals about the various parts of solid wood furniture fabrication.
 Last a more practical research road map is envisionned.
 
 # An example of durable, solid wood furniture design and fabrication : the modern captain bed#
@@ -48,18 +48,20 @@ Drawing joins was so lengthy that I gave up for most.
 
 At some point I changed the design so the bed was a bit less high.
 I ended up having to redraw everything!
-**Drawing the procedural way (where the number of drawers is a parameter for instance) would have been immensely helpful**
+
 ![Redrawing the model](/img/re/furnitures/captain_bed/design_redraw.jpg)
+
+**Drawing the procedural way (where the number of drawers is a parameter for instance) would have been immensely helpful**
 
 
 ### Structure ###
-So the first step was to choose a structure.
+Choosing the structure was amongst the first thing to do, as many other choices depends on it.
 This step was essentially intellectual.
 
 
 A bed is a kind of furniture that is under a lot of stress, as it is used 1/3 of the time.
 Bed also has to be rigid, or one person turning in the bed may disturb the other person.
-Because the drawers have to go though and be accessible from either side (in case one side the bed is against a wall),
+Because the drawers have to go though and be accessible from either side (in case one side of the bed is against a wall),
 the structure possibility are quite limited after some tries.
 **Help from a guided-design software would have been much welcome**.
 
@@ -67,25 +69,30 @@ The bed rigidity comes from the orthogonal vertical partitions, and the frame.
 ![Bed main structure](/img/re/furnitures/captain_bed/structure.jpg)
 
 ### Dimensionning ###
-Once the general structure in mind, all the parts have to be dimensioned (mainly, deifining the thicknesses), which is quite difficult.
+Once having the general structure in mind, all the parts have to be dimensioned (mainly, deifining the thicknesses), which is quite difficult.
 In practice, in involves looking in archive, browsing other similar designs and more notably interviewing many woodworkers to converge to something that might be OK (no way to know before testing it).
+
 Same goes for the wood species selection, a very though problem when taking into account resistance, weight, availability, esthetics and cost!
 Some part of the structure was validated through mechanical computing (ex: how much central deformation for a slat 0,8m long, 3cm square section, when supporting 100 kg?).
-Such computing was very long and painfull to do, as first one has to find the mechanical properties of a given wood species (density, elasticity, etc.), then configure an available generic mechanical software.
-**I really lacked a tool to roughly simulate mechanical aspects to help me validate/refine the choices**.
-in the end, most thicknesses are 30 mm for very strong parts, 24 mm for strong parts, and 20 mm for drawers.
+Such computing was very long and painfull to do, as first one has to find the mechanical properties of a given wood species (density, elasticity, etc.), then configure an available generic mechanical software. In the end, most thicknesses are 30 mm for very strong parts, 24 mm for strong parts, and 20 mm for drawers.
+
+
+**A tool to roughly simulate mechanical aspects to help validate/refine the choices would have been of great help**.
+
 
 ### Joinery design ###
-I decided to use traditionnal joinery, for durabilism, and because the requirment to be dismountable limits gluing a lot, which in turns require mechanically stronger joins.
+I decided to use traditionnal joinery, for durability, and because the requirment to be dismountable limits gluing a lot, which in turns require mechanically stronger joins.
+Some of this joins were complemented by screws and bolts, which can be worked around to go full wood, but are a very practical and reliable way to apply adjustable tension.
 
-Designing joins was an absolute pain, sa dismountability has to be taken into account.
-Basically classical woodworking joins limit the degree of freedom of two pieces to 1 or 2 degree (at least a translation, sometime a rotation).
-While in theory simple, sturdiness and simplicity of the joins have to be taken into account, as well as hyperstatism (what happens when wood expands by 5%?)
-To complicate matter, several joins may have an identical locking effect, but very different durability.
+Designing joins was an absolute pain, as dismountability has to be taken into account.
+Basically classical woodworking joins limit the degree of freedom of two pieces to 1 or 2 degree (at least a translation, sometimes a rotation).
+While in theory simple, sturdiness and simplicity of the joins have to be taken into account, as well as hyperstatism (what happens when wood expands by 5%, or something is off by 1 mm?).
+
+To complicate matter, several typ of joins may have an identical locking effect, but very different durability.
 This is clearly an optimisation process, as shown by the mental gym one has to perform to imagine how things get together.
 ![bed disassembly](/img/re/furnitures/captain_bed/disassembly/bed_disassembly.jpg)
 
-**I would clearly have benefited from some digital help, to choose join type but also to dimension joins**, as the joins became so complicated I had to manually draw a graph of things to keep tracks of work. 
+**Some digital help would have been greatly beenficial, to choose join type but also to dimension joins**, as the joins became so complicated I had to manually draw a graph of things to keep tracks of work. 
 ![Graph of joins](/img/re/furnitures/captain_bed/graph_of_joins.jpg)
 
 ## Fabrication ##
@@ -98,7 +105,8 @@ For instance, lacking wood may add several weeks of delays has it has to be drie
 ![Example of nomenclature](/img/re/furnitures/captain_bed/example_nomenclature.jpg)
 
 The fabrication sequence was mostly informal, and thus not optimised.
-**Much time could have been gained by a better tasks ordening**.
+
+**Much time could have been gained by a better tasks ordening and automatised plan/nomenclature generation**.
 
 ### markings and joinery ###
 Markings may become very repetitive for some identical joins,
@@ -106,9 +114,9 @@ so I used a laser cutter to create templates for some dovetails and other joins.
 
 I had to draw this templates manually, which is very time consuming, 
 so I used this method only for a few joins.
-**With templates generated automatically from 3D plans, I would have gained time and precision.**
 
 ![Example of templates](/img/re/furnitures/captain_bed/templates.jpg)
+**Automatically generated templates from 3D plans would have gained time and precision.**
 
 ###  Finishing touches ###
 This project used only solid wood, with no veneer work, and rather simple geometry. Thus the finishings were rater quick.
@@ -126,7 +134,7 @@ Of course much of this time is because I was still learning, and sometime becaus
 However, even dividing the hours spent on this bed by 4 (taking into account learning and broken tools),
 it would still be too much time to fabricate it to the mass.
 
-The big question is then how digital fabrication and computer aided design could help to converge quickly to a better furniture design and to fabricate the furniture more efficiently.
+**The big question is then how digital fabrication and computer aided design could help to converge quickly to a better furniture design and to fabricate the furniture more efficiently.**
 
 
 # Procedural modelling, mechanical simulation and digital fabrication for easier solid wood furniture fabrication ### Introduction ##
