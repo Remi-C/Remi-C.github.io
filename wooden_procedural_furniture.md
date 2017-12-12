@@ -40,9 +40,19 @@ The main design requirements are:
  - solid wood, traditionnal joinery for strength and durability
  - fully dismountable into small pieces (one person carry)
  - Can be build with reasonnably common tools
- 
 
-## Structure ##
+## Design ##
+### Design, drawing ###
+I did most of the drawing in Sketchup, a kind of standard choice for woodworker.
+Drawing joins was so lengthy that I gave up for most.
+
+At some point I changed the design so the bed was a bit less high.
+I ended up having to redraw everything!
+**Drawing the procedural way (where the number of drawers is a parameter for instance) would have been immensely helpful**
+![Redrawing the model](/img/re/furnitures/captain_bed/design_redraw.jpg)
+
+
+### Structure ###
 So the first step was to choose a structure.
 This step was essentially intellectual.
 
@@ -56,7 +66,7 @@ the structure possibility are quite limited after some tries.
 The bed rigidity comes from the orthogonal vertical partitions, and the frame.
 ![Bed main structure](/img/re/furnitures/captain_bed/structure.jpg)
 
-## Dimensionning ##
+### Dimensionning ###
 Once the general structure in mind, all the parts have to be dimensioned (mainly, deifining the thicknesses), which is quite difficult.
 In practice, in involves looking in archive, browsing other similar designs and more notably interviewing many woodworkers to converge to something that might be OK (no way to know before testing it).
 Same goes for the wood species selection, a very though problem when taking into account resistance, weight, availability, esthetics and cost!
@@ -65,7 +75,7 @@ Such computing was very long and painfull to do, as first one has to find the me
 **I really lacked a tool to roughly simulate mechanical aspects to help me validate/refine the choices**.
 in the end, most thicknesses are 30 mm for very strong parts, 24 mm for strong parts, and 20 mm for drawers.
 
-## Joinery ##
+### Joinery design ###
 I decided to use traditionnal joinery, for durabilism, and because the requirment to be dismountable limits gluing a lot, which in turns require mechanically stronger joins.
 
 Designing joins was an absolute pain, sa dismountability has to be taken into account.
@@ -76,9 +86,47 @@ This is clearly an optimisation process, as shown by the mental gym one has to p
 ![bed disassembly](/img/re/furnitures/captain_bed/disassembly/bed_disassembly.jpg)
 
 **I would clearly have benefited from some digital help, to choose join type but also to dimension joins**, as the joins became so complicated I had to manually draw a graph of things to keep tracks of work. 
-
 ![Graph of joins](/img/re/furnitures/captain_bed/graph_of_joins.jpg)
 
+## Fabrication ##
+For fabrication, some woodworking tools were broken, which forced me to adapt or go with hand tools.
+
+### list of parts, nomenclature, fabrication sequence ###
+The first step of fabrication is establishing a nomenclature, a list of part and buy it!
+This was mostly manual, yet a single error may have a strong effect on the fabrication process.
+For instance, lacking wood may add several weeks of delays has it has to be dried again in the woodshop.
+![Example of nomenclature](/img/re/furnitures/captain_bed/example_nomenclature.jpg)
+
+The fabrication sequence was mostly informal, and thus not optimised.
+**Much time could have been gained by a better tasks ordening**.
+
+### markings and joinery ###
+Markings may become very repetitive for some identical joins,
+so I used a laser cutter to create templates for some dovetails and other joins.
+
+I had to draw this templates manually, which is very time consuming, 
+so I used this method only for a few joins.
+**With templates generated automatically from 3D plans, I would have gained time and precision.**
+
+![Example of templates](/img/re/furnitures/captain_bed/templates.jpg)
+
+###  Finishing touches ###
+This project used only solid wood, with no veneer work, and rather simple geometry. Thus the finishings were rater quick.
+![Example of templates](/img/re/furnitures/captain_bed/assembled_bed.jpg)
+
+### Conclusion about the bed ###
+
+The design is quite satisfactory, the bed is fast and easy to assemble, and can be stored in little space.
+It has already been moved several times with ease and without damages.
+![Bed disassembled](/img/re/furnitures/captain_bed/bed_disassembled.jpg)
+
+All in all, I spend several hundred hours to design and build the bed, and I still need to build the drawers.
+Of course much of this time is because I was still learning, and sometime because I had to use workaround because of broken woodworking machines.
+
+However, even dividing the hours spent on this bed by 4 (taking into account learning and broken tools),
+it would still be too much time to fabricate it to the mass.
+
+The big question is then how digital fabrication and computer aided design could help to converge quickly to a better furniture design and to fabricate the furniture more efficiently.
 
 
 # Procedural modelling, mechanical simulation and digital fabrication for easier solid wood furniture fabrication ### Introduction ##
