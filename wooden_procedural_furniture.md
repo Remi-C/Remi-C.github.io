@@ -15,7 +15,7 @@ Last a more practical research road map is envisionned.
 In 2015 I decided to change my bed. I needed something very rigid (back health), practical for storage (Paris' appartments tend to be small), demountable, and of course durable (Following durabilism, [a profound conviction of mine](/design_philosophy/)).
 
 I first looked for a suitable product in few specialized company, then asked few woodworkers, without success.
-Finaly, I designed and build it myself, learning [fine wood working in the process}(/2017-10-02-certified_cabinet_maker/)
+Finaly, I designed and build it myself, learning [fine wood working in the process](/2017-10-02-certified_cabinet_maker/)
 
 A conceptual 3D model, simplified (no joinery, no handles, simplified textures, etc.)
 
@@ -46,15 +46,39 @@ The main design requirements are:
 So the first step was to choose a structure.
 This step was essentially intellectual.
 
+
 A bed is a kind of furniture that is under a lot of stress, as it is used 1/3 of the time.
 Bed also has to be rigid, or one person turning in the bed may disturb the other person.
 Because the drawers have to go though and be accessible from either side (in case one side the bed is against a wall),
-the structure possibility are quite limited.
+the structure possibility are quite limited after some tries.
 **Help from a guided-design software would have been much welcome**.
 
+The bed rigidity comes from the orthogonal vertical partitions, and the frame.
+![Bed main structure](/img/re/furnitures/captain_bed/structure.jpg)
+
 ## Dimensionning ##
+Once the general structure in mind, all the parts have to be dimensioned (mainly, deifining the thicknesses), which is quite difficult.
+In practice, in involves looking in archive, browsing other similar designs and more notably interviewing many woodworkers to converge to something that might be OK (no way to know before testing it).
+Same goes for the wood species selection, a very though problem when taking into account resistance, weight, availability, esthetics and cost!
+Some part of the structure was validated through mechanical computing (ex: how much central deformation for a slat 0,8m long, 3cm square section, when supporting 100 kg?).
+Such computing was very long and painfull to do, as first one has to find the mechanical properties of a given wood species (density, elasticity, etc.), then configure an available generic mechanical software.
+**I really lacked a tool to roughly simulate mechanical aspects to help me validate/refine the choices**.
+in the end, most thicknesses are 30 mm for very strong parts, 24 mm for strong parts, and 20 mm for drawers.
 
 ## Joinery ##
+I decided to use traditionnal joinery, for durabilism, and because the requirment to be dismountable limits gluing a lot, which in turns require mechanically stronger joins.
+
+Designing joins was an absolute pain, sa dismountability has to be taken into account.
+Basically classical woodworking joins limit the degree of freedom of two pieces to 1 or 2 degree (at least a translation, sometime a rotation).
+While in theory simple, sturdiness and simplicity of the joins have to be taken into account, as well as hyperstatism (what happens when wood expands by 5%?)
+To complicate matter, several joins may have an identical locking effect, but very different durability.
+This is clearly an optimisation process, as shown by the mental gym one has to perform to imagine how things get together.
+![bed disassembly](/img/re/furnitures/captain_bed/disassembly/bed_disassembly.jpg)
+
+**I would clearly have benefited from some digital help, to choose join type but also to dimension joins**, as the joins became so complicated I had to manually draw a graph of things to keep tracks of work. 
+
+![Graph of joins](/img/re/furnitures/captain_bed/graph_of_joins.jpg)
+
 
 
 # Procedural modelling, mechanical simulation and digital fabrication for easier solid wood furniture fabrication ### Introduction ##
