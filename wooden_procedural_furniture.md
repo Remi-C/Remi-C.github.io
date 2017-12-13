@@ -12,12 +12,12 @@ Last a more practical research road map is envisionned.
 # An example of durable, solid wood furniture design and fabrication : the modern captain bed#
 [Website of the project with open sourced plan, presentation and pictures](/modern_captain_bed/).
 
-In 2015 I decided to change my bed. I needed something very rigid (back health), practical for storage (Paris' appartments tend to be small), demountable, and of course durable (Following durabilism, [a profound conviction of mine](/design_philosophy/)).
+In 2015 I decided to change my bed. I needed something very rigid (back health), practical for storage (Paris' appartments tend to be small), easily disassembled and reassembled, and of course durable (following durabilism, [a profound conviction of mine](/design_philosophy/)).
 
 I first looked for a suitable product in few specialized company, then asked few woodworkers, without success.
-Finaly, I designed and build it myself, learning [fine wood working in the process](/2017-10-02-certified_cabinet_maker/)
+Finally, I decided to design and build it myself, learning [fine wood working in the process](/2017-10-02-certified_cabinet_maker/)
 
-A conceptual 3D model, simplified (no joinery, no handles, simplified textures, etc.)
+Illustration: a conceptual 3D model, simplified (no joinery, no handles, simplified textures, etc.)
 
 **click on 3D model to change view**
 <div class="sketchfab-embed-wrapper"><iframe width="800" height="600" src="https://sketchfab.com/models/c7bc11224e4042eab323be94998c2b65/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
@@ -29,110 +29,119 @@ A conceptual 3D model, simplified (no joinery, no handles, simplified textures, 
 </p>
 </div>
 
-## Design idea and requirement ##
-I decided to get inspiration from historical captain bed, as I estimated that marine environnement constraints (sturdy, demountable, storage, durable) are similar to mine.
+## Design idea and requirements ##
+I decided to get inspiration from historical captain bed (illustration below), as I estimated that marine environnement constraints (sturdy, easily disassembled and reassembled, integrated storage, durable) are close to mine.
 ![historical captain bed](/img/re/furnitures/captain_bed/historical_nautical_captain_bed.jpg)
 
-The main design requirements are:
- - a nice wooden bed inspired by nautical captain bed
- - a maximised amount of storage (about 2 m3!)
- - through drawers
- - solid wood, traditionnal joinery for strength and durability
- - fully dismountable into small pieces (one person carry)
- - Can be build with reasonnably common tools
+The main design requirements of my design are:
+ - a nice wooden bed inspired by nautical captain bed,
+ - a maximised amount of integrated storage (about 2m^3!, equivalent to two big closets),
+ - through drawers,
+ - solid wood, traditionnal joinery for strength and durability,
+ - can come apart into small pieces (i.e. easily transportable by one person),
+ - can be built with common woodworking tools.
 
 ## Design ##
 ### Design, drawing ###
-I did most of the drawing in Sketchup, a kind of standard choice for woodworker.
-Drawing joins was so lengthy that I gave up for most.
-
-At some point I changed the design so the bed was a bit less high.
-I ended up having to redraw everything!
+I did most of the drawing in Sketchup, a kind of standard choice for a woodworker.
+Drawing joins was so tedious that I gave up for most of them (nothing can be automate).
+And when after some time thinking about the design, I decided that the bed should be less high, I ended up having to redraw everything!
 
 ![Redrawing the model](/img/re/furnitures/captain_bed/design_redraw.jpg)
 
-**Drawing the procedural way (where the number of drawers is a parameter for instance) would have been immensely helpful**
+**Drawing the procedural way (where the number of drawers is a parameter for instance) would have been immensely helpful.**
 
 
 ### Structure ###
-Choosing the structure was amongst the first thing to do, as many other choices depends on it.
+Choosing the structure was amongst the first thing to do, as many other choices depend on it.
 This step was essentially intellectual.
 
 
 A bed is a kind of furniture that is under a lot of stress, as it is used 1/3 of the time.
-Bed also has to be rigid, or one person turning in the bed may disturb the other person.
-Because the drawers have to go though and be accessible from either side (in case one side of the bed is against a wall),
-the structure possibility are quite limited after some tries.
+A bed also needs to be rigid, or one person turning in the bed may disturb the other person.
+Because the drawers have to go through and be accessible from either side (in case one side of the bed is against a wall),
+the possibilities of structure are limited.
 **Help from a guided-design software would have been much welcome**.
 
 The bed rigidity comes from the orthogonal vertical partitions, and the frame.
 ![Bed main structure](/img/re/furnitures/captain_bed/structure.jpg)
 
 ### Dimensionning ###
-Once having the general structure in mind, all the parts have to be dimensioned (mainly, deifining the thicknesses), which is quite difficult.
-In practice, in involves looking in archive, browsing other similar designs and more notably interviewing many woodworkers to converge to something that might be OK (no way to know before testing it).
+Once having the general structure in mind, all the parts have to be dimensioned (mainly, defining the thicknesses), which tends to be difficult.
+In practice, it involves looking in archives, browsing other similar designs and more notably interviewing many woodworkers to converge to something that might be OK (there is no way to know before testing it...).
 
-Same goes for the wood species selection, a very though problem when taking into account resistance, weight, availability, esthetics and cost!
-Some part of the structure was validated through mechanical computing (ex: how much central deformation for a slat 0,8m long, 3cm square section, when supporting 100 kg?).
-Such computing was very long and painfull to do, as first one has to find the mechanical properties of a given wood species (density, elasticity, etc.), then configure an available generic mechanical software. In the end, most thicknesses are 30 mm for very strong parts, 24 mm for strong parts, and 20 mm for drawers.
+Same goes for the wood species selection, a very tough problem when taking into account resistance, weight, availability, esthetics and cost!
+Some parts of the structure were validated through mechanical computing (ex: how much central deformation for a slat 0,8m long, 3cm square section, when supporting 100 kg?).
+Such computing was very long and painfull to do, as first one has to find the mechanical properties of a given wood species (density, elasticity, etc.), then configure an available generic mechanical software. In the end, most thicknesses are 30mm for very strong parts, 24mm for strong parts, and 20mm for drawers.
 
 
-**A tool to roughly simulate mechanical aspects to help validate/refine the choices would have been of great help**.
+**A tool to roughly simulate mechanical aspects to help validate/refine the choices would have been of great help. It would reduce the uncertainty on the final product and would avoid unnecessary over-dimensioning**.
 
 
 ### Joinery design ###
-I decided to use traditionnal joinery, for durability, and because the requirment to be dismountable limits gluing a lot, which in turns require mechanically stronger joins.
-Some of this joins were complemented by screws and bolts, which can be worked around to go full wood, but are a very practical and reliable way to apply adjustable tension.
+I decided to use traditionnal joinery, for durability. Moreover, the requirements to have an easily disassembled item limits gluing a lot, which in turns require mechanically stronger joins.
+Some of this joins were complemented by screws and bolts, which can be worked around to go full wood, but are a very practical and reliable way to apply adjustable tension (allowing to compensate wood deformations or small conception errors).
 
 Designing joins was an absolute pain, as dismountability has to be taken into account.
-Basically classical woodworking joins limit the degree of freedom of two pieces to 1 or 2 degree (at least a translation, sometimes a rotation).
-While in theory simple, sturdiness and simplicity of the joins have to be taken into account, as well as hyperstatism (what happens when wood expands by 5%, or something is off by 1 mm?).
+Basically, classical woodworking joins limit the degree of freedom of two pieces to 1 or 2 degree (at least a translation, sometimes a rotation).
+While in theory simple, sturdiness and simplicity of the joins have to be taken into account, as well as hyperstatism (what happens when wood expands by 5% because of humidity, or something is off by 1 mm?).
 
-To complicate matter, several typ of joins may have an identical locking effect, but very different durability.
-This is clearly an optimisation process, as shown by the mental gym one has to perform to imagine how things get together.
+To complicate things, several types of joins may have an identical locking effect, but very different durability.
+This is clearly an optimization process, as shown by the mental gym one has to perform to imagine how things get together.
+
+Illustration: The dissassembly sequence of the bed, where grey arrows represent the direction of movement. Note that each movement means adequate joins.
 ![bed disassembly](/img/re/furnitures/captain_bed/disassembly/bed_disassembly.jpg)
 
-**Some digital help would have been greatly beenficial, to choose join type but also to dimension joins**, as the joins became so complicated I had to manually draw a graph of things to keep tracks of work. 
+**Some digital help would have been greatly beneficial, to choose the join types but also to dimension joins**, as the joins became so complicated I had to manually draw a graph of things to keep track of the work. 
 ![Graph of joins](/img/re/furnitures/captain_bed/graph_of_joins.jpg)
 
 ## Fabrication ##
-For fabrication, some woodworking tools were broken, which forced me to adapt or go with hand tools.
+Fabrication was different from usual profesional setting, as I naviguated between two associative woodshops with very differents equipments, which forced me to sometimes rely on hand tools.
 
-### list of parts, nomenclature, fabrication sequence ###
-The first step of fabrication is establishing a nomenclature, a list of part and buy it!
+### List of parts, nomenclature, fabrication sequence ###
+The first step of fabrication is to establish a nomenclature, a list of parts and... to buy it!
 This was mostly manual, yet a single error may have a strong effect on the fabrication process.
 For instance, lacking wood may add several weeks of delays has it has to be dried again in the woodshop.
+
+Illustration: an example of nomenclature and measures to help fabrication and quality control. Because errors are so easy to make, and so costly to deal with, the more visual representations are available, the better.
 ![Example of nomenclature](/img/re/furnitures/captain_bed/example_nomenclature.jpg)
 
-The fabrication sequence was mostly informal, and thus not optimised.
+The fabrication sequence was mostly informal, and thus not optimized.
 
-**Much time could have been gained by a better tasks ordening and automatised plan/nomenclature generation**.
+**Much time could have been gained by a smarter and more efficient tasks ordening and automated plan/nomenclature generation**.
 
-### markings and joinery ###
-Markings may become very repetitive for some identical joins,
-so I used a laser cutter to create templates for some dovetails and other joins.
+### Markings and joinery ###
+Markings may become very repetitive for some identical joins. I used a laser cutter to create templates for some dovetails and other joins.
 
-I had to draw this templates manually, which is very time consuming, 
-so I used this method only for a few joins.
+I had to draw this templates manually, which is very time consuming. That is why I used this method only for a few joins (when I absolutely needed to get them identical or when a type of join had to be done multiple times).
 
+Illutration: example of templates.
 ![Example of templates](/img/re/furnitures/captain_bed/templates.jpg)
-**Automatically generated templates from 3D plans would have gained time and precision.**
+
+
+**Automatically generated templates from 3D plans would have saved time and would have made the fabrication more precise.**
 
 ###  Finishing touches ###
-This project used only solid wood, with no veneer work, and rather simple geometry. Thus the finishings were rater quick.
+This project used only solid wood, with no veneer work, and rather simple geometry. The finishings were thus rather quick.
+
 ![Example of templates](/img/re/furnitures/captain_bed/assembled_bed.jpg)
 
 ### Conclusion about the bed ###
-
-The design is quite satisfactory, the bed is fast and easy to assemble, and can be stored in little space.
-It has already been moved several times with ease and without damages.
+After one year of use, I can only now assume that everything works as it should, that the bed is very solid and rigid. The storage capacity has proven to be very useful. The height were adapted to an everyday use. It is fast and easy to assemble (in about 15 minutes). It can be stored in a relatively small space (imagine if I had to store one bed and two closets instead!). It has already been moved several times with ease and without damage.
 ![Bed disassembled](/img/re/furnitures/captain_bed/bed_disassembled.jpg)
 
-All in all, I spend several hundred hours to design and build the bed, and I still need to build the drawers.
-Of course much of this time is because I was still learning, and sometime because I had to use workaround because of broken woodworking machines.
+All in all, I spent several hundred hours to design and build the bed (well.. I still need to build the drawers).
+Of course much of this time has been spent because I was still learning woodworking, and sometimes because I had to use workaround because of broken woodworking machines in the woodshop.
 
 However, even dividing the hours spent on this bed by 4 (taking into account learning and broken tools),
-it would still be too much time to fabricate it to the mass.
+it would still be too much time to fabricate it for the mass.
+
+Since this project I took time to properly [learn<)(/2017-10-02-certified_cabinet_maker/) [woodworking](/woodworking_projects/) and [design](/design_projects/), to build other furniture ([a keel game](/2016-07-01-ultra_molkky/), [optimised cutting boards](/2016-12-01-cutting_board/)), to analyze a lot of existing ones, and more importantly to talk with many experienced woodworkers.
+ 
+Besides my long time interest for digital fabrication, I also obtained a Ph.D. in computer science centered on procedural street modelling.
+Because this subject had not been studied, I read many papers about procedural modelling applied to various objects, such as buildings, trees, objects.
+
+All this made me mature and think about how to generalyze my experience and bring CAD to durable woodworking. 
 
 **The big question is then how digital fabrication and computer aided design could help to converge quickly to a better furniture design and to fabricate the furniture more efficiently.**
 
@@ -152,8 +161,8 @@ Thankfully, proven examples of furniture one hundred years or older exist.
 In fact, highly durable furniture has been hand made for centuries. 
 Although being very durable, they are not adapted for mass producing. 
 ## Main idea ##
-*Maybe computer aided design and new digital fabrication tools (laser cuter, 3D printers, etc.) could bring 
-  durable, tailored, demountable solid wood furniture to the mass?*
+*Maybe computer-aided design and new digital fabrication tools (laser cuter, 3D printers, etc.) could bring 
+  durable, tailored, dismountable solid wood furniture to the mass?*
 
 Illustration: general steps to create a wooden furniture, from ideas to recycling.
 ![Overall wooden furniture lifecycle](/img/re/furnitures/overal_wooden_furniture.jpg)
@@ -165,13 +174,13 @@ The digital world could help by greatly reducing the furniture fabrication time,
  - The third direction would be to improve the documentation of the furniture so it is more easily sold, used, maintained, repaired and recycled.
 ## Procedural furniture modelling ##
 The first direction is to use procedural modelling to ease design of durable wooden furniture.
-Design time is very high for high quality furniture.
+Designing high quality furniture is really time consuming.
 A French cabinet maker common precept is that design, fabrication and finishing step amount each to 1/3 of total idea-to-object time.
 
-Reducing design time is then essential.
+Reducing designing time is then essential.
 
 ### Procedural modelling for design ###
-Design time is spent for initial design, and then for each customized version of the design. 
+Designing time is spent for initial design, and then for each customized version of the design. 
 
 In both cases, one solution is procedural/parametric/grammar-based modelling.
 
@@ -199,7 +208,7 @@ Illustration: manual dovetail modelling in Sketchup.
 Another important aspect for durability is the mechanical quality of the furniture.
 
 Mechanical simulations are now very common.
-Yet simulating solid wood furniture is quite difficult.
+Yet simulating solid wood furniture is difficult.
 
 First, simulating solid wood is still a challenge:
  - Properties can vary a lot even for the same wood species.
@@ -215,7 +224,7 @@ which is hard for traditional joinery (has not been done comprehensively to the 
 Mechanical analysis could help dimension parts to optimize durability, cost, etc.
  
 Besides static analysis (furniture passes/does not pass), mechanical analysis can be integrated in interactive framework,
-such as in the work of Umetani et al.  (2012) : "Guided Exploration of Physically Valid Shapes for Furniture Design"
+such as in the work of Umetani et al.  (2012, Guided Exploration of Physically Valid Shapes for Furniture Design)
 (illustration: from the article).
 
 ![Guided Exploration of Physically Valid Shapes for Furniture Design](/img/re/furnitures/mitra_guided_design.jpg)
@@ -279,10 +288,10 @@ In the spirit of open source, documentation can include all template/plans/model
  # Priorities and research roadmap example #
 This article introduces a lots of research avenues, potentially much more than what can be done by one person.
 
-The described procedural woodworking ideas can be prioritised so they are tested and published incrementaly while minimizing risks.
+The described procedural woodworking ideas can be prioritized so they are tested and published incrementaly while minimizing risks.
 
 For instance, I would try to follow this broad steps (depending on available collaboration of course): 
- - (about 6 months) : state of the art article, contact with specialised labs/individuals on the subject. Full article.
+ - (about 6 months) : state of the art article, contact with specialized labs/individuals on the subject. Full article.
  -  create an interactive procedural modelling of furniture and joins: softwar (design choices are not assisted), then build few pieces of furniture with the outputted plans (timed). Short article/poster.
  - automate generation of fabrication sequences, templates and machining fixtures from the procedural model. Re-build same pieces of furniture (timed), compare times. Full article.
  - guided joins selection based on the interlocking paper, with friction, complexity and very basic resistance taken into account. Full article.
