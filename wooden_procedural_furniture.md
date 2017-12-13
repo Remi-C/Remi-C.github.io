@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: Wooden procedural furniture
-subtitle: Ideas for durable wooden furniture tailored for everybody, using procedural methods (also called Computational - parametric - grammar-based depending on the research community)
+subtitle: Ideas for durable wooden furniture tailored for everybody, using procedural methods (also called Computational ; parametric ; grammar-based depending on the research community)
 ---# Purpose of this article #
 This article intends to show how classic woodworking could be helped by procedural modelling, guided design, mechanical simulation and digital fabrication, the goal being to mass produce durable solid wood furniture.
 Although grounded in research, this article is not an extensive state of the art.
