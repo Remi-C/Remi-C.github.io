@@ -136,7 +136,7 @@ Of course much of this time has been spent because I was still learning woodwork
 However, even dividing the hours spent on this bed by 4 (taking into account learning and broken tools),
 it would still be too much time to fabricate it for the mass.
 
-Since this project I took time to properly [learn<)(/2017-10-02-certified_cabinet_maker/) [woodworking](/woodworking_projects/) and [design](/design_projects/), to build other furniture ([a keel game](/2016-07-01-ultra_molkky/), [optimised cutting boards](/2016-12-01-cutting_board/)), to analyze a lot of existing ones, and more importantly to talk with many experienced woodworkers.
+Since this project I took time to properly [learn](/2017-10-02-certified_cabinet_maker/) [woodworking](/woodworking_projects/) and [design](/design_projects/), to build other furniture ([a keel game](/2016-07-01-ultra_molkky/), [optimised cutting boards](/2016-12-01-cutting_board/)), to analyze a lot of existing ones, and more importantly to talk with many experienced woodworkers.
  
 Besides my long time interest for digital fabrication, I also obtained a Ph.D. in computer science centered on procedural street modelling.
 Because this subject had not been studied, I read many papers about procedural modelling applied to various objects, such as buildings, trees, objects.

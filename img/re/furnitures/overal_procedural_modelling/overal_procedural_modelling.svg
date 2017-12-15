@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210.00021mm"
+   height="297.00018mm"
+   viewBox="0 0 210.00021 297.00018"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="overal_procedural_modelling.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14184"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14182"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#f5ff00;fill-opacity:1;fill-rule:evenodd;stroke:#f5ff00;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker12551"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.2)"
+         style="fill:#3f3f3f;fill-opacity:1;fill-rule:evenodd;stroke:#3f3f3f;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path12549"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker12337"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path12335"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker12073"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path12071"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11871"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path11869"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11301"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path11299"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11135"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path11133"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10276"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.2)"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path10274"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10146"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path10144"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8420"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8418"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8290"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8288"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8166"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8164"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8118"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8116"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7954"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7952"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4897"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4888"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4951"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#868686;fill-opacity:1;fill-rule:evenodd;stroke:#868686;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4949"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4947"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#868686;fill-opacity:1;fill-rule:evenodd;stroke:#868686;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4945"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4943"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#868686;fill-opacity:1;fill-rule:evenodd;stroke:#868686;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4941"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4939"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#868686;fill-opacity:1;fill-rule:evenodd;stroke:#868686;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4937"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4935"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#868686;fill-opacity:1;fill-rule:evenodd;stroke:#868686;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4933"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4931"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill:#868686;fill-opacity:1;fill-rule:evenodd;stroke:#868686;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4929"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInS-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4888-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4897-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInS-6"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4888-9"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-7"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4897-1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInS-6-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4888-9-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutS-7-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4897-1-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#0008ff;fill-opacity:1;fill-rule:evenodd;stroke:#0008ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9381">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#d4d4d4;fill-opacity:0.33495148;stroke:#000000;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9383"
+         width="65.256226"
+         height="61.390118"
+         x="683.37512"
+         y="81.900269" />
+    </clipPath>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="246.6377"
+       height="232.02564"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,683.37512,81.900269)"
+       id="pattern9411">
+      <g
+         id="g9409"
+         clip-path="url(#clipPath9381)"
+         transform="matrix(3.7795276,0,0,3.7795276,-2582.8351,-309.54432)">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\proc_support_1.png"
+           xlink:href="proc_support_1.png"
+           transform="scale(-1,1)"
+           width="76.611938"
+           height="70.766891"
+           preserveAspectRatio="none"
+           id="image9385"
+           x="-750.13196"
+           y="81.572205" />
+        <path
+           style="fill:none;stroke:#0008ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS)"
+           d="M 720.69291,106.60224 V 131.9451"
+           id="path9387"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#0008ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInS-7);marker-end:url(#TriangleOutS-3)"
+           d="m 689.89248,115.39457 10.1935,6.36784"
+           id="path9389"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:transform-center-x="-12.948511"
+           inkscape:transform-center-y="8.2636311" />
+        <path
+           style="fill:none;stroke:#0008ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInS-6);marker-end:url(#TriangleOutS-7)"
+           d="m 730.47503,84.204969 -32.79749,8.667945"
+           id="path9391"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:transform-center-x="-14.887207"
+           inkscape:transform-center-y="-3.6488126" />
+        <g
+           transform="translate(153.15461,79.675688)"
+           id="g9399">
+          <path
+             inkscape:connector-curvature="0"
+             id="path9393"
+             d="m 594.00613,43.391477 -5.57723,1.473987"
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8420)" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path9395"
+             d="m 594.47317,43.267211 -14.15681,3.75515"
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path9397"
+             d="m 585.53175,45.665063 -4.66551,1.233033"
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8166)" />
+        </g>
+        <g
+           id="g9407"
+           transform="rotate(-75.31351,688.13858,-5.5859327)">
+          <path
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8420)"
+             d="m 594.00613,43.391477 -5.57723,1.473987"
+             id="path9401"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 594.47317,43.267211 -14.15681,3.75515"
+             id="path9403"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8166)"
+             d="m 585.53175,45.665063 -4.66551,1.233033"
+             id="path9405"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="320.56168"
+       height="179.29461"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,794.27533,89.146927)"
+       id="pattern10495">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\proc_support_3.png"
+         xlink:href="proc_support_3.png"
+         width="320.56168"
+         height="179.29462"
+         preserveAspectRatio="none"
+         id="image10493"
+         x="0"
+         y="0" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="246.6377"
+       height="232.02563"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,615.27875,161.42888)"
+       id="pattern10541">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\struct_3.png"
+         xlink:href="struct_3.png"
+         width="246.63771"
+         height="232.02562"
+         preserveAspectRatio="none"
+         id="image10539"
+         x="0"
+         y="0" />
+    </pattern>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10639-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10637-4"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10799-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10797-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10639-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10637-6"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10799-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10797-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10639-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10637-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10799-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10797-59"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="351.25408"
+       height="216.29857"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,699.7677,171.29845)"
+       id="pattern13114">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\struct_support.png"
+         xlink:href="struct_support.png"
+         width="351.25409"
+         height="216.29857"
+         preserveAspectRatio="none"
+         id="image13112"
+         x="0"
+         y="0" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="325.24938"
+       height="275.36205"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,587.17505,235.51457)"
+       id="pattern13178">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\join_3.png"
+         xlink:href="join_3.png"
+         width="325.24939"
+         height="275.36206"
+         preserveAspectRatio="none"
+         id="image13176"
+         x="0"
+         y="0" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="172.26137"
+       height="153.96418"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,601.64569,358.36032)"
+       id="pattern13992">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\plan.png"
+         xlink:href="plan.png"
+         y="0"
+         x="0"
+         id="image13990"
+         preserveAspectRatio="none"
+         height="153.96417"
+         width="172.26137" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="162.84289"
+       height="152.9106"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,647.22321,358.36032)"
+       id="pattern13999">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\machining.png"
+         xlink:href="machining.png"
+         y="0"
+         x="0"
+         id="image13997"
+         preserveAspectRatio="none"
+         height="152.9106"
+         width="162.84288" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="160.56631"
+       height="153.53585"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,690.30872,358.19485)"
+       id="pattern14006">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\finish_3.png"
+         xlink:href="finish_3.png"
+         y="0"
+         x="0"
+         id="image14004"
+         preserveAspectRatio="none"
+         height="153.53586"
+         width="160.56631" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="292.52111"
+       height="232.22753"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,587.36041,420.05911)"
+       id="pattern14118">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\doc_1.png"
+         xlink:href="doc_1.png"
+         width="292.52112"
+         height="232.22754"
+         preserveAspectRatio="none"
+         id="image14116"
+         x="0"
+         y="0" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="230.01722"
+       height="232.6884"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,682.90955,421.00531)"
+       id="pattern14164">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\join_2.png"
+         xlink:href="join_2.png"
+         y="0"
+         x="0"
+         id="image14162"
+         preserveAspectRatio="none"
+         height="232.6884"
+         width="230.01723" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="149.87062"
+       height="140.34243"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,691.01788,421.30338)"
+       id="pattern14989">
+      <g
+         id="g14987"
+         transform="matrix(3.7795276,0,0,3.7795276,-2611.7211,-1592.3277)">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\doc_3.png"
+           xlink:href="doc_3.png"
+           y="421.30338"
+           x="691.01788"
+           id="image14969"
+           preserveAspectRatio="none"
+           height="37.132267"
+           width="39.653267" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path14971"
+           d="m 713.46941,435.27288 3.2879,11.39107"
+           style="fill:none;stroke:#f5ff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker14184)" />
+        <circle
+           r="4.1366739"
+           cy="441.76694"
+           cx="698.31921"
+           id="circle14973"
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#f5ff10;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-end:url(#marker10799)" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path14975"
+           d="m 698.52633,437.83193 0.87637,-12.31681 4.08636,-1.50659"
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#2b2b2b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-end:url(#marker10799)" />
+        <flowRoot
+           transform="matrix(0.13155076,0,0,0.13155076,354.91599,212.86333)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot14985"
+           xml:space="preserve"><flowRegion
+             id="flowRegion14979"><rect
+               y="1580.9052"
+               x="2645.8921"
+               height="115.88325"
+               width="266.73849"
+               id="rect14977" /></flowRegion><flowPara
+             id="flowPara14981">1. Align</flowPara><flowPara
+             id="flowPara14983">2. Slide</flowPara></flowRoot>      </g>
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.39922737"
+     inkscape:cx="532.66174"
+     inkscape:cy="592.64077"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-586.29464,-165.84374)">
+    <rect
+       y="-22.035616"
+       x="-12.167366"
+       height="1012.5212"
+       width="461.431"
+       id="rect4700"
+       style="opacity:1;vector-effect:none;fill:#dad8d4;fill-opacity:1;stroke:#000000;stroke-width:0.55000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\design_idea.png"
+       xlink:href="design_idea.png"
+       y="-8.7808475"
+       x="29.585159"
+       id="image4539"
+       preserveAspectRatio="none"
+       height="63.982445"
+       width="68.470612" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\proc_example_2.png"
+       xlink:href="proc_example_2.png"
+       y="52.543629"
+       x="-223.44337"
+       id="image4550"
+       preserveAspectRatio="none"
+       height="49.358467"
+       width="65.518791"
+       transform="scale(-1,1)" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\proc_support_2.png"
+       xlink:href="proc_support_2.png"
+       y="71.861275"
+       x="213.59242"
+       id="image4572"
+       preserveAspectRatio="none"
+       height="49.358467"
+       width="85.796364" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\struct_1.png"
+       xlink:href="struct_1.png"
+       y="167.54306"
+       x="133.17007"
+       id="image4583"
+       preserveAspectRatio="none"
+       height="106.46833"
+       width="122.1605" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\struct_3.png"
+       xlink:href="struct_3.png"
+       y="167.54306"
+       x="260.62222"
+       id="image4594"
+       preserveAspectRatio="none"
+       height="106.46833"
+       width="113.4157" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\struct_2.png"
+       xlink:href="struct_2.png"
+       y="167.54306"
+       x="2.3600695"
+       id="image4605"
+       preserveAspectRatio="none"
+       height="106.46833"
+       width="125.51833" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\join_2.png"
+       xlink:href="join_2.png"
+       y="299.34857"
+       x="153.26692"
+       id="image4616"
+       preserveAspectRatio="none"
+       height="142.45168"
+       width="140.81639" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\join_1.png"
+       xlink:href="join_1.png"
+       y="299.34857"
+       x="-0.82640809"
+       id="image4627"
+       preserveAspectRatio="none"
+       height="142.45168"
+       width="148.80167" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\machining.png"
+       xlink:href="machining.png"
+       y="469.47147"
+       x="180.22083"
+       id="image4638"
+       preserveAspectRatio="none"
+       height="140.12332"
+       width="149.22501" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\finish_1.png"
+       xlink:href="finish_1.png"
+       y="609.50464"
+       x="3.4674609"
+       id="image4649"
+       preserveAspectRatio="none"
+       height="132.29167"
+       width="139.27667" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\finish_3.png"
+       xlink:href="finish_3.png"
+       y="609.59479"
+       x="180.22083"
+       id="image4671"
+       preserveAspectRatio="none"
+       height="133.92578"
+       width="140.05829" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\doc_1.png"
+       xlink:href="doc_1.png"
+       y="780.92004"
+       x="185.28822"
+       id="image4682"
+       preserveAspectRatio="none"
+       height="209.56558"
+       width="263.9754" />
+    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\join_2.png"
+       xlink:href="join_2.png"
+       width="140.81639"
+       height="142.45168"
+       preserveAspectRatio="none"
+       id="image4616-8"
+       x="2.1385119"
+       y="780.92004" />
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot4728"
+       xml:space="preserve"
+       transform="translate(8.3548798,131.44105)"><flowRegion
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="flowRegion4730"><rect
+           style="text-align:center;text-anchor:middle;stroke-width:0.07000434"
+           y="28.636572"
+           x="584.52063"
+           height="23.505894"
+           width="209.80179"
+           id="rect4732" /></flowRegion><flowPara
+         style="font-weight:bold;stroke-width:0.26458332"
+         id="flowPara4734">Procedural solid-wood furniture</flowPara></flowRoot>    <image
+       sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\plan.png"
+       xlink:href="plan.png"
+       y="463.54483"
+       x="16.814156"
+       id="image4746"
+       preserveAspectRatio="none"
+       height="146.05"
+       width="163.40666" />
+    <g
+       id="g13264"
+       transform="matrix(0.79833745,0,0,0.79833745,123.71535,134.80191)">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9179"
+         width="54.536766"
+         height="72.715683"
+         x="587.00104"
+         y="71.75428" />
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\design_concept.jpg"
+         xlink:href="design_concept.jpg"
+         width="54.536766"
+         height="72.715683"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         id="image4725"
+         x="587.00104"
+         y="71.754288" />
+      <flowRoot
+         transform="matrix(0.10662305,0,0,0.10662305,336.75642,54.959453)"
+         xml:space="preserve"
+         id="flowRoot4728-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion4730-1"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+             id="rect4732-5"
+             width="514.13068"
+             height="85.580246"
+             x="2344.3635"
+             y="81.861664"
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara4734-1">Design Idea</flowPara></flowRoot>    </g>
+    <g
+       id="g13284"
+       transform="matrix(0.79833745,0,0,0.79833745,132.18077,129.77556)">
+      <g
+         transform="translate(-26.509538,0.33136923)"
+         clip-path="url(#clipPath9381)"
+         id="g9363">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\proc_support_1.png"
+           xlink:href="proc_support_1.png"
+           y="81.572205"
+           x="-750.13196"
+           id="image4561"
+           preserveAspectRatio="none"
+           height="70.766891"
+           width="76.611938"
+           transform="scale(-1,1)" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4736"
+           d="M 720.69291,106.60224 V 131.9451"
+           style="fill:none;stroke:#0008ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS)" />
+        <path
+           inkscape:transform-center-y="8.2636311"
+           inkscape:transform-center-x="-12.948511"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4736-0"
+           d="m 689.89248,115.39457 10.1935,6.36784"
+           style="fill:none;stroke:#0008ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInS-7);marker-end:url(#TriangleOutS-3)" />
+        <path
+           inkscape:transform-center-y="-3.6488126"
+           inkscape:transform-center-x="-14.887207"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4736-6"
+           d="m 730.47503,84.734136 -32.79749,8.667945"
+           style="fill:none;stroke:#0008ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10146);marker-end:url(#marker10276)" />
+        <g
+           id="g9169"
+           transform="translate(153.15461,79.675688)">
+          <path
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8420)"
+             d="m 594.00613,43.391477 -5.57723,1.473987"
+             id="path7838"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 594.47317,43.267211 -14.15681,3.75515"
+             id="path7836"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8166)"
+             d="m 585.53175,45.665063 -4.66551,1.233033"
+             id="path4736-6-4"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="rotate(-75.31351,688.13858,-5.5859327)"
+           id="g9177">
+          <path
+             inkscape:connector-curvature="0"
+             id="path9171"
+             d="m 594.00613,43.391477 -5.57723,1.473987"
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8420)" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path9173"
+             d="m 594.47317,43.267211 -14.15681,3.75515"
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path9175"
+             d="m 585.53175,45.665063 -4.66551,1.233033"
+             style="fill:none;stroke:#0008ff;stroke-width:0.73400003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker8166)" />
+        </g>
+      </g>
+      <rect
+         id="rect9426"
+         y="82.231636"
+         x="656.8656"
+         height="61.390118"
+         width="65.256226"
+         style="fill:none;fill-opacity:0.33495148;stroke:#000000;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.10662305,0,0,0.10662305,411.65629,64.945446)"
+         xml:space="preserve"
+         id="flowRoot4728-3-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion4730-1-4"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+             id="rect4732-5-1"
+             width="514.13068"
+             height="85.580246"
+             x="2344.3635"
+             y="81.861664"
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara4734-1-3">Procedural model</flowPara></flowRoot>    </g>
+    <g
+       id="g13292"
+       transform="matrix(0.89435165,0,0,0.89435165,56.402898,115.75897)">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\proc_support_3.png"
+         xlink:href="proc_support_3.png"
+         y="96.43705"
+         x="729.32697"
+         id="image10490"
+         preserveAspectRatio="none"
+         height="47.438366"
+         width="84.815277" />
+      <rect
+         id="rect10498"
+         y="96.43705"
+         x="729.32697"
+         height="47.438366"
+         width="84.815277"
+         style="fill:none;stroke:#000000;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.10662305,0,0,0.10662305,496.76782,79.178111)"
+         xml:space="preserve"
+         id="flowRoot4728-3-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion4730-1-4-5"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+             id="rect4732-5-1-4"
+             width="514.13068"
+             height="85.580246"
+             x="2344.3635"
+             y="81.861664"
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara4734-1-3-8">Explore/customize</flowPara></flowRoot>    </g>
+    <g
+       id="g13256"
+       transform="matrix(0.79833745,0,0,0.79833745,210.24067,142.87261)">
+      <g
+         transform="matrix(0.92998138,0,0,0.92998138,14.162351,15.783383)"
+         id="g10548">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\struct_3.png"
+           xlink:href="struct_3.png"
+           width="65.256226"
+           height="61.390114"
+           preserveAspectRatio="none"
+           id="image4594-8"
+           x="615.27875"
+           y="161.42888" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-opacity:1"
+           width="65.256226"
+           height="61.390114"
+           x="615.27875"
+           y="161.42888"
+           id="rect10544" />
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-19.053731,-7.4558077)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:0.80000001;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot10550"
+           xml:space="preserve"><flowRegion
+             style="font-size:13.33333302px;line-height:0.80000001;text-align:center;text-anchor:middle"
+             id="flowRegion10552"><rect
+               style="font-size:13.33333302px;line-height:0.80000001;text-align:center;text-anchor:middle"
+               y="686.99091"
+               x="2491.3748"
+               height="38.198784"
+               width="40.390457"
+               id="rect10554" /></flowRegion><flowPara
+             style="font-weight:bold"
+             id="flowPara10556">100</flowPara><flowPara
+             style="font-weight:bold"
+             id="flowPara10558">kg</flowPara></flowRoot>        <g
+           transform="translate(0.04142115,-2.0710577)"
+           id="g12781">
+          <path
+             sodipodi:nodetypes="ccccccccc"
+             inkscape:connector-curvature="0"
+             id="path10560"
+             d="m 636.125,217.51367 -5.12645,-0.58367 -2.08189,0.33627 -4.35025,2.6185 0.20898,1.01757 4.62839,0.63805 1.83825,-0.32931 5.09195,-2.67983 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03900003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <path
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.20780001pt;stroke-opacity:1"
+             d="m 637.40332,217.7815 -1.55202,1.37901 -0.41757,-2.03562 z"
+             id="path12787"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.20780001pt;stroke-opacity:1"
+             d="m 623.49582,220.63437 1.55202,-1.37901 0.41757,2.03562 z"
+             id="path12789"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g12839">
+          <path
+             sodipodi:nodetypes="ccccccc"
+             inkscape:connector-curvature="0"
+             id="path10560-4-0"
+             d="m 662.30469,171.68555 -0.81641,0.64453 4.34718,6.7264 6.91845,7.53922 0.8164,-0.64453 -4.28871,-7.45163 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03900003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path12845"
+             d="m 673.90553,187.21396 -1.9294,-0.76671 1.63079,-1.28786 z"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.20780001pt;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path12847"
+             d="m 661.15382,171.06676 1.9294,0.76671 -1.63079,1.28786 z"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.20780001pt;stroke-opacity:1" />
+        </g>
+        <g
+           transform="matrix(1,0,0,0.63711135,1.2301455,71.709035)"
+           id="g12327">
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path10560-4-0-6"
+             d="m 648.0681,189.05078 -3.71419,0.50592 1.69489,10.29115 1.03906,-0.008 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03900003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <path
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.20780001pt;stroke-opacity:1"
+             d="m 646.57642,201.04207 -1.0518,-1.79001 2.07794,-0.0148 z"
+             id="path12333"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(36.762377,-8.7018544)"
+           id="g12781-8">
+          <path
+             sodipodi:nodetypes="ccccccccc"
+             inkscape:connector-curvature="0"
+             id="path10560-2"
+             d="m 636.125,217.51367 -4.55973,-0.62509 -1.70468,0.10299 -5.29418,2.8932 0.20898,1.01757 4.7309,0.46231 1.69848,-0.21925 5.12921,-2.61415 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03900003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <path
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.20780001pt;stroke-opacity:1"
+             d="m 637.40332,217.7815 -1.55202,1.37901 -0.41757,-2.03562 z"
+             id="path12787-4"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.20780001pt;stroke-opacity:1"
+             d="m 623.49582,220.63437 1.55202,-1.37901 0.41757,2.03562 z"
+             id="path12789-0"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <flowRoot
+         transform="matrix(0.10662305,0,0,0.10662305,339.10491,148.86062)"
+         xml:space="preserve"
+         id="flowRoot4728-3-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion4730-1-4-9"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+             id="rect4732-5-1-5"
+             width="514.13068"
+             height="85.580246"
+             x="2344.3635"
+             y="81.861664"
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara4734-1-3-2">Structural analysis</flowPara></flowRoot>    </g>
+    <g
+       id="g13218"
+       transform="matrix(0.79833745,0,0,0.79833745,160.33871,141.59723)">
+      <g
+         id="g13121">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\struct_support.png"
+           xlink:href="struct_support.png"
+           width="82.838669"
+           height="51.011181"
+           preserveAspectRatio="none"
+           id="image13109"
+           x="709.55457"
+           y="173.58727" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.891352;stroke-opacity:1"
+           width="82.838669"
+           height="51.011181"
+           x="709.55457"
+           y="173.58727"
+           id="rect13117" />
+      </g>
+      <flowRoot
+         transform="matrix(0.10662305,0,0,0.10662305,473.03546,156.93357)"
+         xml:space="preserve"
+         id="flowRoot4728-3-2-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion4730-1-4-9-5"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+             id="rect4732-5-1-5-9"
+             width="780.49774"
+             height="80.923355"
+             x="2214.7058"
+             y="75.268906"
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara4734-1-3-2-1">Wood species selection</flowPara></flowRoot>    </g>
+    <g
+       id="g14824"
+       transform="translate(0,6.3499999)">
+      <g
+         transform="matrix(0.79833745,0,0,0.79833745,118.87607,83.340905)"
+         id="g13185">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\join_3.png"
+           xlink:href="join_3.png"
+           width="76.095825"
+           height="64.42411"
+           preserveAspectRatio="none"
+           id="image13173"
+           x="587.11719"
+           y="235.45671" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.88426381;stroke-opacity:1"
+           width="76.095825"
+           height="64.42411"
+           x="587.11719"
+           y="235.45671"
+           id="rect13181" />
+      </g>
+      <flowRoot
+         transform="matrix(0.08512117,0,0,0.08512117,395.69202,258.90425)"
+         xml:space="preserve"
+         id="flowRoot4728-3-2-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion4730-1-4-9-6"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+             id="rect4732-5-1-5-3"
+             width="719.37457"
+             height="92.011665"
+             x="2248.7686"
+             y="68.67614"
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara4734-1-3-2-7">Procedural join design</flowPara></flowRoot>    </g>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#3f3f3f;stroke-width:3.19334984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-mid:url(#marker12551);marker-end:url(#marker12551)"
+       d="m 683.57117,256.73459 c 0,8.94099 -4.84737,16.74981 -12.05747,20.9418 -11.50014,6.51557 -24.42466,0.37683 -31.34502,-8.53859 -5.21991,-6.72381 -5.75324,-15.07755 -2.86407,-22.07849 3.67164,-8.77273 14.27058,-14.39843 22.05964,-14.53165 13.36911,0 24.20692,10.83781 24.20692,24.20693 z"
+       id="path13294"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccs" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ff7071;fill-opacity:1;stroke:none;stroke-width:3.43284559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-end:url(#marker10799)"
+       id="rect13675"
+       width="58.435417"
+       height="11.790218"
+       x="586.39514"
+       y="172.29422" />
+    <flowRoot
+       transform="matrix(0.08512117,0,0,0.08512117,390.36533,167.94147)"
+       xml:space="preserve"
+       id="flowRoot4728-3-2-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4730-1-4-3"
+         style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+           id="rect4732-5-1-1"
+           width="514.13068"
+           height="85.580246"
+           x="2344.3635"
+           y="81.861664"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4734-1-3-7"
+         style="font-weight:bold;text-align:start;text-anchor:start">DESIGN</flowPara></flowRoot>    <rect
+       style="opacity:1;vector-effect:none;fill:#e93031;fill-opacity:1;stroke:none;stroke-width:3.43284583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-end:url(#marker10799)"
+       id="rect13675-6"
+       width="58.435417"
+       height="11.790218"
+       x="586.40948"
+       y="336.88779" />
+    <flowRoot
+       transform="matrix(0.08512117,0,0,0.08512117,390.37964,332.53505)"
+       xml:space="preserve"
+       id="flowRoot4728-3-2-4-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4730-1-4-3-1"
+         style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+           id="rect4732-5-1-1-6"
+           width="514.13068"
+           height="85.580246"
+           x="2344.3635"
+           y="81.861664"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4734-1-3-7-0"
+         style="font-weight:bold;text-align:start;text-anchor:start">FABRICATION</flowPara></flowRoot>    <g
+       id="g14834"
+       transform="translate(7.2687173,4.9982179)">
+      <flowRoot
+         transform="matrix(0.08512117,0,0,0.08512117,387.61432,340.10694)"
+         xml:space="preserve"
+         id="flowRoot4728-3-2-9-2-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion4730-1-4-9-6-4"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+             id="rect4732-5-1-5-3-6"
+             width="719.37457"
+             height="92.011665"
+             x="2248.7686"
+             y="68.67614"
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara4734-1-3-2-7-4">Plans</flowPara></flowRoot>      <g
+         transform="translate(-12.652925,-5.6113387)"
+         id="g14014">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\plan.png"
+           xlink:href="plan.png"
+           width="45.577488"
+           height="40.736355"
+           preserveAspectRatio="none"
+           id="image4746-3"
+           x="601.64569"
+           y="358.36032" />
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\plan.png"
+           xlink:href="plan.png"
+           y="358.36032"
+           x="601.64569"
+           id="image13981"
+           preserveAspectRatio="none"
+           height="40.736355"
+           width="45.577488" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-opacity:1"
+           width="45.577488"
+           height="40.736355"
+           x="601.64569"
+           y="358.36032"
+           id="rect13995" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f31718;fill-opacity:1;stroke:none;stroke-width:3.43284607;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-end:url(#marker10799)"
+       id="rect13675-6-2"
+       width="58.435417"
+       height="11.790218"
+       x="586.36633"
+       y="404.6778" />
+    <flowRoot
+       transform="matrix(0.08512117,0,0,0.08512117,390.33646,400.32508)"
+       xml:space="preserve"
+       id="flowRoot4728-3-2-4-7-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4730-1-4-3-1-2"
+         style="font-size:66.17288971px;text-align:center;text-anchor:middle"><rect
+           id="rect4732-5-1-1-6-5"
+           width="615.34631"
+           height="77.794418"
+           x="2344.3635"
+           y="81.861664"
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4734-1-3-7-0-5"
+         style="font-weight:bold;text-align:start;text-anchor:start">DOCUMENTATION</flowPara></flowRoot>    <g
+       id="g15116"
+       transform="translate(25.155635,3.1784427)">
+      <g
+         id="g15107">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\doc_1.png"
+           xlink:href="doc_1.png"
+           width="49.638905"
+           height="39.407482"
+           preserveAspectRatio="none"
+           id="image4682-6"
+           x="587.36041"
+           y="420.05911" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.64136118;stroke-opacity:1"
+           width="49.638924"
+           height="39.407497"
+           x="587.36041"
+           y="420.05911"
+           id="rect14121" />
+      </g>
+      <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4728-3-2-9-2-7-8"
+         xml:space="preserve"
+         transform="matrix(0.08512117,0,0,0.08512117,390.2207,407.13453)"><flowRegion
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"
+           id="flowRegion4730-1-4-9-6-4-8"><rect
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle"
+             y="68.67614"
+             x="2248.7686"
+             height="92.011665"
+             width="719.37457"
+             id="rect4732-5-1-5-3-6-8" /></flowRegion><flowPara
+           id="flowPara4734-1-3-2-7-4-5">User manual</flowPara></flowRoot>    </g>
+    <g
+       id="g14844"
+       transform="translate(-47.625002,6.3499999)">
+      <g
+         transform="translate(52.824129,-6.9631207)"
+         id="g14019">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\machining.png"
+           xlink:href="machining.png"
+           width="43.085514"
+           height="40.457596"
+           preserveAspectRatio="none"
+           id="image4638-3"
+           x="647.22321"
+           y="358.36032" />
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\machining.png"
+           xlink:href="machining.png"
+           y="358.36032"
+           x="647.22321"
+           id="image13977"
+           preserveAspectRatio="none"
+           height="40.457596"
+           width="43.085514" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           width="43.085514"
+           height="40.457596"
+           x="647.22321"
+           y="358.36032"
+           id="rect14002" />
+      </g>
+      <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4728-3-2-9-2-8"
+         xml:space="preserve"
+         transform="matrix(0.08512117,0,0,0.08512117,498.83165,338.55278)"><flowRegion
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"
+           id="flowRegion4730-1-4-9-6-7"><rect
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle"
+             y="68.67614"
+             x="2248.7686"
+             height="92.011665"
+             width="719.37457"
+             id="rect4732-5-1-5-3-3" /></flowRegion><flowPara
+           id="flowPara4734-1-3-2-7-7">Templates</flowPara></flowRoot>    </g>
+    <g
+       id="g14794"
+       transform="translate(19.219415,5.5215769)">
+      <g
+         transform="translate(43.582298,-5.3892089)"
+         id="g14024">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\finish_3.png"
+           xlink:href="finish_3.png"
+           width="42.48317"
+           height="40.623028"
+           preserveAspectRatio="none"
+           id="image4671-8"
+           x="690.30872"
+           y="358.19485" />
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\finish_3.png"
+           xlink:href="finish_3.png"
+           y="358.19485"
+           x="690.30872"
+           id="image13979"
+           preserveAspectRatio="none"
+           height="40.623028"
+           width="42.48317" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-opacity:1"
+           width="42.48317"
+           height="40.623028"
+           x="690.30872"
+           y="358.19485"
+           id="rect14009" />
+      </g>
+      <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4728-3-2-9-2-0"
+         xml:space="preserve"
+         transform="matrix(0.08512117,0,0,0.08512117,532.75548,339.68413)"><flowRegion
+           style="font-size:66.17288971px;text-align:center;text-anchor:middle"
+           id="flowRegion4730-1-4-9-6-0"><rect
+             style="font-size:66.17288971px;text-align:center;text-anchor:middle"
+             y="68.67614"
+             x="2248.7686"
+             height="92.011665"
+             width="719.37457"
+             id="rect4732-5-1-5-3-5" /></flowRegion><flowPara
+           id="flowPara4734-1-3-2-7-49">Finishing touches</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(2.9088058,6.1843153)"
+       id="g14862">
+      <g
+         id="g14852"
+         transform="matrix(0.81381809,0,0,1.0023927,177.96325,-7.1660291)">
+        <rect
+           id="rect14850"
+           y="358.36032"
+           x="647.22321"
+           height="40.457596"
+           width="43.085514"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      </g>
+      <flowRoot
+         transform="matrix(0.08512117,0,0,0.08512117,501.04787,335.52681)"
+         xml:space="preserve"
+         id="flowRoot14860"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:0.85000002;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion14856"
+           style="font-size:66.17288971px;line-height:0.85000002;text-align:center;text-anchor:middle"><rect
+             id="rect14854"
+             width="665.69678"
+             height="169.08739"
+             x="2248.7686"
+             y="68.67614"
+             style="font-size:66.17288971px;line-height:0.85000002;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara14858">Fabrication</flowPara><flowPara
+           id="flowPara14908">sequence</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(0.05545618,0,0,0.05545618,711.64954,364.84987)"
+       id="g4">
+      <path
+         id="path14874-1"
+         style="opacity:1;vector-effect:none;fill:#3a3a3a;fill-opacity:1;stroke:none;stroke-width:26.22119141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-end:url(#marker10799)"
+         d="m 141.59868,317.37915 a 13.304872,13.304872 0 0 1 -13.30487,13.30487 13.304872,13.304872 0 0 1 -13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,13.30487 z m -1.12042,-59.38174 a 13.304872,13.304872 0 0 1 -13.30487,13.30487 13.304872,13.304872 0 0 1 -13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,-13.30488 13.304872,13.304872 0 0 1 13.30487,13.30488 z m -1.12039,-62.18277 a 13.304872,13.304872 0 0 1 -13.30488,13.30487 13.304872,13.304872 0 0 1 -13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,-13.30488 13.304872,13.304872 0 0 1 13.30488,13.30488 z m -0.98031,-58.96152 a 13.304872,13.304872 0 0 1 -13.30487,13.30487 13.304872,13.304872 0 0 1 -13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,13.30487 z M 327.081,0 H 90.234 C 74.331,0 61.381,12.959 61.381,28.859 v 412.863 c 0,15.924 12.95,28.863 28.853,28.863 H 380.35 c 15.917,0 28.855,-12.939 28.855,-28.863 V 89.234 Z m 6.81,43.184 35.996,39.121 h -35.996 z m 51.081,398.539 c 0,2.542 -2.081,4.629 -4.635,4.629 H 90.234 c -2.55,0 -4.619,-2.087 -4.619,-4.629 V 28.859 c 0,-2.548 2.069,-4.613 4.619,-4.613 h 219.411 v 70.181 c 0,6.682 5.443,12.099 12.129,12.099 h 63.198 z M 178.46142,128.89 H 334.15 c 5.013,0 9.079,4.066 9.079,9.079 0,5.013 -4.066,9.079 -9.079,9.079 H 178.46142 c -5.012,0 -9.079,-4.066 -9.079,-9.079 0,-5.012 4.067,-9.079 9.079,-9.079 z M 343.229,198.98 c 0,5.012 -4.066,9.079 -9.079,9.079 H 178.46142 c -5.012,0 -9.079,-4.066 -9.079,-9.079 0,-5.013 4.067,-9.079 9.079,-9.079 H 334.15 c 5.013,0 9.079,4.067 9.079,9.079 z m 0,59.013 c 0,5.013 -4.066,9.079 -9.079,9.079 H 178.46142 c -5.012,0 -9.079,-4.066 -9.079,-9.079 0,-5.013 4.067,-9.079 9.079,-9.079 H 334.15 c 5.013,0 9.079,4.066 9.079,9.079 z m 0,60.018 c 0,5.013 -4.066,9.079 -9.079,9.079 H 178.46142 c -5.012,0 -9.079,-4.066 -9.079,-9.079 0,-5.013 4.067,-9.079 9.079,-9.079 H 334.15 c 5.013,0 9.079,4.066 9.079,9.079 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g15129"
+       transform="translate(-10.106762,4.3617846)">
+      <g
+         id="g14967">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\Remi-C.github.io\img\re\furnitures\overal_procedural_modelling\doc_3.png"
+           xlink:href="doc_3.png"
+           width="39.653267"
+           height="37.132267"
+           preserveAspectRatio="none"
+           id="image14177"
+           x="691.01788"
+           y="421.30338" />
+        <path
+           style="fill:none;stroke:#f5ff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker14184)"
+           d="m 713.46941,435.27288 3.2879,11.39107"
+           id="path14180"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#f5ff10;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-end:url(#marker10799)"
+           id="path14450"
+           cx="698.31921"
+           cy="441.76694"
+           r="4.1366739" />
+        <path
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#2b2b2b;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-end:url(#marker10799)"
+           d="m 698.52633,437.83193 4.76996,-11.98544 7.44147,-0.0568"
+           id="path14680"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot14696"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.13155076,0,0,0.13155076,362.46764,214.74616)"><flowRegion
+             id="flowRegion14698"><rect
+               id="rect14700"
+               width="266.73849"
+               height="115.88325"
+               x="2645.8921"
+               y="1580.9052" /></flowRegion><flowPara
+             id="flowPara14702">1. Align</flowPara><flowPara
+             id="flowPara14704">2. Slide</flowPara></flowRoot>      </g>
+      <rect
+         id="rect15001"
+         y="421.30338"
+         x="691.01788"
+         height="37.132267"
+         width="39.653267"
+         style="fill:none;stroke:#000000;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       transform="matrix(0.08512117,0,0,0.08512117,479.31768,410.35462)"
+       xml:space="preserve"
+       id="flowRoot4728-3-2-9-2-7-8-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:41.44418716px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4730-1-4-9-6-4-8-3"
+         style="font-size:66.17288971px;line-height:41.44418716px;text-align:center;text-anchor:middle"><rect
+           id="rect4732-5-1-5-3-6-8-0"
+           width="722.1272"
+           height="215.88336"
+           x="2248.7686"
+           y="68.67614"
+           style="font-size:66.17288971px;line-height:41.44418716px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4734-1-3-2-7-4-5-8">Assembly</flowPara><flowPara
+         id="flowPara15053">instructions</flowPara></flowRoot>    <g
+       transform="translate(47.076341,67.973896)"
+       id="g14862-7">
+      <g
+         id="g14852-2"
+         transform="matrix(0.81381809,0,0,1.0023927,177.96325,-7.1660291)">
+        <rect
+           id="rect14850-3"
+           y="364.69516"
+           x="647.22321"
+           height="35.498936"
+           width="42.067562"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+      </g>
+      <flowRoot
+         transform="matrix(0.08512117,0,0,0.08512117,501.04787,341.87681)"
+         xml:space="preserve"
+         id="flowRoot14860-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.17288971px;line-height:0.85000002;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+           id="flowRegion14856-2"
+           style="font-size:66.17288971px;line-height:0.85000002;text-align:center;text-anchor:middle"><rect
+             id="rect14854-5"
+             width="665.69678"
+             height="169.08739"
+             x="2248.7686"
+             y="68.67614"
+             style="font-size:66.17288971px;line-height:0.85000002;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara15099">Furniture</flowPara><flowPara
+           id="flowPara15103">Information Model</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(0.05545618,0,0,0.05545618,755.84547,430.33849)"
+       id="g4-8">
+      <path
+         id="path14874-1-4"
+         style="opacity:1;vector-effect:none;fill:#3a3a3a;fill-opacity:1;stroke:none;stroke-width:26.22119141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker10639);marker-end:url(#marker10799)"
+         d="m 141.59868,317.37915 a 13.304872,13.304872 0 0 1 -13.30487,13.30487 13.304872,13.304872 0 0 1 -13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,13.30487 z m -1.12042,-59.38174 a 13.304872,13.304872 0 0 1 -13.30487,13.30487 13.304872,13.304872 0 0 1 -13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,-13.30488 13.304872,13.304872 0 0 1 13.30487,13.30488 z m -1.12039,-62.18277 a 13.304872,13.304872 0 0 1 -13.30488,13.30487 13.304872,13.304872 0 0 1 -13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,-13.30488 13.304872,13.304872 0 0 1 13.30488,13.30488 z m -0.98031,-58.96152 a 13.304872,13.304872 0 0 1 -13.30487,13.30487 13.304872,13.304872 0 0 1 -13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,-13.30487 13.304872,13.304872 0 0 1 13.30487,13.30487 z M 327.081,0 H 90.234 C 74.331,0 61.381,12.959 61.381,28.859 v 412.863 c 0,15.924 12.95,28.863 28.853,28.863 H 380.35 c 15.917,0 28.855,-12.939 28.855,-28.863 V 89.234 Z m 6.81,43.184 35.996,39.121 h -35.996 z m 51.081,398.539 c 0,2.542 -2.081,4.629 -4.635,4.629 H 90.234 c -2.55,0 -4.619,-2.087 -4.619,-4.629 V 28.859 c 0,-2.548 2.069,-4.613 4.619,-4.613 h 219.411 v 70.181 c 0,6.682 5.443,12.099 12.129,12.099 h 63.198 z M 178.46142,128.89 H 334.15 c 5.013,0 9.079,4.066 9.079,9.079 0,5.013 -4.066,9.079 -9.079,9.079 H 178.46142 c -5.012,0 -9.079,-4.066 -9.079,-9.079 0,-5.012 4.067,-9.079 9.079,-9.079 z M 343.229,198.98 c 0,5.012 -4.066,9.079 -9.079,9.079 H 178.46142 c -5.012,0 -9.079,-4.066 -9.079,-9.079 0,-5.013 4.067,-9.079 9.079,-9.079 H 334.15 c 5.013,0 9.079,4.067 9.079,9.079 z m 0,59.013 c 0,5.013 -4.066,9.079 -9.079,9.079 H 178.46142 c -5.012,0 -9.079,-4.066 -9.079,-9.079 0,-5.013 4.067,-9.079 9.079,-9.079 H 334.15 c 5.013,0 9.079,4.066 9.079,9.079 z m 0,60.018 c 0,5.013 -4.066,9.079 -9.079,9.079 H 178.46142 c -5.012,0 -9.079,-4.066 -9.079,-9.079 0,-5.013 4.067,-9.079 9.079,-9.079 H 334.15 c 5.013,0 9.079,4.066 9.079,9.079 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
