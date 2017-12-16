@@ -11,6 +11,11 @@ We first start from an actual furniture building experience and outline where th
 Then we generalize this experience and show actual research that deals about the various parts of solid wood furniture fabrication.
 Last a more practical research road map is envisioned.
 
+![Overall Procedural solid-wood furniture](/img/re/furnitures/overal_procedural_modelling/overal_procedural_modelling.jpg) 
+Illustration: starting from a furniture design idea, the designer would interactively use procedural modelling, structural analysis and procedural join modelling to explore ideas and converge to a design.
+The previous tools would also be used in fabrication phase and would help harness digital fabrication tools power. 
+Last helpful documents could also be generated to facilitate product fabrication, usage, repairing and recycling. 
+
 # An example of durable, solid wood furniture design and fabrication : the modern captain bed#
 [Website of the project with open sourced plan, presentation and pictures](/modern_captain_bed/).
 
