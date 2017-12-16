@@ -148,7 +148,8 @@ All this made me mature and think about how to generalize my experience and brin
 **The big question is then how digital fabrication and computer aided design could help to converge quickly to a better furniture design and to fabricate the furniture more efficiently.**
 
 
-# Procedural modelling, mechanical simulation and digital fabrication for easier solid wood furniture fabrication # ## Introduction ##
+# Procedural modelling, mechanical simulation and digital fabrication for easier solid wood furniture fabrication #
+## Introduction ##
 
 People from Italy to Egypt to Japan seem to have used furniture through the millennia.
 This need of furniture is not going to disappear soon, with 700 Million people visiting the largest mass furniture maker store last year.
@@ -162,7 +163,8 @@ Thankfully, proven examples of furniture one hundred years or older exist.
 
 In fact, highly durable furniture has been hand made for centuries. 
 Although being very durable, they are not adapted for mass producing. 
- ## Main idea ##
+
+## Main idea ##
 *Maybe computer-aided design and new digital fabrication tools (laser cuter, 3D printers, etc.) could bring 
   durable, tailored, dismountable solid wood furniture to the mass?*
 
@@ -180,7 +182,7 @@ Illustration: starting from a furniture design idea, the designer would interact
 The previous tools would also be used in fabrication phase and would help harness digital fabrication tools power. 
 Last helpful documents could also be generated to facilitate product fabrication, usage, repairing and recycling. 
 
- ## Procedural furniture modelling ##
+## Procedural furniture modelling ##
 The first direction is to use procedural modelling to ease design of durable wooden furniture.
 Designing high quality furniture is really time consuming.
 A French cabinet maker common precept is that design, fabrication and finishing step amount each to 1/3 of total idea-to-object time.
@@ -258,7 +260,8 @@ From the printing community, Luo et al. (2012, Chopper: Partitioning Models into
 
 Joins are really essential for durability. A fact that is easy to remember every time we use a creaking chair for instance.
 A very beneficial side effect of having the joins designed procedurally is to generate at the same time the manufacturing process and parameters. 
- ## Improving fabrication ##
+
+## Improving fabrication ##
 ### Producing documents for fabrication ###
 Fabrication relies on a large amount of documents.
 This may seem wasteful, but the price of error is major in woodworking (both in time and materials).
@@ -280,7 +283,7 @@ This may seem anecdotal, but in fact most of the fabricating part is spent setti
 This is especially true if taking into account the lengthy marking step when aiming for the 0.1 mm accuracy. 
 Markings can also be accelerated with precision 2D printing (gluing the paper on the wood) and template laser cutting (on 4 mm medium for instance, which is then used to report the marks).
 
- ## Improving documentation ##
+## Improving documentation ##
 The third direction of improvement would be to improve the documentation.
 Documentation is essential for maintenance, repair and recycling, a staple of durability.
 
@@ -293,7 +296,7 @@ BIMs contain a lot of information, not always useful for furniture, but maybe we
 In the spirit of open source, documentation can include all template/plans/model to fabricate the furniture, as well as mechanical characteristics and material provenance and recycling options.
 
 
-  # Priorities and research roadmap example #
+# Priorities and research roadmap example #
 This article introduces a lots of research avenues, potentially much more than what can be done by one person.
 
 The described procedural woodworking ideas can be prioritized so they are tested and published incrementally while minimizing risks.
