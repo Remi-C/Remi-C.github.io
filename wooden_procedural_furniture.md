@@ -169,6 +169,7 @@ Thankfully, proven examples of furniture one hundred years or older exist.
 In fact, highly durable furniture has been hand made for centuries. 
 Although being very durable, they are not adapted for mass producing. 
 
+
 ## Main idea ##
 *Maybe computer-aided design and new digital fabrication tools (laser cuter, 3D printers, etc.) could bring 
   durable, tailored, dismountable solid wood furniture to the mass?*
@@ -186,6 +187,9 @@ The digital world could help by greatly reducing the furniture fabrication time,
 Illustration: starting from a furniture design idea, the designer would interactively use procedural modelling, structural analysis and procedural join modelling to explore ideas and converge to a design.
 The previous tools would also be used in fabrication phase and would help harness digital fabrication tools power. 
 Last helpful documents could also be generated to facilitate product fabrication, usage, repairing and recycling. 
+
+## Artistics roots##
+In fact this method of introducing durability (and artistic quality) into furniture for the masse was part of several artistic movements such as the Arts and Craft / Art Nouveaux, and the Shaker style furnitures.  
 
 ## Procedural furniture modelling ##
 The first direction is to use procedural modelling to ease design of durable wooden furniture.
@@ -287,6 +291,15 @@ Instead, we can use digital fabrication machines to augment classic woodworking 
 This may seem anecdotal, but in fact most of the fabricating part is spent setting tools and fabricating jigs/machining fixtures, especially when dealing with non-flat geometries.
 This is especially true if taking into account the lengthy marking step when aiming for the 0.1 mm accuracy. 
 Markings can also be accelerated with precision 2D printing (gluing the paper on the wood) and template laser cutting (on 4 mm medium for instance, which is then used to report the marks).
+
+
+## Combining veneer and computer graphics ##
+Many researchers in the computer graphics field work on texturing 3D model.
+Some also use procedural patterns, symmetry, etc.
+
+Such tools could be leveraged to generate aesthetics veneer finishes for complex 3D model.
+
+
 
 ## Improving documentation ##
 The third direction of improvement would be to improve the documentation.
