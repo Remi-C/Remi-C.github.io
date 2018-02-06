@@ -3,6 +3,7 @@ layout: page
 title: (Computational / procedural / parametric / grammar-based) furniture
 subtitle: A collection of relevant ideas / papers
 ---
+([Here](/img/re/furnitures/Toward_tailored_and_durable_wooden_furniture_for_the_mass_using_computer_aided_design_and_digital_fabrication.pdf) is article in PDF latex version)
 
 Furniture have been along for a long time.
 Mankind revolves a lot about tools (e.g. clothes). These needs to be stored, enhanced, protected, by furniture.
