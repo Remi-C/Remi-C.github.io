@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: Seminar talk at Boston University in the Vision&Graphics and Shape lab
-subtitle: Introducing myself, streets reconstruction, and the durable wooden procedural furniture project
+title: How street modelling has many applications
+subtitle: Talking about street model for transport, autonomous vehicle, safety, public work, environment, entertainment, communication and urbanism
 tags: [research]
 category: research
 bigimg: /img/re/sota/transport.jpeg
