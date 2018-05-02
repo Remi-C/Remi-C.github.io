@@ -27,6 +27,7 @@ navbar-links:
    - CV: "CV"
    - Skills: "skills"
   Research:
+   - Graphical overview of past research subjects: "research_graphical_overview"
    - research interest: "research_interest"
    - publications: "publi"
    - Consulting and Training: "consulting_and_training"
