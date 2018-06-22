@@ -24,7 +24,10 @@ This is not coherent at all for a real beginner.
 
 
 This project shows how to build a sturdy, cheap, workbench using truly minimal tools.
-The total price is about 250 US$ (tools + consumable + wood), and the design is adapted to (motivated) beginner.
+The total price is about 250 US$ (tools + consumable + wood), 
+and the design is adapted to (dedicated) beginner.
+
+![workbench assembly](/img/woodworking/workbench/assembly/workbench_ANIM_assembly.gif)
 
 
 ## Minimal tool choice ##
