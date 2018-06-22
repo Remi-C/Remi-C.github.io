@@ -50,7 +50,6 @@ So what do you truly need for woodworking?
 - 5$ you'll need sandpaper (80, 160 gritts) and a flat piece of wood to flatten things
 - A drill/driver. Although formally not required, it is likely you have one and it is going to be helpful.
 
-tot: 59$
 ### Measuring/drawing tools ###  
 Measuring/drawing is extremely important. It impacts precision and mistake probability.
 
@@ -60,7 +59,6 @@ Measuring/drawing is extremely important. It impacts precision and mistake proba
 - 7$ : large square/straight edge (24 inch or more). Will be used for large scale checks (flatness, squareness) 
 - 10$: Cheap combination square. The angle setter is actually not required. You can adjust squareness with sand paper. 
 
-tot: 32$
 ### Holding work ###
 ![Zoom tools 1](/img/woodworking/workbench/tools/workbench_tools_zoom_1.jpeg)
 
@@ -69,7 +67,6 @@ Work always need to be properly held. It impacts precision, noise, safety, etc.
 - 16$ : Bar clamp, at least 8 inch opening.
 - 10$ : basic ratchet straps (min x4). Not really used usually, but much cheaper that large clamps.
 
-tot: 26$
 ### Consumables ###
 
 - 0$  : a piece of hard soap. Will lubricate saw and joints.
@@ -77,7 +74,6 @@ tot: 26$
 - 10$ : wood glue. I used less than 2L (bought 1 gallon for 20$).
 - 1$  : brush for glue.
 
-tot: 26$
 ### Cleaning ###
 Underrated, but important
 
