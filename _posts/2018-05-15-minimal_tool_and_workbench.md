@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Beginning woodworking for 200$, tools + workbench
+title: Beginning woodworking for 250$, tools + workbench
 subtitle: Presenting a practical, cheap way to seriously start woodworking, with minimal tools and the build of a workbench.
 tags: [woodworking, project, design]
 category: woodworking
@@ -48,17 +48,19 @@ So what do you truly need for woodworking?
 - A drill/driver. Although formally not required, it is likely you have one and it is going to be helpful.
 
 tot: 59$
-### Measuring/drawing tools ###
+### Measuring/drawing tools ###  
 Measuring/drawing is extremely important. It impacts precision and mistake probability.
 
 - 10$: good light! Drawing heavily depends on lighting. Nowadays 2400 lumens light bulbs are cheap.
-- 1$ : pencil. I like to have two. One very sharp for joins, the other for general purpose
+- 1$ : pencil. I like to have two. One very sharp for joins, the other for general purpose.
 - 4$ : tape measure: will be used for everything except joints drawing.sandpaper
 - 7$ : large square/straight edge (24 inch or more). Will be used for large scale checks (flatness, squareness) 
 - 10$: Cheap combination square. The angle setter is actually not required. You can adjust squareness with sand paper. 
 
 tot: 32$
 ### Holding work ###
+![Zoom tools 1](/img/woodworking/workbench/tools/workbench_tools_zoom_1.jpeg)
+
 Work always need to be properly held. It impacts precision, noise, safety, etc.
 
 - 16$ : Bar clamp, at least 8 inch opening.
@@ -76,30 +78,35 @@ tot: 26$
 ### Cleaning ###
 Underrated, but important
 
-- 0$  : broom
+- 0$  : broom. Vaccum are convenient, but regular one quickly chock with wood shavings.
 - 0$  : rags
 - 3$  : plastic sheeting to protect your floor during gluing.
 
-### Wood ###
+### Wood ### 
+![Zoom tools 1](/img/woodworking/workbench/building/web_gallery/001_delivery.jpg)
 It depends a bit of the dimension you want, and the 2x4 length you have access to.
 For me (1.6 x 0.5 x 0.98 m), it was about 20 2x4, with many leftover.
-
 You should have extra for test/mistakes.
+
+I also ordered OSB to protect the work area.
+
 Do not take pressure treated lumber, try to find good quality, premium 2x4.
-Inspect and choose personally each stud (straight grain, no damage, no twist),
-further work will be greatly facilitated.
-The total cost should be less than 100$.
+Inspect and choose personally each stud (straight grain, no damage, no twist).
+It will take time (about 1 hour), but further work will be greatly facilitated.
+The total cost for 2x4 should be less than 100$.
 
 ## Workbench design ##
+See the dedicated entry.
+
 ## Workbench build (tutorial) ##
 There are many good resources to learn woodworking (books, videos, etc.).
 This tutorial expects you to learn what you need on the side, and only gives the information relative to the project.
-You will need hours of research, and to train for each step.
+You most likely will need hours of research and reading, and to train for each step.
 
-Similarly, you should train to use the Ryoba saw, and learn how to sharpen chisels.
+Similarly, you should train to use the Ryoba saw, square, and learn how to sharpen chisels.
 
 
-<iframe src="./img/woodworking/workbench/building/web_gallery/index.html" width="800">
+<iframe src="../img/woodworking/workbench/building/web_gallery/index.html" width="800">
 	Build image gallery.
 </iframe>
 
