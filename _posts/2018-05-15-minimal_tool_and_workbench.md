@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-title: Beginning woodworking for 200$: tools + workbench
+title: Beginning woodworking for 200$, tools + workbench
 subtitle: Presenting a practical, cheap way to seriously start woodworking, with minimal tools and the build of a workbench.
-tags: [design, woodworking]
+tags: [woodworking, project, design]
 category: woodworking
 bigimg: /img/woodworking/workbench/tools/workbench_tools_full_1.jpeg
 ---
@@ -10,7 +10,7 @@ bigimg: /img/woodworking/workbench/tools/workbench_tools_full_1.jpeg
 
 
 ## Concept ##
-"Wprkbench is the first woodworker tool" goes the saying.
+"Workbench is the first woodworker tool" goes the saying.
 I agree!
 
 The question is: how do you build the workbench with almost no tools?
