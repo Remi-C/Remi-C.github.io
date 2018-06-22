@@ -1,0 +1,5 @@
+This gallery is intended to be used with SIGAL.
+
+- `cd Desktop`
+- `source env_remi/bin/activate`
+- `sigal build gallery -t galleria_rc/`, where `galleria_rc` is the folder containing the galleria template folder, with the change to css.
