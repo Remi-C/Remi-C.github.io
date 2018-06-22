@@ -106,7 +106,7 @@ You most likely will need hours of research and reading, and to train for each s
 Similarly, you should train to use the Ryoba saw, square, and learn how to sharpen chisels.
 
 
-<iframe src="../img/woodworking/workbench/building/web_gallery/index.html" width="800">
+<iframe src="../img/woodworking/workbench/building/web_gallery/index.html" width="800" height="800">
 	Build image gallery.
 </iframe>
 
