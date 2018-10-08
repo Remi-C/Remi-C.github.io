@@ -21,7 +21,7 @@ No screw, nails, pins, or glue.
 ## Design ##
 
 ![Design search](/img/woodworking/camouflaged_shelves/design/shelves_design_010.jpg)
-![Design search 2](/img/woodworking/camouflaged_shelves/design/shelves_design_010.jpg)
+![Design search 2](/img/woodworking/camouflaged_shelves/design/shelves_design_020.jpg)
 
 Because of the strong design constraints, joins were to be considered carefully.
 I opted ot build a frame using 2x4 and half-wood dovetails.
@@ -38,7 +38,7 @@ Last, I very inhomogeneous white paint reduced the visual impact of the shelves 
 In the end, the final product fits very well into the kitchen, most people don’t notice it and think it was an original part of kitchen.
 
 
-![Finished shelve](/img/woodworking/camouflaged_shelves/finished/ shelf_result_010.jpg)
+![Finished shelve](/img/woodworking/camouflaged_shelves/finished/shelf_result_010.jpg)
 
 ## Building the shelve ##
 The shelve was fully build using hand tools.
