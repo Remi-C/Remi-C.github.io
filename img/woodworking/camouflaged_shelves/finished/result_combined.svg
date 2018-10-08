@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="181.5024mm"
+   height="109.05882mm"
+   viewBox="0 0 181.5024 109.05882"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="result_combined.svg"
+   inkscape:export-filename="C:\remicura\PROJET\Remi-C.github.io\img\woodworking\camouflaged_shelves\finished\combined.png"
+   inkscape:export-xdpi="112.02578"
+   inkscape:export-ydpi="112.02578">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath897">
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#010101;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect899"
+         width="199.11583"
+         height="119.64215"
+         x="-2.9248804e-005"
+         y="-0.64364159" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="186.08137"
+     inkscape:cy="-30.879238"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.9248804e-5,-9.9396918)">
+    <g
+       id="g895"
+       clip-path="url(#clipPath897)"
+       transform="matrix(0.91154177,0,0,0.91154177,-2.5872975e-6,10.526398)">
+      <g
+         id="g878">
+        <image
+           sodipodi:absref="C:\remicura\PROJET\Remi-C.github.io\img\woodworking\camouflaged_shelves\finished\IMG_20181008_110307177.jpg"
+           xlink:href="IMG_20181008_110307177.jpg"
+           width="65.409958"
+           height="128.93939"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeQuality"
+           id="image825"
+           x="134.91742"
+           y="-1.7019749" />
+        <image
+           sodipodi:absref="C:\remicura\PROJET\Remi-C.github.io\img\woodworking\camouflaged_shelves\finished\IMG_20180605_184614194.jpg"
+           xlink:href="IMG_20180605_184614194.jpg"
+           width="70.303581"
+           height="124.96462"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeQuality"
+           id="image836"
+           x="-2.9248804e-005"
+           y="-0.64364159" />
+        <image
+           sodipodi:absref="C:\remicura\PROJET\Remi-C.github.io\img\woodworking\camouflaged_shelves\finished\IMG_20180610_193225592.jpg"
+           xlink:href="IMG_20180610_193225592.jpg"
+           width="64.653542"
+           height="122.51849"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeQuality"
+           id="image847"
+           x="70.132751"
+           y="-0.64364159" />
+      </g>
+      <g
+         id="g886">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 70.132751,-0.64364157 V 121.87485"
+           id="path850"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 134.91742,-1.7019748 V 127.23741"
+           id="path852"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
