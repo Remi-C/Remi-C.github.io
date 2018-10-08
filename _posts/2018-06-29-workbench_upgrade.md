@@ -1,4 +1,4 @@
-﻿       ---
+﻿---
 layout: post
 title: simple upgrades for the beginner’s workbench
 subtitle: Adding vises, dogs, holdfasts
