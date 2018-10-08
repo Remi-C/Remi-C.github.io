@@ -6,6 +6,7 @@ tags: [woodworking, project, design]
 category: woodworking
 bigimg: /img/woodworking/camouflaged_shelves/finished/shelf_result_010.jpg
 ---
+![Available space](/img/woodworking/camouflaged_shelves/finished/shelf_result_010.jpg)
 
 ## Concept ##
 ![Available space](/img/woodworking/camouflaged_shelves/design/shelves_design_000.jpg)
