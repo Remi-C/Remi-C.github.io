@@ -30,7 +30,7 @@ Forged hold fast are better but rather expensive. Instead, you can use cast meta
 - Rough sanding and serrating of holdfast rod (use metal saw / 40 sand paper / file).
 - Gluing leather patch under holdfast holding parts.
 
-![holdfast schema](/img/woodworking/workbench/upgrades/holdfast.JPG)
+![holdfast schema](/img/woodworking/workbench/upgrades/holdfast.jpg)
 
 After that, hold fast should hold when tapping on the head with a light blow of a mallet.  
 
@@ -55,7 +55,7 @@ By drilling a hole on the moving jaw of the vise, a bench dog can be inserted. T
 The last vise installed is a very simple and cheap end vise.
 Because it is cheap, special care must be taken against raking.
 
-![racking in vise](/img/woodworking/workbench/upgrades/end_wise_racking.jpg)
+![racking in vise](/img/woodworking/workbench/upgrades/end_vise_racking/end_wise_racking.jpg)
 
 In practice, I use this vise the less.
 A simple screw allows to use the vise with benchdogs
