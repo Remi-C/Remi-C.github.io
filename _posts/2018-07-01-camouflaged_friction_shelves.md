@@ -57,7 +57,7 @@ In practice, the shelves are very stable and can be loaded no problem.
 ![Finished shelve](/img/woodworking/camouflaged_shelves/building/shelve_building_030.jpg)
 
 ## result ##
-The finished shelf add to be slightly carved to fit to the exact (not-straigth) wall.
+The finished shelf add to be slightly carved to fit to the exact (not-straight) wall.
 Overall, the result is very stable.
 
 ![Finished shelve](/img/woodworking/camouflaged_shelves/finished/ shelf_result_020.jpg)
