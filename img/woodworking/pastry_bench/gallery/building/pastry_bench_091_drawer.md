@@ -1,0 +1,1 @@
+Sides of the drawer contains grooves, which are pretty hard to do with only generic hand tools.

@@ -1,0 +1,1 @@
+This permanent tension forces to assemble first the tabletop and then the reinforcments.

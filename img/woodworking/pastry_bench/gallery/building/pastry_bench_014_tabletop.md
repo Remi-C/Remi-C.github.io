@@ -1,0 +1,1 @@
+Table top has to surfaced, but small defects will be compensated by the epoxy finish latter.

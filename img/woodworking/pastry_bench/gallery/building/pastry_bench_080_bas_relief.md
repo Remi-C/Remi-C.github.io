@@ -1,0 +1,1 @@
+The massive appearance of the astry bench can be alleviated with cutouts (away from the joins).

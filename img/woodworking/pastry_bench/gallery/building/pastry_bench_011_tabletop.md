@@ -1,0 +1,1 @@
+Gluing is ;uch somplified with the presence of the sliding dovetail piece, as it enforce alignment.

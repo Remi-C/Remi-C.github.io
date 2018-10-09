@@ -1,0 +1,1 @@
+The finished drawer frame is extremely rigid and tough.
