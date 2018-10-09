@@ -20,7 +20,7 @@ See the [dedicated entry](../2018-08-15-pastry_bench_design) in the [design post
 Here is a very loose tutorial, more like comments on the build really
 
 
-<iframe src="/img/woodworking/pastry_bench/gallery/_build/index.html#/0" width="800" height="800"> 
+<iframe src="../img/woodworking/pastry_bench/gallery/generated_gallery/index.html#/0" width="800" height="800"> 
 	Build image gallery.
 </iframe>
 
