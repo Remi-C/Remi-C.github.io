@@ -14,13 +14,13 @@ bigimg: /img/woodworking/pastry_bench/pastry_bench_1.JPG
 ## Concept ##
   
 ## Pastry bench design ##
-See the [dedicated entry](./2018-08-15-pastry_bench_design) in the [design posts](../design_projects).
+See the [dedicated entry](../2018-08-15-pastry_bench_design) in the [design posts](../design_projects).
 
 ## Pastry bench build (tutorial) ##
 Here is a very loose tutorial, more like comments on the build really
 
 
-<iframe src="../img/woodworking/pastry_bench/gallery/_build/index.html#/0" width="800" height="800"> 
+<iframe src="/img/woodworking/pastry_bench/gallery/_build/index.html#/0" width="800" height="800"> 
 	Build image gallery.
 </iframe>
 
