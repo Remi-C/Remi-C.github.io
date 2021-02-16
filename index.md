@@ -5,11 +5,15 @@ subtitle: About my research and woodworking projects.
 ---
 
 
-I'm a French engineer (Science and Technology of Telecommunication) with a Ph.D. in computer science applied to Geographical Information.
-I'm interested in [lots of fields](./research_interest) of computer science, mostly about computer vision, computer graphics, machine learning and database/big data, remote sensing and digital humanities.
+I'm an engineer (Science and Technology of Telecommunication) with a Ph.D. in computer science applied to Geographical Information.
+I'm passionate about data, and interested in many other [fields](./research_interest) of computer science, 
+mostly about computer vision, computer graphics, machine learning and database/big data, remote sensing.
+
+I really enjoy working wiht people outside of computer science, such as historians, economists and political scientists.
 
 
-My [research work](./publi) involves a PhD and [a postdoc]({{ site.baseurl }}{% post_url 2017-01-01-historical_geocoding %}) so far.
+My [research work](./publi) involves a PhD, [a postdoc]({{ site.baseurl }}{% post_url 2017-01-01-historical_geocoding %}) in France
+, and an ongoing postdoc at MIT.
 
 
 My [Ph.D]({{ site.baseurl }}{% post_url 2016-09-12-Inverse_procedural_street_modelling %}) was about inverse procedural street modelling, and was divided in roughly three parts:
@@ -17,7 +21,7 @@ My [Ph.D]({{ site.baseurl }}{% post_url 2016-09-12-Inverse_procedural_street_mod
  -  one part to deal with massive point cloud in database [Point Cloud Server]({{ site.baseurl }}{% post_url 2016-02-01-point_cloud_server %}) and [Implicit LOD]({{ site.baseurl }}{% post_url 2016-02-02-implicit_lod %}) .
  - and one optimization part to fit a street model to observations extracted from mobile mapping street images/point cloud (chap. 5 in thesis).
  
-I started freelance [consulting and training](./consulting_and_training) on subjects related to my PhD.
+I also freelanced [consulting and training](./consulting_and_training) on subjects related to my PhD.
  
 ![estampille rc](/img/logo/logo_rc_export.svg)
 
@@ -32,4 +36,4 @@ In general, I like manual activities, especially manual craft, such as [leather 
 
 More generally I'm very interested in building things, both manually and digitally (graphism, 3D printing, CNC, etc.) (see my [skills](./skills) and my [resume](./CV) )
 
-My logo [![logo](./img/logo/logo_rc.png)](./img/logo/logo_rc.svg) is inspired by traditional French cabinet builder estampille (stamp).
+My logo [![logo](./img/logo/logo_rc_solo.png)](./img/logo/logo_rc_solo.svg) is inspired by traditional French cabinet builder estampille (stamp).
